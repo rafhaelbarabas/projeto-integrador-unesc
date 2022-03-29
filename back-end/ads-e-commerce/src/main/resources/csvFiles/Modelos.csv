@@ -1,0 +1,10002 @@
+ID,description
+1,Zurich
+2,Charlotte
+3,Philadelphia
+4,Chicago
+5,Innsbruck
+6,Salem
+7,Minneapolis
+8,Lisbon
+9,Fremont
+10,Irving
+11,Norfolk
+12,Salt Lake City
+13,Arlington
+14,Bucharest
+15,Huntsville
+16,Springfield
+17,Springfield
+18,Chicago
+19,Louisville
+20,Toledo
+21,Laredo
+22,Santa Ana
+23,Escondido
+24,San Diego
+25,Miami
+26,Long Beach
+27,Boston
+28,Glendale
+29,Bakersfield
+30,Boston
+31,Bakersfield
+32,Boston
+33,Santa Ana
+34,Ontario
+35,Lyon
+36,Saint Paul
+37,Las Vegas
+38,San Jose
+39,Seattle
+40,Seattle
+41,Fremont
+42,Tulsa
+43,Albuquerque
+44,Berna
+45,Denver
+46,Jersey City
+47,Salem
+48,Jersey City
+49,San Jose
+50,Huntsville
+51,Columbus
+52,Ontario
+53,London
+54,Ontario
+55,Madrid
+56,San Diego
+57,Fremont
+58,St. Louis
+59,Milwaukee
+60,Berlin
+61,Lisbon
+62,Atlanta
+63,Huntsville
+64,Louisville
+65,Omaha
+66,Houston
+67,Washington
+68,Paris
+69,Norfolk
+70,Long Beach
+71,Miami
+72,Milwaukee
+73,Salt Lake City
+74,Tokyo
+75,Orlando
+76,Anaheim
+77,Worcester
+78,Glendale
+79,Louisville
+80,Kansas City
+81,Salt Lake City
+82,Fullerton
+83,Berna
+84,Laredo
+85,Lancaster
+86,Lisbon
+87,Portland
+88,Reno
+89,Pittsburgh
+90,Orlando
+91,Las Vegas
+92,Irving
+93,San Francisco
+94,Orlando
+95,Zurich
+96,Fort Lauderdale
+97,Anaheim
+98,Baltimore
+99,El Paso
+100,Madrid
+101,Huntsville
+102,Tokyo
+103,Tallahassee
+104,Fayetteville
+105,Madison
+106,Worcester
+107,Norfolk
+108,Minneapolis
+109,Lancaster
+110,Jacksonville
+111,Hollywood
+112,Santa Ana
+113,Honolulu
+114,Portland
+115,San Antonio
+116,Wien
+117,Wien
+118,Moreno Valley
+119,San Antonio
+120,Tulsa
+121,Huntsville
+122,Columbus
+123,Milano
+124,Murfreesboro
+125,Seattle
+126,Santa Ana
+127,Irving
+128,Dallas
+129,Otawa
+130,Long Beach
+131,Bucharest
+132,Colorado Springs
+133,Venice
+134,Lisbon
+135,Tallahassee
+136,Wien
+137,Pittsburgh
+138,London
+139,Otawa
+140,Tokyo
+141,Tokyo
+142,Milano
+143,Bakersfield
+144,Charlotte
+145,Madison
+146,Laredo
+147,Jacksonville
+148,New Orleans
+149,Sacramento
+150,Escondido
+151,Fayetteville
+152,Lakewood
+153,Hollywood
+154,Minneapolis
+155,Miami
+156,Washington
+157,Tulsa
+158,Moreno Valley
+159,Otawa
+160,Pittsburgh
+161,New York
+162,Long Beach
+163,Bridgeport
+164,Escondido
+165,Jacksonville
+166,Kansas City
+167,Glendale
+168,Philadelphia
+169,San Diego
+170,Prague
+171,London
+172,Pittsburgh
+173,Lincoln
+174,Jacksonville
+175,Atlanta
+176,Berna
+177,Oklahoma City
+178,Worcester
+179,Tokyo
+180,Kansas City
+181,Lyon
+182,Fort Lauderdale
+183,Hollywood
+184,Louisville
+185,Memphis
+186,Henderson
+187,Santa Ana
+188,Lancaster
+189,Worcester
+190,Venice
+191,Murfreesboro
+192,Huntsville
+193,Phoenix
+194,Lyon
+195,Fort Lauderdale
+196,Reno
+197,Detroit
+198,San Antonio
+199,Denver
+200,Tallahassee
+201,Long Beach
+202,Berlin
+203,Hollywood
+204,Charlotte
+205,New York
+206,London
+207,Hayward
+208,Albuquerque
+209,Glendale
+210,Quebec
+211,Hayward
+212,Las Vegas
+213,Reno
+214,Atlanta
+215,Phoenix
+216,Jacksonville
+217,Minneapolis
+218,Innsbruck
+219,Milwaukee
+220,Bridgeport
+221,Louisville
+222,Salem
+223,Garland
+224,Columbus
+225,Albuquerque
+226,Miami
+227,Quebec
+228,Tokyo
+229,Dallas
+230,Colorado Springs
+231,Columbus
+232,Otawa
+233,Springfield
+234,Jacksonville
+235,Philadelphia
+236,Salt Lake City
+237,Richmond
+238,Wien
+239,Oklahoma City
+240,Lakewood
+241,Nashville
+242,Worcester
+243,Jacksonville
+244,Omaha
+245,Fort Lauderdale
+246,Tulsa
+247,Albuquerque
+248,Paris
+249,Long Beach
+250,San Francisco
+251,Seattle
+252,Columbus
+253,Colorado Springs
+254,Atlanta
+255,San Bernardino
+256,Salt Lake City
+257,Anaheim
+258,London
+259,Oakland
+260,Miami
+261,Seattle
+262,Jacksonville
+263,Worcester
+264,Wien
+265,San Jose
+266,Stockton
+267,Tulsa
+268,Amarillo
+269,Fremont
+270,Worcester
+271,Anaheim
+272,Escondido
+273,Cincinnati
+274,Richmond
+275,Long Beach
+276,Detroit
+277,Miami
+278,Cincinnati
+279,Orlando
+280,Irving
+281,Salem
+282,Portland
+283,Reno
+284,Escondido
+285,Louisville
+286,Bucharest
+287,Charlotte
+288,Huntsville
+289,Berlin
+290,Houston
+291,Milano
+292,Jacksonville
+293,San Francisco
+294,Lincoln
+295,Atlanta
+296,New Orleans
+297,Bucharest
+298,Reno
+299,Bellevue
+300,Lyon
+301,Quebec
+302,Tallahassee
+303,Tulsa
+304,Houston
+305,Los Angeles
+306,Toledo
+307,El Paso
+308,Anaheim
+309,Bellevue
+310,Lyon
+311,Bridgeport
+312,Honolulu
+313,Berlin
+314,Milwaukee
+315,Albuquerque
+316,Tulsa
+317,Wien
+318,Garland
+319,Dallas
+320,Valetta
+321,Kansas City
+322,Anaheim
+323,Milwaukee
+324,Philadelphia
+325,Toledo
+326,San Bernardino
+327,Charlotte
+328,Phoenix
+329,Sacramento
+330,Baltimore
+331,Detroit
+332,Los Angeles
+333,San Diego
+334,Miami
+335,Irving
+336,Venice
+337,Escondido
+338,Venice
+339,Tulsa
+340,Washington
+341,Stockton
+342,Garland
+343,Houston
+344,Honolulu
+345,Salt Lake City
+346,Saint Paul
+347,San Bernardino
+348,Long Beach
+349,Portland
+350,Fullerton
+351,Chicago
+352,Otawa
+353,Fayetteville
+354,Houston
+355,Hayward
+356,Madrid
+357,Jersey City
+358,Phoenix
+359,Irving
+360,El Paso
+361,Bellevue
+362,Kansas City
+363,Las Vegas
+364,Seattle
+365,Bellevue
+366,Charlotte
+367,Minneapolis
+368,Orlando
+369,Seattle
+370,Tallahassee
+371,Arlington
+372,Salt Lake City
+373,Moreno Valley
+374,Washington
+375,Escondido
+376,New York
+377,San Bernardino
+378,Fort Lauderdale
+379,Houston
+380,Atlanta
+381,Bucharest
+382,Saint Paul
+383,Detroit
+384,Otawa
+385,Nashville
+386,Richmond
+387,Sacramento
+388,Santa Ana
+389,Dallas
+390,Tallahassee
+391,Oakland
+392,Columbus
+393,Tallahassee
+394,Sacramento
+395,Richmond
+396,Berlin
+397,Long Beach
+398,Madrid
+399,Cincinnati
+400,Rochester
+401,Jersey City
+402,San Jose
+403,Fullerton
+404,San Diego
+405,Otawa
+406,Seattle
+407,Amarillo
+408,Moreno Valley
+409,Chicago
+410,Berlin
+411,Rome
+412,Stockton
+413,Charlotte
+414,Laredo
+415,El Paso
+416,Worcester
+417,San Francisco
+418,Arlington
+419,Wien
+420,Lyon
+421,Memphis
+422,San Diego
+423,Portland
+424,Bakersfield
+425,Omaha
+426,Sacramento
+427,Portland
+428,Bakersfield
+429,Bellevue
+430,Seattle
+431,Worcester
+432,Madison
+433,Valetta
+434,Omaha
+435,Jersey City
+436,Columbus
+437,Fremont
+438,Escondido
+439,Quebec
+440,Amarillo
+441,Boston
+442,New York
+443,Nashville
+444,Los Angeles
+445,Prague
+446,Scottsdale
+447,Phoenix
+448,Bakersfield
+449,Jacksonville
+450,Scottsdale
+451,San Diego
+452,Wien
+453,Washington
+454,Reno
+455,Huntsville
+456,Otawa
+457,Worcester
+458,Philadelphia
+459,Hollywood
+460,Milwaukee
+461,Tulsa
+462,Detroit
+463,Saint Paul
+464,Salt Lake City
+465,Long Beach
+466,Wien
+467,Reno
+468,San Francisco
+469,Huntsville
+470,Escondido
+471,Amarillo
+472,Fayetteville
+473,Arlington
+474,Stockton
+475,San Antonio
+476,San Francisco
+477,Innsbruck
+478,Toledo
+479,Zurich
+480,Norfolk
+481,Hollywood
+482,Cincinnati
+483,Washington
+484,Scottsdale
+485,Hayward
+486,Murfreesboro
+487,Denver
+488,Otawa
+489,Dallas
+490,Tulsa
+491,Milwaukee
+492,Houston
+493,Garland
+494,Norfolk
+495,San Jose
+496,San Francisco
+497,Nashville
+498,Kansas City
+499,San Jose
+500,Pittsburgh
+501,Lakewood
+502,Washington
+503,Laredo
+504,Milano
+505,Dallas
+506,Chicago
+507,Baltimore
+508,Boston
+509,Berlin
+510,Worcester
+511,Miami
+512,Chicago
+513,Murfreesboro
+514,Quebec
+515,Tokyo
+516,Hayward
+517,Rome
+518,Quebec
+519,Garland
+520,Hayward
+521,Berlin
+522,Lyon
+523,Cincinnati
+524,Madrid
+525,Jersey City
+526,Paris
+527,Jacksonville
+528,Escondido
+529,Cincinnati
+530,Berna
+531,Tokyo
+532,Tokyo
+533,Otawa
+534,Irving
+535,Salt Lake City
+536,Irving
+537,San Diego
+538,Portland
+539,Amarillo
+540,Long Beach
+541,Cincinnati
+542,Amarillo
+543,Santa Ana
+544,Wien
+545,Toledo
+546,San Diego
+547,Jersey City
+548,Escondido
+549,Huntsville
+550,Worcester
+551,Glendale
+552,St. Louis
+553,New York
+554,Scottsdale
+555,Colorado Springs
+556,Philadelphia
+557,Saint Paul
+558,Colorado Springs
+559,Jersey City
+560,Orlando
+561,Oakland
+562,Oklahoma City
+563,Chicago
+564,Orlando
+565,New Orleans
+566,Valetta
+567,Santa Ana
+568,Detroit
+569,New York
+570,London
+571,Arlington
+572,Oakland
+573,Fayetteville
+574,Fullerton
+575,Bakersfield
+576,Las Vegas
+577,Salem
+578,Sacramento
+579,Garland
+580,Otawa
+581,Huntsville
+582,Chicago
+583,San Francisco
+584,Richmond
+585,Lancaster
+586,Los Angeles
+587,Denver
+588,Salt Lake City
+589,Honolulu
+590,Jersey City
+591,Fayetteville
+592,Jacksonville
+593,Scottsdale
+594,Chicago
+595,Fremont
+596,Boston
+597,Orlando
+598,Washington
+599,Rome
+600,Phoenix
+601,Jacksonville
+602,San Jose
+603,Madrid
+604,San Diego
+605,Nashville
+606,Fort Lauderdale
+607,Innsbruck
+608,Amarillo
+609,Milano
+610,San Antonio
+611,Fremont
+612,Amarillo
+613,Chicago
+614,Tulsa
+615,Rome
+616,Albuquerque
+617,Richmond
+618,Long Beach
+619,San Bernardino
+620,Baltimore
+621,Arlington
+622,Phoenix
+623,Fullerton
+624,Sacramento
+625,St. Louis
+626,Milano
+627,Stockton
+628,Scottsdale
+629,Long Beach
+630,El Paso
+631,Oklahoma City
+632,Berlin
+633,Fort Lauderdale
+634,Anaheim
+635,Huntsville
+636,Rome
+637,Bakersfield
+638,Baltimore
+639,Detroit
+640,Chicago
+641,Atlanta
+642,Kansas City
+643,Anaheim
+644,Ontario
+645,Lancaster
+646,Fort Lauderdale
+647,Escondido
+648,Milwaukee
+649,Venice
+650,Valetta
+651,Wien
+652,Fort Lauderdale
+653,Orlando
+654,Cincinnati
+655,Valetta
+656,Toledo
+657,Indianapolis
+658,Cincinnati
+659,Jersey City
+660,Hayward
+661,Lyon
+662,Sacramento
+663,Columbus
+664,Columbus
+665,St. Louis
+666,Reno
+667,San Antonio
+668,Philadelphia
+669,Anaheim
+670,Quebec
+671,Stockton
+672,Zurich
+673,Chicago
+674,London
+675,St. Louis
+676,Wien
+677,Lincoln
+678,El Paso
+679,Lincoln
+680,Laredo
+681,Kansas City
+682,Ontario
+683,Fremont
+684,Huntsville
+685,Hayward
+686,Seattle
+687,Berna
+688,Valetta
+689,Boston
+690,Glendale
+691,Toledo
+692,London
+693,Tulsa
+694,Lisbon
+695,Orlando
+696,Glendale
+697,Saint Paul
+698,Lyon
+699,Jacksonville
+700,Honolulu
+701,Long Beach
+702,Louisville
+703,Louisville
+704,Venice
+705,Escondido
+706,Reno
+707,Bridgeport
+708,Ontario
+709,Springfield
+710,Zurich
+711,Tokyo
+712,San Diego
+713,Phoenix
+714,Ontario
+715,Lancaster
+716,Huntsville
+717,Lisbon
+718,Phoenix
+719,Colorado Springs
+720,Huntsville
+721,Tallahassee
+722,San Jose
+723,Sacramento
+724,Colorado Springs
+725,Berlin
+726,Prague
+727,Baltimore
+728,Miami
+729,Charlotte
+730,Orlando
+731,Madison
+732,Milwaukee
+733,Salt Lake City
+734,Richmond
+735,Detroit
+736,Colorado Springs
+737,Irving
+738,Phoenix
+739,Dallas
+740,Salt Lake City
+741,Cincinnati
+742,San Francisco
+743,Hollywood
+744,Philadelphia
+745,Baltimore
+746,New Orleans
+747,Oakland
+748,Madison
+749,Louisville
+750,New Orleans
+751,Hayward
+752,Berlin
+753,Innsbruck
+754,Glendale
+755,Anaheim
+756,Huntsville
+757,Houston
+758,Fremont
+759,Tokyo
+760,Tulsa
+761,Berlin
+762,Rochester
+763,Bellevue
+764,Fullerton
+765,Lakewood
+766,Quebec
+767,Berna
+768,Murfreesboro
+769,Innsbruck
+770,Portland
+771,Arlington
+772,Minneapolis
+773,Tokyo
+774,Irving
+775,Boston
+776,Berlin
+777,Louisville
+778,Baltimore
+779,Hollywood
+780,London
+781,Tokyo
+782,Long Beach
+783,Tokyo
+784,London
+785,Dallas
+786,San Diego
+787,Baltimore
+788,Arlington
+789,New Orleans
+790,Berlin
+791,Lisbon
+792,Milwaukee
+793,Dallas
+794,Bakersfield
+795,Kansas City
+796,Rome
+797,Rochester
+798,Lisbon
+799,Hollywood
+800,Baltimore
+801,Toledo
+802,Paris
+803,Innsbruck
+804,Saint Paul
+805,Arlington
+806,Madison
+807,Lakewood
+808,Omaha
+809,Anaheim
+810,Oakland
+811,Murfreesboro
+812,Las Vegas
+813,Bridgeport
+814,Irving
+815,Oklahoma City
+816,Worcester
+817,Richmond
+818,Santa Ana
+819,Washington
+820,Washington
+821,Kansas City
+822,Laredo
+823,Hollywood
+824,Washington
+825,San Antonio
+826,Salem
+827,Oakland
+828,Amarillo
+829,Madison
+830,Pittsburgh
+831,Reno
+832,San Jose
+833,San Antonio
+834,Paris
+835,Escondido
+836,San Bernardino
+837,Bakersfield
+838,Miami
+839,Stockton
+840,Bellevue
+841,Phoenix
+842,Innsbruck
+843,Bridgeport
+844,Portland
+845,San Jose
+846,Wien
+847,London
+848,Norfolk
+849,Saint Paul
+850,Fremont
+851,Seattle
+852,Valetta
+853,Oakland
+854,Sacramento
+855,Saint Paul
+856,Berlin
+857,Kansas City
+858,Berlin
+859,Santa Ana
+860,Tokyo
+861,Jacksonville
+862,Huntsville
+863,Bakersfield
+864,Amarillo
+865,Hollywood
+866,Stockton
+867,Richmond
+868,Orlando
+869,London
+870,Sacramento
+871,Chicago
+872,Oakland
+873,Phoenix
+874,Richmond
+875,Bridgeport
+876,Las Vegas
+877,Rome
+878,Bellevue
+879,Charlotte
+880,Prague
+881,Detroit
+882,Cincinnati
+883,Zurich
+884,Glendale
+885,Nashville
+886,Nashville
+887,Otawa
+888,Richmond
+889,Saint Paul
+890,Seattle
+891,Bridgeport
+892,Paris
+893,Irving
+894,Fayetteville
+895,Madrid
+896,Prague
+897,Fort Lauderdale
+898,Oakland
+899,Glendale
+900,Tallahassee
+901,New York
+902,Charlotte
+903,Saint Paul
+904,Amarillo
+905,Richmond
+906,Irving
+907,Los Angeles
+908,San Diego
+909,Lyon
+910,Fremont
+911,London
+912,Tokyo
+913,Bucharest
+914,Tokyo
+915,Rochester
+916,Lincoln
+917,Worcester
+918,Memphis
+919,Anaheim
+920,Phoenix
+921,Springfield
+922,Quebec
+923,Lakewood
+924,Lyon
+925,Quebec
+926,Garland
+927,Tokyo
+928,Columbus
+929,Houston
+930,New York
+931,Glendale
+932,Portland
+933,Washington
+934,Dallas
+935,Detroit
+936,Huntsville
+937,Fort Lauderdale
+938,Louisville
+939,Pittsburgh
+940,Dallas
+941,Worcester
+942,Fort Lauderdale
+943,Fort Lauderdale
+944,Las Vegas
+945,Hollywood
+946,Lancaster
+947,Paris
+948,Fremont
+949,El Paso
+950,Minneapolis
+951,Bellevue
+952,El Paso
+953,Ontario
+954,Richmond
+955,San Bernardino
+956,New York
+957,Tokyo
+958,Scottsdale
+959,Huntsville
+960,San Bernardino
+961,Fremont
+962,Fort Lauderdale
+963,Santa Ana
+964,Salt Lake City
+965,Santa Ana
+966,San Diego
+967,Reno
+968,San Francisco
+969,Rochester
+970,Memphis
+971,Berlin
+972,Richmond
+973,Omaha
+974,Norfolk
+975,Salt Lake City
+976,Escondido
+977,Philadelphia
+978,Berlin
+979,Lisbon
+980,Madrid
+981,Salt Lake City
+982,Louisville
+983,Reno
+984,Louisville
+985,Los Angeles
+986,Fullerton
+987,Prague
+988,Bellevue
+989,Santa Ana
+990,Venice
+991,Honolulu
+992,San Diego
+993,Chicago
+994,Glendale
+995,Lyon
+996,Berna
+997,Zurich
+998,Milwaukee
+999,Laredo
+1000,Indianapolis
+1001,New York
+1002,Portland
+1003,Indianapolis
+1004,Fremont
+1005,Springfield
+1006,Quebec
+1007,Nashville
+1008,Bakersfield
+1009,Lincoln
+1010,Omaha
+1011,Milwaukee
+1012,Fort Lauderdale
+1013,Omaha
+1014,Tulsa
+1015,Prague
+1016,Albuquerque
+1017,Springfield
+1018,London
+1019,Seattle
+1020,Glendale
+1021,Hayward
+1022,Tulsa
+1023,Omaha
+1024,Jersey City
+1025,Seattle
+1026,San Francisco
+1027,Phoenix
+1028,Los Angeles
+1029,Las Vegas
+1030,Sacramento
+1031,Amarillo
+1032,Glendale
+1033,Los Angeles
+1034,Scottsdale
+1035,Milano
+1036,Tallahassee
+1037,Norfolk
+1038,Ontario
+1039,Hollywood
+1040,Los Angeles
+1041,Dallas
+1042,Dallas
+1043,Stockton
+1044,Salem
+1045,Berlin
+1046,Moreno Valley
+1047,Hollywood
+1048,Amarillo
+1049,Toledo
+1050,Santa Ana
+1051,Lisbon
+1052,Las Vegas
+1053,Sacramento
+1054,Long Beach
+1055,Lancaster
+1056,Zurich
+1057,Arlington
+1058,Rochester
+1059,Arlington
+1060,Fayetteville
+1061,Long Beach
+1062,Scottsdale
+1063,Fort Lauderdale
+1064,San Jose
+1065,Anaheim
+1066,Rochester
+1067,San Jose
+1068,Norfolk
+1069,Wien
+1070,Madison
+1071,Innsbruck
+1072,Minneapolis
+1073,San Jose
+1074,Dallas
+1075,Kansas City
+1076,Laredo
+1077,Indianapolis
+1078,Minneapolis
+1079,Long Beach
+1080,Lancaster
+1081,London
+1082,Los Angeles
+1083,Dallas
+1084,Laredo
+1085,Dallas
+1086,Norfolk
+1087,Paris
+1088,Valetta
+1089,Las Vegas
+1090,Fort Lauderdale
+1091,Lyon
+1092,Santa Ana
+1093,Hayward
+1094,Charlotte
+1095,San Jose
+1096,Wien
+1097,Oklahoma City
+1098,Reno
+1099,Lancaster
+1100,Reno
+1101,Zurich
+1102,Lyon
+1103,Lakewood
+1104,Anaheim
+1105,San Diego
+1106,Phoenix
+1107,Worcester
+1108,Lyon
+1109,Henderson
+1110,Berna
+1111,Berlin
+1112,Huntsville
+1113,San Bernardino
+1114,Bridgeport
+1115,Otawa
+1116,Saint Paul
+1117,Amarillo
+1118,Fullerton
+1119,Moreno Valley
+1120,Dallas
+1121,Lyon
+1122,Bucharest
+1123,Quebec
+1124,Huntsville
+1125,Miami
+1126,Miami
+1127,Murfreesboro
+1128,Chicago
+1129,Jersey City
+1130,Denver
+1131,Irving
+1132,Reno
+1133,Los Angeles
+1134,Lancaster
+1135,Arlington
+1136,San Francisco
+1137,Philadelphia
+1138,Lyon
+1139,Anaheim
+1140,Fullerton
+1141,Valetta
+1142,Bellevue
+1143,Tallahassee
+1144,Rome
+1145,Albuquerque
+1146,Ontario
+1147,Amarillo
+1148,Laredo
+1149,Salem
+1150,Baltimore
+1151,Stockton
+1152,Tulsa
+1153,Las Vegas
+1154,Las Vegas
+1155,Oakland
+1156,San Francisco
+1157,Quebec
+1158,Venice
+1159,Bellevue
+1160,Bakersfield
+1161,Bellevue
+1162,Bakersfield
+1163,Jacksonville
+1164,Hollywood
+1165,Jacksonville
+1166,Kansas City
+1167,Kansas City
+1168,Innsbruck
+1169,London
+1170,Long Beach
+1171,Los Angeles
+1172,Charlotte
+1173,Minneapolis
+1174,Baltimore
+1175,Innsbruck
+1176,Detroit
+1177,Reno
+1178,Madison
+1179,Oakland
+1180,Seattle
+1181,Murfreesboro
+1182,Zurich
+1183,Memphis
+1184,Berna
+1185,Lisbon
+1186,Henderson
+1187,Moreno Valley
+1188,Houston
+1189,Berlin
+1190,Berlin
+1191,Zurich
+1192,Charlotte
+1193,San Bernardino
+1194,Murfreesboro
+1195,Baltimore
+1196,Nashville
+1197,San Jose
+1198,Escondido
+1199,Houston
+1200,Lisbon
+1201,El Paso
+1202,Otawa
+1203,Santa Ana
+1204,Honolulu
+1205,Fayetteville
+1206,Rochester
+1207,Boston
+1208,Laredo
+1209,Cincinnati
+1210,San Bernardino
+1211,Dallas
+1212,New Orleans
+1213,Innsbruck
+1214,Baltimore
+1215,Scottsdale
+1216,San Antonio
+1217,Detroit
+1218,Long Beach
+1219,Fullerton
+1220,Dallas
+1221,Miami
+1222,Indianapolis
+1223,Washington
+1224,Madison
+1225,Norfolk
+1226,San Antonio
+1227,Fayetteville
+1228,Hayward
+1229,Bucharest
+1230,Huntsville
+1231,Miami
+1232,Indianapolis
+1233,Reno
+1234,Pittsburgh
+1235,Milano
+1236,Hayward
+1237,Omaha
+1238,San Francisco
+1239,Seattle
+1240,Glendale
+1241,Charlotte
+1242,Worcester
+1243,Tokyo
+1244,Wien
+1245,Tallahassee
+1246,Hayward
+1247,Pittsburgh
+1248,Wien
+1249,Amarillo
+1250,Hollywood
+1251,Orlando
+1252,Fayetteville
+1253,Long Beach
+1254,Stockton
+1255,Worcester
+1256,Miami
+1257,London
+1258,Nashville
+1259,Charlotte
+1260,Arlington
+1261,Stockton
+1262,Madrid
+1263,Laredo
+1264,Santa Ana
+1265,San Jose
+1266,Boston
+1267,Hayward
+1268,Tulsa
+1269,St. Louis
+1270,Houston
+1271,Jersey City
+1272,Chicago
+1273,Fullerton
+1274,Henderson
+1275,Cincinnati
+1276,Lakewood
+1277,Madrid
+1278,Memphis
+1279,Kansas City
+1280,Richmond
+1281,Henderson
+1282,Lyon
+1283,Lakewood
+1284,Lyon
+1285,Orlando
+1286,Madrid
+1287,Bakersfield
+1288,Saint Paul
+1289,Stockton
+1290,Milwaukee
+1291,Berna
+1292,Jersey City
+1293,Berna
+1294,Salt Lake City
+1295,Cincinnati
+1296,Rome
+1297,Valetta
+1298,Memphis
+1299,Sacramento
+1300,Wien
+1301,Bucharest
+1302,Fort Lauderdale
+1303,Moreno Valley
+1304,Laredo
+1305,Los Angeles
+1306,Hollywood
+1307,Salt Lake City
+1308,Kansas City
+1309,San Jose
+1310,Otawa
+1311,Wien
+1312,Stockton
+1313,Stockton
+1314,Houston
+1315,Denver
+1316,Bakersfield
+1317,Murfreesboro
+1318,Bellevue
+1319,Washington
+1320,Lyon
+1321,Salt Lake City
+1322,Salem
+1323,Indianapolis
+1324,Tallahassee
+1325,Washington
+1326,Quebec
+1327,Tokyo
+1328,San Bernardino
+1329,Valetta
+1330,Rochester
+1331,Madison
+1332,Fort Lauderdale
+1333,Saint Paul
+1334,Fort Lauderdale
+1335,Bellevue
+1336,Hollywood
+1337,Arlington
+1338,Otawa
+1339,Tallahassee
+1340,Chicago
+1341,Escondido
+1342,New York
+1343,Kansas City
+1344,Louisville
+1345,Norfolk
+1346,Washington
+1347,Henderson
+1348,Pittsburgh
+1349,Las Vegas
+1350,Anaheim
+1351,Lyon
+1352,Innsbruck
+1353,Huntsville
+1354,Bridgeport
+1355,Fullerton
+1356,Jacksonville
+1357,Otawa
+1358,Madison
+1359,San Bernardino
+1360,Los Angeles
+1361,Amarillo
+1362,Jersey City
+1363,Baltimore
+1364,Kansas City
+1365,Salem
+1366,Charlotte
+1367,Murfreesboro
+1368,Norfolk
+1369,Saint Paul
+1370,Richmond
+1371,Glendale
+1372,Hayward
+1373,El Paso
+1374,Detroit
+1375,Los Angeles
+1376,Boston
+1377,Lisbon
+1378,Lyon
+1379,Garland
+1380,Bucharest
+1381,Lakewood
+1382,San Francisco
+1383,Honolulu
+1384,Colorado Springs
+1385,Paris
+1386,Salem
+1387,Boston
+1388,Venice
+1389,Laredo
+1390,Madrid
+1391,Escondido
+1392,Santa Ana
+1393,Detroit
+1394,Tulsa
+1395,New Orleans
+1396,Milwaukee
+1397,Bakersfield
+1398,Quebec
+1399,Paris
+1400,Lincoln
+1401,San Antonio
+1402,Denver
+1403,Toledo
+1404,San Antonio
+1405,Santa Ana
+1406,Kansas City
+1407,San Francisco
+1408,Toledo
+1409,Berlin
+1410,Moreno Valley
+1411,Moreno Valley
+1412,Pittsburgh
+1413,Paris
+1414,San Bernardino
+1415,San Bernardino
+1416,Scottsdale
+1417,Zurich
+1418,Lisbon
+1419,Lisbon
+1420,Quebec
+1421,Reno
+1422,Omaha
+1423,San Antonio
+1424,Boston
+1425,Philadelphia
+1426,Tokyo
+1427,Norfolk
+1428,Long Beach
+1429,St. Louis
+1430,Otawa
+1431,Salt Lake City
+1432,Lisbon
+1433,Glendale
+1434,Jersey City
+1435,Rochester
+1436,Los Angeles
+1437,Arlington
+1438,Ontario
+1439,Bucharest
+1440,Hollywood
+1441,Lakewood
+1442,Henderson
+1443,Milwaukee
+1444,Springfield
+1445,Fremont
+1446,Columbus
+1447,Lancaster
+1448,Hollywood
+1449,Otawa
+1450,Venice
+1451,Phoenix
+1452,Ontario
+1453,Hollywood
+1454,Paris
+1455,Minneapolis
+1456,Innsbruck
+1457,Minneapolis
+1458,Lakewood
+1459,Venice
+1460,Prague
+1461,Albuquerque
+1462,Lisbon
+1463,Colorado Springs
+1464,Boston
+1465,Dallas
+1466,Los Angeles
+1467,Detroit
+1468,Huntsville
+1469,Irving
+1470,Henderson
+1471,Washington
+1472,Arlington
+1473,Lisbon
+1474,Tokyo
+1475,Henderson
+1476,Saint Paul
+1477,Rome
+1478,Madrid
+1479,Worcester
+1480,Memphis
+1481,Springfield
+1482,Hollywood
+1483,Dallas
+1484,Zurich
+1485,Lisbon
+1486,Milwaukee
+1487,Tokyo
+1488,Bridgeport
+1489,Berlin
+1490,Venice
+1491,Madrid
+1492,Madrid
+1493,Fort Lauderdale
+1494,Jersey City
+1495,Houston
+1496,Detroit
+1497,Minneapolis
+1498,Portland
+1499,Colorado Springs
+1500,New York
+1501,Houston
+1502,Phoenix
+1503,Nashville
+1504,Worcester
+1505,Fremont
+1506,Louisville
+1507,Lincoln
+1508,Amarillo
+1509,Lincoln
+1510,Moreno Valley
+1511,Oakland
+1512,Fullerton
+1513,St. Louis
+1514,Otawa
+1515,Washington
+1516,Innsbruck
+1517,Madrid
+1518,Indianapolis
+1519,Rochester
+1520,Columbus
+1521,Otawa
+1522,Kansas City
+1523,Lisbon
+1524,Cincinnati
+1525,Los Angeles
+1526,Huntsville
+1527,Fort Lauderdale
+1528,Colorado Springs
+1529,Escondido
+1530,Escondido
+1531,Jersey City
+1532,Oakland
+1533,Columbus
+1534,Irving
+1535,Atlanta
+1536,Moreno Valley
+1537,Irving
+1538,Fayetteville
+1539,Reno
+1540,Columbus
+1541,Hollywood
+1542,Bakersfield
+1543,Saint Paul
+1544,Bellevue
+1545,Innsbruck
+1546,Springfield
+1547,Toledo
+1548,Indianapolis
+1549,Huntsville
+1550,Murfreesboro
+1551,Orlando
+1552,Berlin
+1553,Fremont
+1554,Laredo
+1555,Boston
+1556,San Diego
+1557,Bridgeport
+1558,Saint Paul
+1559,Glendale
+1560,Oakland
+1561,Tallahassee
+1562,Arlington
+1563,Sacramento
+1564,Jacksonville
+1565,Atlanta
+1566,Bucharest
+1567,San Francisco
+1568,Fremont
+1569,Kansas City
+1570,Omaha
+1571,Omaha
+1572,Nashville
+1573,Reno
+1574,Scottsdale
+1575,Anaheim
+1576,Columbus
+1577,Columbus
+1578,Philadelphia
+1579,Chicago
+1580,Nashville
+1581,Glendale
+1582,Otawa
+1583,Detroit
+1584,Houston
+1585,Hayward
+1586,Long Beach
+1587,Ontario
+1588,Springfield
+1589,Orlando
+1590,Amarillo
+1591,Bakersfield
+1592,Ontario
+1593,Salem
+1594,Quebec
+1595,Washington
+1596,Reno
+1597,Indianapolis
+1598,Portland
+1599,Sacramento
+1600,Jersey City
+1601,Fayetteville
+1602,Orlando
+1603,Innsbruck
+1604,San Francisco
+1605,Fullerton
+1606,Denver
+1607,Kansas City
+1608,Tokyo
+1609,San Diego
+1610,Lancaster
+1611,Venice
+1612,Colorado Springs
+1613,Stockton
+1614,Rome
+1615,Lakewood
+1616,Worcester
+1617,Louisville
+1618,New York
+1619,Fullerton
+1620,Laredo
+1621,Charlotte
+1622,Huntsville
+1623,Bellevue
+1624,Memphis
+1625,Orlando
+1626,Chicago
+1627,Toledo
+1628,Oakland
+1629,Arlington
+1630,New York
+1631,Bellevue
+1632,Colorado Springs
+1633,Boston
+1634,Salem
+1635,Innsbruck
+1636,London
+1637,Orlando
+1638,Milano
+1639,Baltimore
+1640,Irving
+1641,Fort Lauderdale
+1642,Tokyo
+1643,Lakewood
+1644,San Bernardino
+1645,Bucharest
+1646,Washington
+1647,Fullerton
+1648,Oakland
+1649,Fort Lauderdale
+1650,Prague
+1651,Garland
+1652,New Orleans
+1653,Philadelphia
+1654,Milano
+1655,Washington
+1656,Denver
+1657,Garland
+1658,Norfolk
+1659,New York
+1660,Madison
+1661,Wien
+1662,Milano
+1663,Colorado Springs
+1664,Bridgeport
+1665,Berna
+1666,Bellevue
+1667,Worcester
+1668,El Paso
+1669,Escondido
+1670,Milano
+1671,Stockton
+1672,Huntsville
+1673,Bakersfield
+1674,Escondido
+1675,Milwaukee
+1676,El Paso
+1677,Lincoln
+1678,St. Louis
+1679,Arlington
+1680,Denver
+1681,Rome
+1682,Madrid
+1683,Worcester
+1684,Murfreesboro
+1685,Columbus
+1686,Anaheim
+1687,Berlin
+1688,Reno
+1689,Berlin
+1690,Toledo
+1691,Toledo
+1692,Chicago
+1693,Scottsdale
+1694,Washington
+1695,Lancaster
+1696,Bridgeport
+1697,Memphis
+1698,Albuquerque
+1699,Louisville
+1700,Portland
+1701,Prague
+1702,Ontario
+1703,Louisville
+1704,Dallas
+1705,Fremont
+1706,San Francisco
+1707,Indianapolis
+1708,Scottsdale
+1709,Miami
+1710,Berna
+1711,Bakersfield
+1712,Hollywood
+1713,Reno
+1714,Moreno Valley
+1715,Venice
+1716,Phoenix
+1717,Berlin
+1718,Arlington
+1719,Lincoln
+1720,Hayward
+1721,Memphis
+1722,San Bernardino
+1723,Norfolk
+1724,Kansas City
+1725,Valetta
+1726,Fremont
+1727,Zurich
+1728,Colorado Springs
+1729,Phoenix
+1730,Madrid
+1731,Anaheim
+1732,Portland
+1733,Honolulu
+1734,Berna
+1735,Valetta
+1736,Miami
+1737,Las Vegas
+1738,Huntsville
+1739,El Paso
+1740,Innsbruck
+1741,Paris
+1742,Long Beach
+1743,Arlington
+1744,Orlando
+1745,Bucharest
+1746,Bakersfield
+1747,Jacksonville
+1748,Glendale
+1749,London
+1750,Huntsville
+1751,Los Angeles
+1752,Bucharest
+1753,Laredo
+1754,Saint Paul
+1755,Worcester
+1756,Honolulu
+1757,Bakersfield
+1758,Boston
+1759,Innsbruck
+1760,Bucharest
+1761,Lyon
+1762,Sacramento
+1763,New York
+1764,Fayetteville
+1765,Portland
+1766,Arlington
+1767,Toledo
+1768,Tallahassee
+1769,Zurich
+1770,Atlanta
+1771,Oakland
+1772,Hollywood
+1773,London
+1774,San Antonio
+1775,Dallas
+1776,Charlotte
+1777,Saint Paul
+1778,Oklahoma City
+1779,Boston
+1780,Nashville
+1781,Philadelphia
+1782,Oklahoma City
+1783,Valetta
+1784,Moreno Valley
+1785,Bridgeport
+1786,Anaheim
+1787,Bridgeport
+1788,St. Louis
+1789,Lakewood
+1790,Murfreesboro
+1791,Zurich
+1792,Moreno Valley
+1793,Otawa
+1794,Honolulu
+1795,Salem
+1796,Rome
+1797,Springfield
+1798,Rochester
+1799,Dallas
+1800,Cincinnati
+1801,Quebec
+1802,Atlanta
+1803,Chicago
+1804,Lakewood
+1805,Albuquerque
+1806,Moreno Valley
+1807,Lancaster
+1808,Seattle
+1809,Venice
+1810,Bridgeport
+1811,Garland
+1812,Scottsdale
+1813,Quebec
+1814,Huntsville
+1815,Fort Lauderdale
+1816,Atlanta
+1817,Memphis
+1818,Richmond
+1819,Springfield
+1820,Kansas City
+1821,Lancaster
+1822,Colorado Springs
+1823,San Jose
+1824,Glendale
+1825,Denver
+1826,Fullerton
+1827,Escondido
+1828,Milano
+1829,Scottsdale
+1830,Salt Lake City
+1831,Milano
+1832,Valetta
+1833,Lakewood
+1834,Chicago
+1835,St. Louis
+1836,Seattle
+1837,Lisbon
+1838,Rome
+1839,Rome
+1840,Honolulu
+1841,Quebec
+1842,Escondido
+1843,Zurich
+1844,Albuquerque
+1845,Albuquerque
+1846,Houston
+1847,Prague
+1848,Jacksonville
+1849,Houston
+1850,Cincinnati
+1851,Arlington
+1852,Tallahassee
+1853,Houston
+1854,Indianapolis
+1855,Salt Lake City
+1856,Albuquerque
+1857,Bakersfield
+1858,Bridgeport
+1859,Cincinnati
+1860,Arlington
+1861,Madison
+1862,Henderson
+1863,Santa Ana
+1864,Detroit
+1865,Richmond
+1866,Honolulu
+1867,Oakland
+1868,Rome
+1869,Anaheim
+1870,Jacksonville
+1871,Chicago
+1872,Los Angeles
+1873,Fremont
+1874,Rome
+1875,Rochester
+1876,Long Beach
+1877,Springfield
+1878,Paris
+1879,Lancaster
+1880,London
+1881,Boston
+1882,Murfreesboro
+1883,Los Angeles
+1884,Philadelphia
+1885,Detroit
+1886,Albuquerque
+1887,Dallas
+1888,Berna
+1889,Seattle
+1890,Ontario
+1891,Arlington
+1892,London
+1893,Baltimore
+1894,Memphis
+1895,Springfield
+1896,El Paso
+1897,Atlanta
+1898,Oklahoma City
+1899,Wien
+1900,Washington
+1901,Wien
+1902,Albuquerque
+1903,Denver
+1904,Hollywood
+1905,Innsbruck
+1906,New Orleans
+1907,Bridgeport
+1908,Salem
+1909,Innsbruck
+1910,Colorado Springs
+1911,Baltimore
+1912,Charlotte
+1913,Milwaukee
+1914,Minneapolis
+1915,Wien
+1916,Venice
+1917,Madrid
+1918,Charlotte
+1919,Bucharest
+1920,Amarillo
+1921,Jersey City
+1922,Arlington
+1923,Richmond
+1924,Tulsa
+1925,Atlanta
+1926,Bakersfield
+1927,Huntsville
+1928,Seattle
+1929,Salt Lake City
+1930,Nashville
+1931,Portland
+1932,Charlotte
+1933,Stockton
+1934,Escondido
+1935,Washington
+1936,Hollywood
+1937,Seattle
+1938,Prague
+1939,Anaheim
+1940,St. Louis
+1941,Worcester
+1942,Valetta
+1943,Kansas City
+1944,Saint Paul
+1945,Escondido
+1946,Zurich
+1947,Minneapolis
+1948,Miami
+1949,Kansas City
+1950,Madison
+1951,Milano
+1952,Worcester
+1953,Oklahoma City
+1954,Henderson
+1955,Ontario
+1956,Santa Ana
+1957,Wien
+1958,Saint Paul
+1959,Milano
+1960,Denver
+1961,Lancaster
+1962,Tallahassee
+1963,Henderson
+1964,Huntsville
+1965,Venice
+1966,Lakewood
+1967,Baltimore
+1968,Prague
+1969,Lisbon
+1970,Fayetteville
+1971,Worcester
+1972,Bridgeport
+1973,St. Louis
+1974,Otawa
+1975,San Francisco
+1976,Detroit
+1977,Wien
+1978,Omaha
+1979,Arlington
+1980,Richmond
+1981,Moreno Valley
+1982,Madison
+1983,Laredo
+1984,Fremont
+1985,Hayward
+1986,Jersey City
+1987,Valetta
+1988,Hollywood
+1989,Boston
+1990,Rome
+1991,Charlotte
+1992,Colorado Springs
+1993,Memphis
+1994,Madison
+1995,Otawa
+1996,Garland
+1997,Tallahassee
+1998,Tallahassee
+1999,Dallas
+2000,Valetta
+2001,Tulsa
+2002,Columbus
+2003,Indianapolis
+2004,Henderson
+2005,New York
+2006,Detroit
+2007,Tallahassee
+2008,Hayward
+2009,Houston
+2010,Salem
+2011,Los Angeles
+2012,Atlanta
+2013,Long Beach
+2014,Minneapolis
+2015,Madrid
+2016,Fort Lauderdale
+2017,Salt Lake City
+2018,Atlanta
+2019,Salt Lake City
+2020,Otawa
+2021,Madison
+2022,San Antonio
+2023,Rome
+2024,Milano
+2025,Richmond
+2026,Baltimore
+2027,San Jose
+2028,Portland
+2029,Bucharest
+2030,Fayetteville
+2031,Omaha
+2032,Santa Ana
+2033,Charlotte
+2034,San Bernardino
+2035,Columbus
+2036,Richmond
+2037,Tokyo
+2038,Lincoln
+2039,Los Angeles
+2040,Norfolk
+2041,Norfolk
+2042,Scottsdale
+2043,Salem
+2044,Norfolk
+2045,Baltimore
+2046,Springfield
+2047,Berna
+2048,Berlin
+2049,Toledo
+2050,Omaha
+2051,Rochester
+2052,Colorado Springs
+2053,Laredo
+2054,Amarillo
+2055,Amarillo
+2056,Prague
+2057,Fayetteville
+2058,Amarillo
+2059,Norfolk
+2060,Bakersfield
+2061,Berna
+2062,Berna
+2063,Hayward
+2064,Otawa
+2065,Irving
+2066,Amarillo
+2067,Scottsdale
+2068,Madison
+2069,Prague
+2070,Innsbruck
+2071,Bakersfield
+2072,Wien
+2073,Jacksonville
+2074,Henderson
+2075,Cincinnati
+2076,El Paso
+2077,Scottsdale
+2078,Tulsa
+2079,Pittsburgh
+2080,Los Angeles
+2081,Zurich
+2082,Chicago
+2083,Prague
+2084,Indianapolis
+2085,El Paso
+2086,Santa Ana
+2087,Anaheim
+2088,Norfolk
+2089,Charlotte
+2090,Philadelphia
+2091,Ontario
+2092,Bakersfield
+2093,Ontario
+2094,Fremont
+2095,Rome
+2096,Rome
+2097,Jacksonville
+2098,Rome
+2099,Nashville
+2100,San Bernardino
+2101,Glendale
+2102,Norfolk
+2103,Laredo
+2104,Detroit
+2105,Madison
+2106,Henderson
+2107,Quebec
+2108,Tokyo
+2109,Albuquerque
+2110,Lincoln
+2111,Richmond
+2112,Rome
+2113,Memphis
+2114,Innsbruck
+2115,Prague
+2116,Las Vegas
+2117,Oakland
+2118,Madrid
+2119,Hayward
+2120,El Paso
+2121,Washington
+2122,Columbus
+2123,Tulsa
+2124,El Paso
+2125,Bellevue
+2126,Bucharest
+2127,Hollywood
+2128,Fort Lauderdale
+2129,Columbus
+2130,Rochester
+2131,Stockton
+2132,Lincoln
+2133,Innsbruck
+2134,Portland
+2135,Honolulu
+2136,London
+2137,Nashville
+2138,Honolulu
+2139,Las Vegas
+2140,Moreno Valley
+2141,Colorado Springs
+2142,Worcester
+2143,Houston
+2144,Lakewood
+2145,Oakland
+2146,San Diego
+2147,Detroit
+2148,Glendale
+2149,Honolulu
+2150,Omaha
+2151,Portland
+2152,Madrid
+2153,Reno
+2154,Indianapolis
+2155,New Orleans
+2156,Innsbruck
+2157,Springfield
+2158,Garland
+2159,Pittsburgh
+2160,Madison
+2161,Denver
+2162,Lakewood
+2163,Indianapolis
+2164,Lisbon
+2165,Amarillo
+2166,Salt Lake City
+2167,Escondido
+2168,Springfield
+2169,Zurich
+2170,Seattle
+2171,Sacramento
+2172,San Antonio
+2173,Louisville
+2174,Fayetteville
+2175,Bakersfield
+2176,Prague
+2177,Detroit
+2178,Phoenix
+2179,Paris
+2180,Columbus
+2181,Richmond
+2182,Richmond
+2183,Jersey City
+2184,Milwaukee
+2185,Seattle
+2186,Los Angeles
+2187,Minneapolis
+2188,Baltimore
+2189,Garland
+2190,Bridgeport
+2191,Venice
+2192,Lyon
+2193,Boston
+2194,Milano
+2195,Columbus
+2196,Berlin
+2197,Denver
+2198,Los Angeles
+2199,Huntsville
+2200,Saint Paul
+2201,Arlington
+2202,Springfield
+2203,Chicago
+2204,Murfreesboro
+2205,Berlin
+2206,Lyon
+2207,Las Vegas
+2208,Bridgeport
+2209,Long Beach
+2210,Santa Ana
+2211,San Jose
+2212,Moreno Valley
+2213,Stockton
+2214,Ontario
+2215,Washington
+2216,Bucharest
+2217,Anaheim
+2218,Valetta
+2219,Sacramento
+2220,Boston
+2221,Jacksonville
+2222,Chicago
+2223,Henderson
+2224,Otawa
+2225,Louisville
+2226,Dallas
+2227,Saint Paul
+2228,Charlotte
+2229,Orlando
+2230,Rochester
+2231,Columbus
+2232,Salt Lake City
+2233,Prague
+2234,Scottsdale
+2235,Minneapolis
+2236,Cincinnati
+2237,Irving
+2238,Cincinnati
+2239,Henderson
+2240,Zurich
+2241,Houston
+2242,Otawa
+2243,Madison
+2244,Atlanta
+2245,Memphis
+2246,Rochester
+2247,New York
+2248,Fort Lauderdale
+2249,Laredo
+2250,Columbus
+2251,Escondido
+2252,Los Angeles
+2253,Fayetteville
+2254,Cincinnati
+2255,Portland
+2256,Colorado Springs
+2257,Garland
+2258,Colorado Springs
+2259,Bakersfield
+2260,Tallahassee
+2261,Springfield
+2262,Tokyo
+2263,Paris
+2264,Denver
+2265,Rochester
+2266,Escondido
+2267,Quebec
+2268,Rome
+2269,Prague
+2270,Saint Paul
+2271,Long Beach
+2272,New York
+2273,Tallahassee
+2274,Nashville
+2275,Miami
+2276,Ontario
+2277,Lyon
+2278,Anaheim
+2279,Indianapolis
+2280,Salem
+2281,Los Angeles
+2282,Orlando
+2283,Moreno Valley
+2284,San Bernardino
+2285,New York
+2286,Philadelphia
+2287,Tokyo
+2288,Lisbon
+2289,Moreno Valley
+2290,San Diego
+2291,Indianapolis
+2292,El Paso
+2293,Anaheim
+2294,San Bernardino
+2295,Huntsville
+2296,Reno
+2297,Oklahoma City
+2298,Long Beach
+2299,Nashville
+2300,Norfolk
+2301,Rochester
+2302,Seattle
+2303,San Jose
+2304,Worcester
+2305,Tallahassee
+2306,Madrid
+2307,Orlando
+2308,Houston
+2309,Tallahassee
+2310,Moreno Valley
+2311,Jacksonville
+2312,Irving
+2313,Minneapolis
+2314,Lakewood
+2315,New Orleans
+2316,Las Vegas
+2317,Garland
+2318,Washington
+2319,Innsbruck
+2320,Washington
+2321,Innsbruck
+2322,Hollywood
+2323,Colorado Springs
+2324,Paris
+2325,Bellevue
+2326,Berna
+2327,Tallahassee
+2328,Springfield
+2329,Madrid
+2330,Los Angeles
+2331,Omaha
+2332,Pittsburgh
+2333,Nashville
+2334,Orlando
+2335,Tokyo
+2336,San Francisco
+2337,Wien
+2338,Laredo
+2339,Scottsdale
+2340,Murfreesboro
+2341,Valetta
+2342,Escondido
+2343,Moreno Valley
+2344,Quebec
+2345,Santa Ana
+2346,Jacksonville
+2347,New Orleans
+2348,Prague
+2349,Nashville
+2350,Fullerton
+2351,Louisville
+2352,Rochester
+2353,Toledo
+2354,Bucharest
+2355,Los Angeles
+2356,Kansas City
+2357,Saint Paul
+2358,Albuquerque
+2359,Louisville
+2360,Portland
+2361,Salt Lake City
+2362,Milwaukee
+2363,Seattle
+2364,New Orleans
+2365,Rochester
+2366,Ontario
+2367,San Francisco
+2368,El Paso
+2369,Glendale
+2370,Paris
+2371,New York
+2372,Henderson
+2373,Prague
+2374,Reno
+2375,Berlin
+2376,Fullerton
+2377,Salem
+2378,Colorado Springs
+2379,San Jose
+2380,San Jose
+2381,Berlin
+2382,New Orleans
+2383,Stockton
+2384,Springfield
+2385,Nashville
+2386,London
+2387,Saint Paul
+2388,Nashville
+2389,Cincinnati
+2390,Glendale
+2391,Jacksonville
+2392,Detroit
+2393,Moreno Valley
+2394,Moreno Valley
+2395,Louisville
+2396,London
+2397,Berlin
+2398,Boston
+2399,San Antonio
+2400,Oakland
+2401,Valetta
+2402,Sacramento
+2403,New York
+2404,Fort Lauderdale
+2405,Wien
+2406,Garland
+2407,Miami
+2408,London
+2409,Ontario
+2410,Jacksonville
+2411,Norfolk
+2412,San Antonio
+2413,Hayward
+2414,Lisbon
+2415,Charlotte
+2416,Omaha
+2417,Charlotte
+2418,Venice
+2419,Salem
+2420,Hayward
+2421,Chicago
+2422,Tokyo
+2423,Richmond
+2424,Quebec
+2425,Valetta
+2426,Wien
+2427,London
+2428,Hollywood
+2429,Garland
+2430,New Orleans
+2431,Lincoln
+2432,Lyon
+2433,Las Vegas
+2434,Pittsburgh
+2435,Hollywood
+2436,Jersey City
+2437,Fremont
+2438,Hollywood
+2439,Seattle
+2440,Lyon
+2441,Huntsville
+2442,Albuquerque
+2443,Salem
+2444,Venice
+2445,San Bernardino
+2446,Fullerton
+2447,Lisbon
+2448,Cincinnati
+2449,Portland
+2450,San Bernardino
+2451,Miami
+2452,Fullerton
+2453,Hollywood
+2454,Bucharest
+2455,Albuquerque
+2456,San Francisco
+2457,Atlanta
+2458,New York
+2459,Cincinnati
+2460,Bucharest
+2461,Charlotte
+2462,Orlando
+2463,Ontario
+2464,Tulsa
+2465,Reno
+2466,Las Vegas
+2467,Detroit
+2468,Fort Lauderdale
+2469,Tokyo
+2470,Irving
+2471,Huntsville
+2472,Huntsville
+2473,Worcester
+2474,Boston
+2475,Honolulu
+2476,Arlington
+2477,Hayward
+2478,Boston
+2479,Richmond
+2480,Miami
+2481,Milwaukee
+2482,Bridgeport
+2483,Bellevue
+2484,Berna
+2485,Ontario
+2486,Bakersfield
+2487,Milwaukee
+2488,Las Vegas
+2489,Orlando
+2490,Anaheim
+2491,Moreno Valley
+2492,Los Angeles
+2493,Memphis
+2494,Seattle
+2495,Bakersfield
+2496,Orlando
+2497,Fort Lauderdale
+2498,Pittsburgh
+2499,Salem
+2500,Honolulu
+2501,Stockton
+2502,El Paso
+2503,Pittsburgh
+2504,Richmond
+2505,Charlotte
+2506,Murfreesboro
+2507,London
+2508,Colorado Springs
+2509,Salt Lake City
+2510,Fullerton
+2511,Tulsa
+2512,Garland
+2513,Moreno Valley
+2514,Tallahassee
+2515,Las Vegas
+2516,Arlington
+2517,Garland
+2518,Dallas
+2519,Orlando
+2520,Anaheim
+2521,Amarillo
+2522,Lakewood
+2523,Phoenix
+2524,Louisville
+2525,Charlotte
+2526,Kansas City
+2527,Phoenix
+2528,Boston
+2529,Stockton
+2530,Springfield
+2531,Henderson
+2532,Henderson
+2533,Norfolk
+2534,Memphis
+2535,Minneapolis
+2536,Denver
+2537,Las Vegas
+2538,Lyon
+2539,Murfreesboro
+2540,San Diego
+2541,Reno
+2542,Jersey City
+2543,Philadelphia
+2544,Atlanta
+2545,Ontario
+2546,Orlando
+2547,Hollywood
+2548,Hollywood
+2549,Valetta
+2550,Portland
+2551,Laredo
+2552,Milano
+2553,Salem
+2554,Lancaster
+2555,Fullerton
+2556,Innsbruck
+2557,Boston
+2558,Arlington
+2559,Innsbruck
+2560,Cincinnati
+2561,Detroit
+2562,Laredo
+2563,Irving
+2564,Pittsburgh
+2565,Portland
+2566,Louisville
+2567,Washington
+2568,Milano
+2569,Amarillo
+2570,Hayward
+2571,St. Louis
+2572,Escondido
+2573,Stockton
+2574,New York
+2575,Berlin
+2576,Pittsburgh
+2577,Quebec
+2578,Laredo
+2579,Minneapolis
+2580,Miami
+2581,Boston
+2582,Otawa
+2583,San Antonio
+2584,Escondido
+2585,Memphis
+2586,Dallas
+2587,New York
+2588,San Francisco
+2589,Garland
+2590,Bakersfield
+2591,Huntsville
+2592,Otawa
+2593,Jacksonville
+2594,Baltimore
+2595,Reno
+2596,Tulsa
+2597,Scottsdale
+2598,Paris
+2599,Phoenix
+2600,Sacramento
+2601,Denver
+2602,Atlanta
+2603,Tokyo
+2604,Scottsdale
+2605,Rome
+2606,El Paso
+2607,Seattle
+2608,Washington
+2609,Oakland
+2610,Tallahassee
+2611,Salem
+2612,Tokyo
+2613,Huntsville
+2614,Colorado Springs
+2615,Oklahoma City
+2616,Richmond
+2617,Seattle
+2618,London
+2619,Indianapolis
+2620,Rochester
+2621,Murfreesboro
+2622,Fullerton
+2623,Rochester
+2624,Detroit
+2625,El Paso
+2626,Columbus
+2627,Murfreesboro
+2628,Washington
+2629,Rochester
+2630,San Francisco
+2631,Bakersfield
+2632,Portland
+2633,Atlanta
+2634,Pittsburgh
+2635,St. Louis
+2636,Reno
+2637,Bridgeport
+2638,Albuquerque
+2639,Houston
+2640,Seattle
+2641,Arlington
+2642,Worcester
+2643,Sacramento
+2644,Lisbon
+2645,Philadelphia
+2646,Honolulu
+2647,Jacksonville
+2648,Bucharest
+2649,Garland
+2650,San Diego
+2651,Laredo
+2652,Boston
+2653,Prague
+2654,Chicago
+2655,Fort Lauderdale
+2656,Rochester
+2657,St. Louis
+2658,Kansas City
+2659,Otawa
+2660,Charlotte
+2661,Seattle
+2662,Lincoln
+2663,Fort Lauderdale
+2664,Minneapolis
+2665,Paris
+2666,San Jose
+2667,New Orleans
+2668,Innsbruck
+2669,Madison
+2670,Santa Ana
+2671,Oklahoma City
+2672,Denver
+2673,Anaheim
+2674,Wien
+2675,Charlotte
+2676,Venice
+2677,Garland
+2678,Laredo
+2679,Norfolk
+2680,Hollywood
+2681,Glendale
+2682,Murfreesboro
+2683,Lisbon
+2684,Fremont
+2685,Rochester
+2686,El Paso
+2687,Ontario
+2688,Lyon
+2689,Tulsa
+2690,Stockton
+2691,Louisville
+2692,Berna
+2693,Rome
+2694,Glendale
+2695,Quebec
+2696,Boston
+2697,Indianapolis
+2698,Washington
+2699,Glendale
+2700,Orlando
+2701,San Francisco
+2702,Rome
+2703,Murfreesboro
+2704,Atlanta
+2705,Lincoln
+2706,Milwaukee
+2707,Scottsdale
+2708,Pittsburgh
+2709,San Diego
+2710,Rochester
+2711,Honolulu
+2712,Fort Lauderdale
+2713,Albuquerque
+2714,Oakland
+2715,Toledo
+2716,Detroit
+2717,Lisbon
+2718,Oklahoma City
+2719,Richmond
+2720,Garland
+2721,Nashville
+2722,Rome
+2723,Otawa
+2724,San Francisco
+2725,London
+2726,Wien
+2727,Anaheim
+2728,Colorado Springs
+2729,Lincoln
+2730,Reno
+2731,Oklahoma City
+2732,Norfolk
+2733,Long Beach
+2734,Oklahoma City
+2735,Fremont
+2736,St. Louis
+2737,Quebec
+2738,Murfreesboro
+2739,Worcester
+2740,Richmond
+2741,Garland
+2742,San Jose
+2743,Miami
+2744,San Francisco
+2745,Albuquerque
+2746,Escondido
+2747,Albuquerque
+2748,Hayward
+2749,Moreno Valley
+2750,Bellevue
+2751,Paris
+2752,Huntsville
+2753,Laredo
+2754,Tulsa
+2755,Denver
+2756,Glendale
+2757,Glendale
+2758,Bellevue
+2759,Henderson
+2760,Bucharest
+2761,Louisville
+2762,San Antonio
+2763,Dallas
+2764,Detroit
+2765,Phoenix
+2766,Charlotte
+2767,Baltimore
+2768,Reno
+2769,Ontario
+2770,Colorado Springs
+2771,Glendale
+2772,Oklahoma City
+2773,Huntsville
+2774,Bucharest
+2775,Bucharest
+2776,Charlotte
+2777,Fayetteville
+2778,Long Beach
+2779,Fort Lauderdale
+2780,Bakersfield
+2781,Glendale
+2782,Baltimore
+2783,Lisbon
+2784,Honolulu
+2785,Rome
+2786,Scottsdale
+2787,Baltimore
+2788,Santa Ana
+2789,Seattle
+2790,Baltimore
+2791,Madison
+2792,Detroit
+2793,San Jose
+2794,Scottsdale
+2795,Prague
+2796,Milano
+2797,Houston
+2798,Columbus
+2799,Phoenix
+2800,St. Louis
+2801,Chicago
+2802,Oklahoma City
+2803,Prague
+2804,Norfolk
+2805,Washington
+2806,Phoenix
+2807,Bucharest
+2808,Laredo
+2809,Tulsa
+2810,Albuquerque
+2811,Houston
+2812,Atlanta
+2813,Lisbon
+2814,Milwaukee
+2815,Bellevue
+2816,Lancaster
+2817,Colorado Springs
+2818,Moreno Valley
+2819,Washington
+2820,Bakersfield
+2821,Stockton
+2822,Lyon
+2823,Minneapolis
+2824,Tallahassee
+2825,Nashville
+2826,Bucharest
+2827,Salt Lake City
+2828,Zurich
+2829,Memphis
+2830,Oklahoma City
+2831,Bellevue
+2832,Orlando
+2833,Sacramento
+2834,Glendale
+2835,Lancaster
+2836,Washington
+2837,Lincoln
+2838,Lincoln
+2839,Omaha
+2840,Detroit
+2841,Scottsdale
+2842,Fremont
+2843,Jersey City
+2844,Denver
+2845,Milwaukee
+2846,Las Vegas
+2847,Portland
+2848,San Francisco
+2849,Louisville
+2850,Henderson
+2851,Oakland
+2852,Quebec
+2853,Tallahassee
+2854,Worcester
+2855,Paris
+2856,Orlando
+2857,Laredo
+2858,Orlando
+2859,Irving
+2860,Long Beach
+2861,Omaha
+2862,Bridgeport
+2863,Charlotte
+2864,Milwaukee
+2865,Wien
+2866,Garland
+2867,Glendale
+2868,Rochester
+2869,Louisville
+2870,Detroit
+2871,Omaha
+2872,Los Angeles
+2873,Paris
+2874,Chicago
+2875,Murfreesboro
+2876,Milano
+2877,Jacksonville
+2878,Kansas City
+2879,Jersey City
+2880,Minneapolis
+2881,Laredo
+2882,Moreno Valley
+2883,Huntsville
+2884,Fort Lauderdale
+2885,Baltimore
+2886,Richmond
+2887,Rochester
+2888,Ontario
+2889,Bridgeport
+2890,Richmond
+2891,Richmond
+2892,Saint Paul
+2893,London
+2894,Salem
+2895,Tallahassee
+2896,Huntsville
+2897,Oakland
+2898,Boston
+2899,Toledo
+2900,Los Angeles
+2901,Fort Lauderdale
+2902,Fremont
+2903,Venice
+2904,Worcester
+2905,Omaha
+2906,Norfolk
+2907,Portland
+2908,Santa Ana
+2909,Wien
+2910,Pittsburgh
+2911,Otawa
+2912,Las Vegas
+2913,Albuquerque
+2914,Long Beach
+2915,Bellevue
+2916,Hayward
+2917,Cincinnati
+2918,Colorado Springs
+2919,Salem
+2920,New York
+2921,Salt Lake City
+2922,Houston
+2923,New Orleans
+2924,Arlington
+2925,Pittsburgh
+2926,Las Vegas
+2927,San Francisco
+2928,Venice
+2929,Boston
+2930,Scottsdale
+2931,Colorado Springs
+2932,San Diego
+2933,Stockton
+2934,Oklahoma City
+2935,Kansas City
+2936,New Orleans
+2937,Baltimore
+2938,Zurich
+2939,Worcester
+2940,Portland
+2941,Long Beach
+2942,San Jose
+2943,Lisbon
+2944,Las Vegas
+2945,Miami
+2946,Paris
+2947,London
+2948,Lincoln
+2949,Fayetteville
+2950,Miami
+2951,Boston
+2952,Charlotte
+2953,Hollywood
+2954,Paris
+2955,Fremont
+2956,London
+2957,Bakersfield
+2958,Phoenix
+2959,Honolulu
+2960,Saint Paul
+2961,Lancaster
+2962,Lakewood
+2963,Scottsdale
+2964,Madison
+2965,Berlin
+2966,Denver
+2967,Detroit
+2968,Oakland
+2969,Henderson
+2970,Fremont
+2971,Lyon
+2972,Seattle
+2973,Boston
+2974,Valetta
+2975,Omaha
+2976,Reno
+2977,Los Angeles
+2978,Worcester
+2979,San Antonio
+2980,Oklahoma City
+2981,Saint Paul
+2982,St. Louis
+2983,El Paso
+2984,Moreno Valley
+2985,London
+2986,San Bernardino
+2987,Worcester
+2988,Huntsville
+2989,El Paso
+2990,Portland
+2991,Indianapolis
+2992,Henderson
+2993,Orlando
+2994,Hollywood
+2995,Boston
+2996,Orlando
+2997,San Antonio
+2998,San Diego
+2999,Lincoln
+3000,Nashville
+3001,Long Beach
+3002,Phoenix
+3003,Charlotte
+3004,Berna
+3005,Indianapolis
+3006,Glendale
+3007,Reno
+3008,Worcester
+3009,Anaheim
+3010,Charlotte
+3011,Dallas
+3012,Rome
+3013,Philadelphia
+3014,London
+3015,Bucharest
+3016,St. Louis
+3017,Hollywood
+3018,Portland
+3019,Bakersfield
+3020,Lincoln
+3021,Worcester
+3022,Charlotte
+3023,Hayward
+3024,Garland
+3025,Rochester
+3026,Honolulu
+3027,Berlin
+3028,Salem
+3029,Rochester
+3030,Salt Lake City
+3031,New York
+3032,Paris
+3033,Murfreesboro
+3034,Atlanta
+3035,Laredo
+3036,Charlotte
+3037,Madrid
+3038,Berna
+3039,Nashville
+3040,Tulsa
+3041,Denver
+3042,Bucharest
+3043,Nashville
+3044,Las Vegas
+3045,Rochester
+3046,Berlin
+3047,Memphis
+3048,Ontario
+3049,Hollywood
+3050,New York
+3051,Madison
+3052,Norfolk
+3053,Orlando
+3054,Quebec
+3055,Los Angeles
+3056,Louisville
+3057,San Bernardino
+3058,Fremont
+3059,Jersey City
+3060,Tulsa
+3061,Charlotte
+3062,Chicago
+3063,Madrid
+3064,Oklahoma City
+3065,Lyon
+3066,Orlando
+3067,Quebec
+3068,Seattle
+3069,Boston
+3070,Ontario
+3071,Charlotte
+3072,Tulsa
+3073,Oklahoma City
+3074,Tulsa
+3075,New York
+3076,Worcester
+3077,Columbus
+3078,Detroit
+3079,Salt Lake City
+3080,Tallahassee
+3081,Dallas
+3082,Glendale
+3083,Jersey City
+3084,Escondido
+3085,Dallas
+3086,Charlotte
+3087,Cincinnati
+3088,Oklahoma City
+3089,Houston
+3090,Moreno Valley
+3091,Wien
+3092,Houston
+3093,Rochester
+3094,Jacksonville
+3095,Anaheim
+3096,Sacramento
+3097,Columbus
+3098,San Antonio
+3099,Venice
+3100,Los Angeles
+3101,New York
+3102,Honolulu
+3103,Philadelphia
+3104,Berlin
+3105,Hollywood
+3106,Charlotte
+3107,Orlando
+3108,Berlin
+3109,Bakersfield
+3110,Bellevue
+3111,Hayward
+3112,Quebec
+3113,Murfreesboro
+3114,Norfolk
+3115,New York
+3116,Toledo
+3117,Innsbruck
+3118,Salt Lake City
+3119,Lakewood
+3120,Bakersfield
+3121,Los Angeles
+3122,Atlanta
+3123,Columbus
+3124,Miami
+3125,Lyon
+3126,Bellevue
+3127,San Francisco
+3128,Prague
+3129,Huntsville
+3130,Innsbruck
+3131,Norfolk
+3132,Baltimore
+3133,New York
+3134,London
+3135,London
+3136,Moreno Valley
+3137,Las Vegas
+3138,Long Beach
+3139,St. Louis
+3140,Cincinnati
+3141,Miami
+3142,Hayward
+3143,Valetta
+3144,Columbus
+3145,Amarillo
+3146,Lincoln
+3147,Innsbruck
+3148,Albuquerque
+3149,Lakewood
+3150,Rome
+3151,Springfield
+3152,Atlanta
+3153,Amarillo
+3154,San Bernardino
+3155,Bucharest
+3156,Valetta
+3157,Escondido
+3158,Valetta
+3159,New York
+3160,Hayward
+3161,Omaha
+3162,Cincinnati
+3163,Norfolk
+3164,San Bernardino
+3165,Paris
+3166,Lisbon
+3167,Salt Lake City
+3168,Denver
+3169,Columbus
+3170,Denver
+3171,Stockton
+3172,New York
+3173,San Antonio
+3174,Richmond
+3175,Bridgeport
+3176,Charlotte
+3177,Toledo
+3178,Bucharest
+3179,Murfreesboro
+3180,Fullerton
+3181,Huntsville
+3182,Denver
+3183,Philadelphia
+3184,San Jose
+3185,Hayward
+3186,Chicago
+3187,San Bernardino
+3188,Tokyo
+3189,Madrid
+3190,Las Vegas
+3191,Orlando
+3192,San Diego
+3193,Indianapolis
+3194,Chicago
+3195,Richmond
+3196,Cincinnati
+3197,Glendale
+3198,Tulsa
+3199,Springfield
+3200,Charlotte
+3201,Venice
+3202,Toledo
+3203,Anaheim
+3204,Cincinnati
+3205,Louisville
+3206,Murfreesboro
+3207,Pittsburgh
+3208,Santa Ana
+3209,Kansas City
+3210,Fayetteville
+3211,Nashville
+3212,Garland
+3213,Honolulu
+3214,Amarillo
+3215,Honolulu
+3216,Louisville
+3217,San Bernardino
+3218,Worcester
+3219,Tokyo
+3220,Oakland
+3221,Bellevue
+3222,Wien
+3223,Houston
+3224,Fremont
+3225,Pittsburgh
+3226,Omaha
+3227,Orlando
+3228,Washington
+3229,Bucharest
+3230,Charlotte
+3231,Ontario
+3232,New Orleans
+3233,Worcester
+3234,Saint Paul
+3235,Lyon
+3236,Glendale
+3237,Murfreesboro
+3238,Denver
+3239,Hollywood
+3240,Garland
+3241,Santa Ana
+3242,Fayetteville
+3243,Detroit
+3244,Nashville
+3245,Bridgeport
+3246,Bellevue
+3247,Irving
+3248,Atlanta
+3249,Saint Paul
+3250,Prague
+3251,Philadelphia
+3252,Arlington
+3253,Oklahoma City
+3254,Reno
+3255,Moreno Valley
+3256,El Paso
+3257,Long Beach
+3258,Hollywood
+3259,Milwaukee
+3260,Detroit
+3261,Lincoln
+3262,Seattle
+3263,Baltimore
+3264,Escondido
+3265,Bucharest
+3266,Colorado Springs
+3267,Cincinnati
+3268,Garland
+3269,Huntsville
+3270,Lincoln
+3271,New York
+3272,Reno
+3273,Saint Paul
+3274,Prague
+3275,Charlotte
+3276,Toledo
+3277,Albuquerque
+3278,Berna
+3279,Norfolk
+3280,Murfreesboro
+3281,New York
+3282,Las Vegas
+3283,Los Angeles
+3284,Jersey City
+3285,Wien
+3286,Hayward
+3287,Milwaukee
+3288,San Bernardino
+3289,Detroit
+3290,Fort Lauderdale
+3291,Atlanta
+3292,New Orleans
+3293,Salt Lake City
+3294,Fort Lauderdale
+3295,Jersey City
+3296,Louisville
+3297,Tallahassee
+3298,Omaha
+3299,Washington
+3300,Lakewood
+3301,Berna
+3302,Seattle
+3303,Omaha
+3304,New Orleans
+3305,Detroit
+3306,Richmond
+3307,Phoenix
+3308,Houston
+3309,Santa Ana
+3310,Sacramento
+3311,Sacramento
+3312,El Paso
+3313,Lyon
+3314,Murfreesboro
+3315,Venice
+3316,Ontario
+3317,Dallas
+3318,Tulsa
+3319,Salem
+3320,Laredo
+3321,Prague
+3322,Philadelphia
+3323,Miami
+3324,Baltimore
+3325,Tulsa
+3326,Seattle
+3327,Columbus
+3328,Miami
+3329,Atlanta
+3330,Atlanta
+3331,Hayward
+3332,Sacramento
+3333,Henderson
+3334,Bakersfield
+3335,Ontario
+3336,Rome
+3337,Valetta
+3338,Rochester
+3339,Valetta
+3340,New York
+3341,Denver
+3342,Arlington
+3343,Fayetteville
+3344,Paris
+3345,Madison
+3346,Anaheim
+3347,Murfreesboro
+3348,Saint Paul
+3349,Rochester
+3350,Bellevue
+3351,Colorado Springs
+3352,Los Angeles
+3353,Minneapolis
+3354,Denver
+3355,Fort Lauderdale
+3356,Worcester
+3357,Berlin
+3358,Jacksonville
+3359,Bucharest
+3360,Chicago
+3361,San Diego
+3362,Albuquerque
+3363,Arlington
+3364,Garland
+3365,Detroit
+3366,Bucharest
+3367,Moreno Valley
+3368,Berlin
+3369,Indianapolis
+3370,Louisville
+3371,Phoenix
+3372,Miami
+3373,Fort Lauderdale
+3374,Washington
+3375,Milwaukee
+3376,Chicago
+3377,Baltimore
+3378,Tallahassee
+3379,Washington
+3380,Huntsville
+3381,Detroit
+3382,Quebec
+3383,Memphis
+3384,Long Beach
+3385,Cincinnati
+3386,Toledo
+3387,Washington
+3388,Hollywood
+3389,Las Vegas
+3390,Oklahoma City
+3391,Lancaster
+3392,Fremont
+3393,Kansas City
+3394,Huntsville
+3395,Minneapolis
+3396,Charlotte
+3397,Bucharest
+3398,Jacksonville
+3399,Minneapolis
+3400,Madison
+3401,Philadelphia
+3402,Lancaster
+3403,Richmond
+3404,Jacksonville
+3405,Chicago
+3406,Long Beach
+3407,Saint Paul
+3408,Lyon
+3409,Salt Lake City
+3410,Sacramento
+3411,Jacksonville
+3412,Dallas
+3413,Miami
+3414,Wien
+3415,Fremont
+3416,Tulsa
+3417,Las Vegas
+3418,Huntsville
+3419,Worcester
+3420,Moreno Valley
+3421,Phoenix
+3422,Jacksonville
+3423,Venice
+3424,Huntsville
+3425,Baltimore
+3426,Lincoln
+3427,Jersey City
+3428,Kansas City
+3429,Norfolk
+3430,Stockton
+3431,Chicago
+3432,Lisbon
+3433,Amarillo
+3434,Detroit
+3435,Fayetteville
+3436,Innsbruck
+3437,San Bernardino
+3438,Milano
+3439,San Bernardino
+3440,Madrid
+3441,Milano
+3442,Nashville
+3443,Lakewood
+3444,Nashville
+3445,Los Angeles
+3446,Norfolk
+3447,Paris
+3448,Fort Lauderdale
+3449,St. Louis
+3450,Baltimore
+3451,Fullerton
+3452,Wien
+3453,Kansas City
+3454,Scottsdale
+3455,Baltimore
+3456,Toledo
+3457,Irving
+3458,Albuquerque
+3459,Las Vegas
+3460,Indianapolis
+3461,Ontario
+3462,San Jose
+3463,Milwaukee
+3464,Bucharest
+3465,Paris
+3466,Prague
+3467,Oakland
+3468,Columbus
+3469,Hollywood
+3470,San Jose
+3471,Otawa
+3472,Madison
+3473,Ontario
+3474,Paris
+3475,Memphis
+3476,San Francisco
+3477,Honolulu
+3478,Fremont
+3479,Kansas City
+3480,Portland
+3481,Lakewood
+3482,Stockton
+3483,New York
+3484,Paris
+3485,Richmond
+3486,Louisville
+3487,Portland
+3488,Zurich
+3489,Tokyo
+3490,Norfolk
+3491,Worcester
+3492,Dallas
+3493,Murfreesboro
+3494,Louisville
+3495,St. Louis
+3496,Bakersfield
+3497,Tallahassee
+3498,Lakewood
+3499,Fort Lauderdale
+3500,Hollywood
+3501,Arlington
+3502,Worcester
+3503,Richmond
+3504,New York
+3505,Salt Lake City
+3506,Chicago
+3507,Hollywood
+3508,Lisbon
+3509,Washington
+3510,Berna
+3511,Rochester
+3512,Milwaukee
+3513,Lyon
+3514,Denver
+3515,Omaha
+3516,Las Vegas
+3517,Milano
+3518,San Bernardino
+3519,Detroit
+3520,Houston
+3521,Charlotte
+3522,Zurich
+3523,San Diego
+3524,Quebec
+3525,Portland
+3526,Wien
+3527,Fullerton
+3528,Irving
+3529,Lakewood
+3530,Richmond
+3531,Ontario
+3532,Lisbon
+3533,Atlanta
+3534,Boston
+3535,San Diego
+3536,Garland
+3537,Fullerton
+3538,Quebec
+3539,Ontario
+3540,Phoenix
+3541,Indianapolis
+3542,San Antonio
+3543,Lisbon
+3544,Columbus
+3545,Santa Ana
+3546,New Orleans
+3547,Anaheim
+3548,London
+3549,San Bernardino
+3550,Minneapolis
+3551,Lancaster
+3552,Springfield
+3553,Milwaukee
+3554,Seattle
+3555,Fayetteville
+3556,Berlin
+3557,Lisbon
+3558,Denver
+3559,Fayetteville
+3560,Lincoln
+3561,Rome
+3562,Nashville
+3563,Denver
+3564,Laredo
+3565,San Francisco
+3566,Laredo
+3567,Rome
+3568,San Antonio
+3569,Scottsdale
+3570,Tallahassee
+3571,Quebec
+3572,Milano
+3573,Jacksonville
+3574,Bellevue
+3575,Long Beach
+3576,Stockton
+3577,Long Beach
+3578,Fullerton
+3579,Albuquerque
+3580,Escondido
+3581,Indianapolis
+3582,Worcester
+3583,San Antonio
+3584,New Orleans
+3585,Tulsa
+3586,Bridgeport
+3587,Hollywood
+3588,Fort Lauderdale
+3589,Denver
+3590,Dallas
+3591,Tallahassee
+3592,Hayward
+3593,Huntsville
+3594,Lisbon
+3595,Richmond
+3596,Stockton
+3597,Sacramento
+3598,San Bernardino
+3599,Jersey City
+3600,Lancaster
+3601,Lyon
+3602,Hayward
+3603,Santa Ana
+3604,Scottsdale
+3605,Long Beach
+3606,Stockton
+3607,Bridgeport
+3608,Lakewood
+3609,Tokyo
+3610,Fullerton
+3611,Scottsdale
+3612,Fayetteville
+3613,Charlotte
+3614,Santa Ana
+3615,Lancaster
+3616,Venice
+3617,Oklahoma City
+3618,Columbus
+3619,Anaheim
+3620,Oakland
+3621,Paris
+3622,San Jose
+3623,Sacramento
+3624,Amarillo
+3625,Bucharest
+3626,Paris
+3627,Omaha
+3628,Moreno Valley
+3629,Lyon
+3630,Boston
+3631,Miami
+3632,Chicago
+3633,Oakland
+3634,Lancaster
+3635,Tallahassee
+3636,Anaheim
+3637,Colorado Springs
+3638,Salem
+3639,Kansas City
+3640,Springfield
+3641,Bucharest
+3642,Stockton
+3643,Toledo
+3644,Rochester
+3645,Wien
+3646,Boston
+3647,New York
+3648,Fort Lauderdale
+3649,Louisville
+3650,Boston
+3651,Columbus
+3652,Wien
+3653,Salem
+3654,New Orleans
+3655,Springfield
+3656,Lancaster
+3657,Richmond
+3658,San Bernardino
+3659,Scottsdale
+3660,Richmond
+3661,San Diego
+3662,New York
+3663,San Bernardino
+3664,Portland
+3665,Atlanta
+3666,Salt Lake City
+3667,San Francisco
+3668,Nashville
+3669,Murfreesboro
+3670,Hollywood
+3671,Bellevue
+3672,Escondido
+3673,Valetta
+3674,Kansas City
+3675,Oakland
+3676,Fayetteville
+3677,St. Louis
+3678,Orlando
+3679,Lakewood
+3680,Santa Ana
+3681,Escondido
+3682,Springfield
+3683,Long Beach
+3684,San Antonio
+3685,Columbus
+3686,San Jose
+3687,Jersey City
+3688,Laredo
+3689,Paris
+3690,Sacramento
+3691,Madison
+3692,Huntsville
+3693,Dallas
+3694,Lincoln
+3695,Philadelphia
+3696,Bakersfield
+3697,Memphis
+3698,Arlington
+3699,Pittsburgh
+3700,Fullerton
+3701,Detroit
+3702,Scottsdale
+3703,Anaheim
+3704,Springfield
+3705,Tokyo
+3706,Washington
+3707,Bridgeport
+3708,Lisbon
+3709,Portland
+3710,San Francisco
+3711,Nashville
+3712,Pittsburgh
+3713,Norfolk
+3714,Santa Ana
+3715,Philadelphia
+3716,Fort Lauderdale
+3717,Omaha
+3718,Lincoln
+3719,Albuquerque
+3720,Salt Lake City
+3721,San Bernardino
+3722,Paris
+3723,Henderson
+3724,Philadelphia
+3725,Murfreesboro
+3726,Innsbruck
+3727,Dallas
+3728,San Francisco
+3729,Long Beach
+3730,Lancaster
+3731,Hayward
+3732,Milwaukee
+3733,Colorado Springs
+3734,Charlotte
+3735,Venice
+3736,Otawa
+3737,San Antonio
+3738,Berlin
+3739,Houston
+3740,Escondido
+3741,Prague
+3742,Salem
+3743,Minneapolis
+3744,Portland
+3745,Minneapolis
+3746,Colorado Springs
+3747,Venice
+3748,San Bernardino
+3749,Paris
+3750,Los Angeles
+3751,Rome
+3752,Kansas City
+3753,Lincoln
+3754,Scottsdale
+3755,Salt Lake City
+3756,Irving
+3757,Miami
+3758,Houston
+3759,Berlin
+3760,San Antonio
+3761,Pittsburgh
+3762,Escondido
+3763,Pittsburgh
+3764,Boston
+3765,Tulsa
+3766,Tallahassee
+3767,Berlin
+3768,Wien
+3769,Detroit
+3770,Bellevue
+3771,Long Beach
+3772,Sacramento
+3773,Garland
+3774,Amarillo
+3775,San Francisco
+3776,Anaheim
+3777,Glendale
+3778,St. Louis
+3779,Murfreesboro
+3780,Los Angeles
+3781,Escondido
+3782,Santa Ana
+3783,Paris
+3784,Columbus
+3785,Toledo
+3786,Lancaster
+3787,Hollywood
+3788,Kansas City
+3789,San Antonio
+3790,Escondido
+3791,Innsbruck
+3792,Tokyo
+3793,Bucharest
+3794,Fullerton
+3795,Saint Paul
+3796,Orlando
+3797,New Orleans
+3798,Fort Lauderdale
+3799,Escondido
+3800,Fayetteville
+3801,Lakewood
+3802,Honolulu
+3803,Quebec
+3804,Lyon
+3805,Valetta
+3806,Philadelphia
+3807,Berlin
+3808,Stockton
+3809,Albuquerque
+3810,Chicago
+3811,Portland
+3812,Richmond
+3813,Jersey City
+3814,Laredo
+3815,Rome
+3816,New York
+3817,Salt Lake City
+3818,Toledo
+3819,Henderson
+3820,Huntsville
+3821,Escondido
+3822,Reno
+3823,Jersey City
+3824,Omaha
+3825,Charlotte
+3826,Escondido
+3827,Irving
+3828,Minneapolis
+3829,Minneapolis
+3830,New York
+3831,Toledo
+3832,Oakland
+3833,Lyon
+3834,Berna
+3835,Philadelphia
+3836,San Jose
+3837,Colorado Springs
+3838,Bellevue
+3839,Kansas City
+3840,Salem
+3841,Otawa
+3842,Lakewood
+3843,Norfolk
+3844,Long Beach
+3845,Miami
+3846,Toledo
+3847,Baltimore
+3848,Hayward
+3849,Indianapolis
+3850,Otawa
+3851,Zurich
+3852,Miami
+3853,Lyon
+3854,Zurich
+3855,Colorado Springs
+3856,Bellevue
+3857,Dallas
+3858,Berna
+3859,Toledo
+3860,Stockton
+3861,Kansas City
+3862,Worcester
+3863,Colorado Springs
+3864,Nashville
+3865,Madrid
+3866,Stockton
+3867,Fort Lauderdale
+3868,Baltimore
+3869,Nashville
+3870,Henderson
+3871,Stockton
+3872,Venice
+3873,El Paso
+3874,New York
+3875,Salem
+3876,Louisville
+3877,Los Angeles
+3878,Berlin
+3879,Salt Lake City
+3880,Glendale
+3881,Chicago
+3882,Detroit
+3883,Berlin
+3884,Dallas
+3885,San Diego
+3886,Fremont
+3887,Otawa
+3888,Irving
+3889,Irving
+3890,Oakland
+3891,Moreno Valley
+3892,Minneapolis
+3893,Fayetteville
+3894,Ontario
+3895,Lisbon
+3896,Henderson
+3897,Toledo
+3898,Irving
+3899,Amarillo
+3900,Minneapolis
+3901,Venice
+3902,Quebec
+3903,Oklahoma City
+3904,St. Louis
+3905,Scottsdale
+3906,San Jose
+3907,Omaha
+3908,Stockton
+3909,Stockton
+3910,San Francisco
+3911,Indianapolis
+3912,Cincinnati
+3913,Minneapolis
+3914,Memphis
+3915,Fremont
+3916,San Francisco
+3917,Irving
+3918,Denver
+3919,Houston
+3920,Houston
+3921,Louisville
+3922,Madison
+3923,Fort Lauderdale
+3924,Lancaster
+3925,London
+3926,Colorado Springs
+3927,El Paso
+3928,San Antonio
+3929,Lakewood
+3930,Salt Lake City
+3931,Long Beach
+3932,Fayetteville
+3933,Norfolk
+3934,Houston
+3935,Honolulu
+3936,Chicago
+3937,Long Beach
+3938,Lancaster
+3939,Lincoln
+3940,Richmond
+3941,Fayetteville
+3942,Scottsdale
+3943,Tulsa
+3944,St. Louis
+3945,Tallahassee
+3946,Lisbon
+3947,Bucharest
+3948,Hayward
+3949,Berna
+3950,Irving
+3951,Orlando
+3952,Venice
+3953,New York
+3954,Paris
+3955,Charlotte
+3956,Madison
+3957,Lakewood
+3958,New York
+3959,Charlotte
+3960,Baltimore
+3961,Murfreesboro
+3962,Houston
+3963,Innsbruck
+3964,Lyon
+3965,Milwaukee
+3966,San Francisco
+3967,Moreno Valley
+3968,Worcester
+3969,San Francisco
+3970,Richmond
+3971,Lisbon
+3972,Lincoln
+3973,Toledo
+3974,Columbus
+3975,Pittsburgh
+3976,Glendale
+3977,Huntsville
+3978,Portland
+3979,Minneapolis
+3980,San Francisco
+3981,Colorado Springs
+3982,Fayetteville
+3983,San Francisco
+3984,Boston
+3985,Dallas
+3986,London
+3987,Bellevue
+3988,Santa Ana
+3989,Glendale
+3990,Louisville
+3991,Lancaster
+3992,Indianapolis
+3993,Pittsburgh
+3994,Jersey City
+3995,Dallas
+3996,St. Louis
+3997,Minneapolis
+3998,Rome
+3999,Tallahassee
+4000,Berlin
+4001,Arlington
+4002,Springfield
+4003,Miami
+4004,Garland
+4005,Dallas
+4006,Valetta
+4007,Philadelphia
+4008,Garland
+4009,Milano
+4010,Toledo
+4011,New Orleans
+4012,Tokyo
+4013,Omaha
+4014,Omaha
+4015,Lisbon
+4016,Miami
+4017,Valetta
+4018,Milwaukee
+4019,London
+4020,Bridgeport
+4021,Kansas City
+4022,Las Vegas
+4023,Los Angeles
+4024,Amarillo
+4025,New Orleans
+4026,Saint Paul
+4027,Seattle
+4028,Glendale
+4029,Las Vegas
+4030,Madrid
+4031,Milano
+4032,Valetta
+4033,San Diego
+4034,Springfield
+4035,Toledo
+4036,Zurich
+4037,Lancaster
+4038,Wien
+4039,Omaha
+4040,Salem
+4041,Murfreesboro
+4042,Philadelphia
+4043,Garland
+4044,Moreno Valley
+4045,Lakewood
+4046,Omaha
+4047,Lakewood
+4048,Henderson
+4049,Salem
+4050,Paris
+4051,New York
+4052,Nashville
+4053,Richmond
+4054,Anaheim
+4055,Reno
+4056,St. Louis
+4057,Otawa
+4058,Oklahoma City
+4059,Houston
+4060,Lincoln
+4061,Tokyo
+4062,Lisbon
+4063,Washington
+4064,Salt Lake City
+4065,Saint Paul
+4066,Fort Lauderdale
+4067,Milano
+4068,Fort Lauderdale
+4069,Madison
+4070,Irving
+4071,Glendale
+4072,Zurich
+4073,Orlando
+4074,Denver
+4075,Fort Lauderdale
+4076,Long Beach
+4077,Irving
+4078,Norfolk
+4079,Wien
+4080,Las Vegas
+4081,Reno
+4082,Innsbruck
+4083,Columbus
+4084,Santa Ana
+4085,Milano
+4086,Paris
+4087,Memphis
+4088,Huntsville
+4089,Reno
+4090,Santa Ana
+4091,Sacramento
+4092,Salt Lake City
+4093,Garland
+4094,Murfreesboro
+4095,Rochester
+4096,Milano
+4097,New Orleans
+4098,Rochester
+4099,Bellevue
+4100,Prague
+4101,Ontario
+4102,Los Angeles
+4103,Bridgeport
+4104,Omaha
+4105,Minneapolis
+4106,Tulsa
+4107,Detroit
+4108,Quebec
+4109,Chicago
+4110,London
+4111,Fremont
+4112,Reno
+4113,Berna
+4114,Santa Ana
+4115,Long Beach
+4116,Baltimore
+4117,Springfield
+4118,New Orleans
+4119,Anaheim
+4120,Valetta
+4121,El Paso
+4122,San Diego
+4123,Louisville
+4124,Pittsburgh
+4125,Lyon
+4126,Los Angeles
+4127,Lincoln
+4128,Venice
+4129,Fullerton
+4130,Bridgeport
+4131,Santa Ana
+4132,Chicago
+4133,Hayward
+4134,Washington
+4135,Honolulu
+4136,Norfolk
+4137,Saint Paul
+4138,Tokyo
+4139,Berna
+4140,Amarillo
+4141,Minneapolis
+4142,Jersey City
+4143,Berna
+4144,Minneapolis
+4145,Richmond
+4146,Amarillo
+4147,Irving
+4148,Oklahoma City
+4149,Paris
+4150,San Jose
+4151,Fayetteville
+4152,Quebec
+4153,Worcester
+4154,Moreno Valley
+4155,San Bernardino
+4156,Murfreesboro
+4157,Washington
+4158,Las Vegas
+4159,Tulsa
+4160,Lancaster
+4161,Atlanta
+4162,New York
+4163,Lincoln
+4164,Glendale
+4165,Saint Paul
+4166,Richmond
+4167,New York
+4168,Stockton
+4169,New York
+4170,Zurich
+4171,Boston
+4172,London
+4173,Bakersfield
+4174,Phoenix
+4175,Fayetteville
+4176,Dallas
+4177,Stockton
+4178,Ontario
+4179,Rome
+4180,Fayetteville
+4181,Fayetteville
+4182,Tulsa
+4183,Houston
+4184,San Diego
+4185,Scottsdale
+4186,Santa Ana
+4187,Berlin
+4188,Wien
+4189,Madison
+4190,London
+4191,Sacramento
+4192,Anaheim
+4193,Milano
+4194,Portland
+4195,Berna
+4196,Indianapolis
+4197,Rochester
+4198,Lancaster
+4199,Moreno Valley
+4200,Quebec
+4201,Tokyo
+4202,Tulsa
+4203,Lancaster
+4204,Glendale
+4205,Paris
+4206,Pittsburgh
+4207,New York
+4208,Honolulu
+4209,Pittsburgh
+4210,Albuquerque
+4211,Valetta
+4212,Jersey City
+4213,Berna
+4214,Chicago
+4215,Tulsa
+4216,Venice
+4217,Fort Lauderdale
+4218,Milano
+4219,Memphis
+4220,Baltimore
+4221,Jersey City
+4222,Glendale
+4223,Bridgeport
+4224,Murfreesboro
+4225,Otawa
+4226,Scottsdale
+4227,El Paso
+4228,Arlington
+4229,Innsbruck
+4230,Fremont
+4231,Berna
+4232,Atlanta
+4233,Long Beach
+4234,Murfreesboro
+4235,Lisbon
+4236,Murfreesboro
+4237,Amarillo
+4238,Huntsville
+4239,Seattle
+4240,Honolulu
+4241,El Paso
+4242,Lyon
+4243,London
+4244,Memphis
+4245,Norfolk
+4246,Louisville
+4247,Laredo
+4248,Quebec
+4249,Tallahassee
+4250,Milano
+4251,St. Louis
+4252,Oakland
+4253,Zurich
+4254,Venice
+4255,Houston
+4256,Boston
+4257,New York
+4258,Toledo
+4259,Denver
+4260,Saint Paul
+4261,San Antonio
+4262,Dallas
+4263,Sacramento
+4264,Lincoln
+4265,Jacksonville
+4266,New York
+4267,Berlin
+4268,Huntsville
+4269,Orlando
+4270,Milwaukee
+4271,Lyon
+4272,Boston
+4273,Stockton
+4274,Seattle
+4275,Berlin
+4276,Salem
+4277,Miami
+4278,San Jose
+4279,Tulsa
+4280,Tallahassee
+4281,Louisville
+4282,Lakewood
+4283,Hollywood
+4284,Prague
+4285,Long Beach
+4286,Prague
+4287,Richmond
+4288,London
+4289,Moreno Valley
+4290,San Antonio
+4291,Anaheim
+4292,San Bernardino
+4293,Colorado Springs
+4294,Colorado Springs
+4295,Toledo
+4296,Jersey City
+4297,San Francisco
+4298,Washington
+4299,Chicago
+4300,Fayetteville
+4301,Atlanta
+4302,Innsbruck
+4303,New Orleans
+4304,Jersey City
+4305,Madison
+4306,Toledo
+4307,Scottsdale
+4308,Hollywood
+4309,Milwaukee
+4310,New Orleans
+4311,Houston
+4312,Atlanta
+4313,New Orleans
+4314,Philadelphia
+4315,Paris
+4316,Huntsville
+4317,Bridgeport
+4318,Berlin
+4319,Cincinnati
+4320,Milwaukee
+4321,Moreno Valley
+4322,New Orleans
+4323,Laredo
+4324,Sacramento
+4325,Valetta
+4326,Bellevue
+4327,Springfield
+4328,Minneapolis
+4329,Tallahassee
+4330,Irving
+4331,Philadelphia
+4332,Henderson
+4333,Charlotte
+4334,Chicago
+4335,Colorado Springs
+4336,Laredo
+4337,Long Beach
+4338,Los Angeles
+4339,Arlington
+4340,Innsbruck
+4341,Richmond
+4342,Bellevue
+4343,Minneapolis
+4344,Albuquerque
+4345,Tokyo
+4346,Stockton
+4347,Nashville
+4348,Charlotte
+4349,Saint Paul
+4350,Bellevue
+4351,Columbus
+4352,Berna
+4353,Columbus
+4354,Berna
+4355,Washington
+4356,Las Vegas
+4357,Fayetteville
+4358,El Paso
+4359,Detroit
+4360,Nashville
+4361,Sacramento
+4362,Innsbruck
+4363,Oakland
+4364,Seattle
+4365,Irving
+4366,Fremont
+4367,Scottsdale
+4368,Wien
+4369,Toledo
+4370,Lyon
+4371,Saint Paul
+4372,Berlin
+4373,Dallas
+4374,Chicago
+4375,El Paso
+4376,Scottsdale
+4377,Rochester
+4378,Fullerton
+4379,Lancaster
+4380,Escondido
+4381,Detroit
+4382,Oklahoma City
+4383,Moreno Valley
+4384,Stockton
+4385,Wien
+4386,Springfield
+4387,Rome
+4388,Madison
+4389,Richmond
+4390,San Antonio
+4391,Salt Lake City
+4392,Miami
+4393,Honolulu
+4394,Fullerton
+4395,Scottsdale
+4396,Berlin
+4397,Orlando
+4398,Norfolk
+4399,Tulsa
+4400,Valetta
+4401,New Orleans
+4402,Memphis
+4403,Glendale
+4404,Scottsdale
+4405,Omaha
+4406,Pittsburgh
+4407,San Antonio
+4408,Stockton
+4409,Omaha
+4410,Prague
+4411,Colorado Springs
+4412,Salt Lake City
+4413,Arlington
+4414,San Diego
+4415,Orlando
+4416,Richmond
+4417,Milano
+4418,Scottsdale
+4419,St. Louis
+4420,Jersey City
+4421,Salt Lake City
+4422,Salt Lake City
+4423,Berlin
+4424,Tallahassee
+4425,New York
+4426,Fort Lauderdale
+4427,Lyon
+4428,Pittsburgh
+4429,New York
+4430,Las Vegas
+4431,Stockton
+4432,Boston
+4433,Louisville
+4434,Boston
+4435,Moreno Valley
+4436,Saint Paul
+4437,Irving
+4438,Bellevue
+4439,San Diego
+4440,London
+4441,Anaheim
+4442,Valetta
+4443,Berlin
+4444,Valetta
+4445,Milwaukee
+4446,Quebec
+4447,Rochester
+4448,Minneapolis
+4449,Atlanta
+4450,Springfield
+4451,Louisville
+4452,Lakewood
+4453,Irving
+4454,St. Louis
+4455,Garland
+4456,Springfield
+4457,Minneapolis
+4458,Omaha
+4459,Phoenix
+4460,Springfield
+4461,Irving
+4462,Stockton
+4463,Albuquerque
+4464,Saint Paul
+4465,Anaheim
+4466,Omaha
+4467,Otawa
+4468,Wien
+4469,Baltimore
+4470,Philadelphia
+4471,Chicago
+4472,Long Beach
+4473,Milwaukee
+4474,Huntsville
+4475,Anaheim
+4476,Oakland
+4477,Kansas City
+4478,Atlanta
+4479,Innsbruck
+4480,New York
+4481,Venice
+4482,Phoenix
+4483,Rochester
+4484,Madison
+4485,Tulsa
+4486,Jersey City
+4487,Tulsa
+4488,Salt Lake City
+4489,Berlin
+4490,Long Beach
+4491,Jersey City
+4492,Salt Lake City
+4493,Chicago
+4494,Henderson
+4495,Oakland
+4496,Atlanta
+4497,Rochester
+4498,Nashville
+4499,Colorado Springs
+4500,Madison
+4501,Nashville
+4502,Henderson
+4503,New Orleans
+4504,Fremont
+4505,Venice
+4506,Toledo
+4507,Detroit
+4508,Prague
+4509,Phoenix
+4510,Saint Paul
+4511,Albuquerque
+4512,Detroit
+4513,Washington
+4514,Colorado Springs
+4515,Chicago
+4516,Hollywood
+4517,Huntsville
+4518,Prague
+4519,Lincoln
+4520,London
+4521,Lisbon
+4522,Scottsdale
+4523,Richmond
+4524,Madison
+4525,Lancaster
+4526,Seattle
+4527,Detroit
+4528,New York
+4529,Albuquerque
+4530,Henderson
+4531,Oklahoma City
+4532,El Paso
+4533,Reno
+4534,Houston
+4535,Saint Paul
+4536,Hayward
+4537,Denver
+4538,San Diego
+4539,Rome
+4540,Miami
+4541,San Jose
+4542,Baltimore
+4543,Springfield
+4544,Nashville
+4545,Salt Lake City
+4546,Valetta
+4547,Colorado Springs
+4548,Oakland
+4549,Bridgeport
+4550,Reno
+4551,Omaha
+4552,Miami
+4553,Arlington
+4554,Valetta
+4555,Miami
+4556,Cincinnati
+4557,Norfolk
+4558,Wien
+4559,Lisbon
+4560,Worcester
+4561,Jersey City
+4562,Amarillo
+4563,Murfreesboro
+4564,San Diego
+4565,Ontario
+4566,Long Beach
+4567,Henderson
+4568,Omaha
+4569,Paris
+4570,Sacramento
+4571,Detroit
+4572,Seattle
+4573,Boston
+4574,Saint Paul
+4575,Hollywood
+4576,Albuquerque
+4577,Richmond
+4578,Glendale
+4579,San Francisco
+4580,Kansas City
+4581,Scottsdale
+4582,Fort Lauderdale
+4583,Memphis
+4584,Oklahoma City
+4585,San Diego
+4586,Wien
+4587,Anaheim
+4588,Nashville
+4589,Nashville
+4590,Lakewood
+4591,Glendale
+4592,Ontario
+4593,New Orleans
+4594,Venice
+4595,Kansas City
+4596,Orlando
+4597,Escondido
+4598,Lakewood
+4599,Salem
+4600,Colorado Springs
+4601,Tallahassee
+4602,Albuquerque
+4603,Murfreesboro
+4604,Hollywood
+4605,Lakewood
+4606,Kansas City
+4607,Innsbruck
+4608,Irving
+4609,Springfield
+4610,Innsbruck
+4611,Omaha
+4612,Denver
+4613,Oakland
+4614,Hayward
+4615,Hollywood
+4616,Stockton
+4617,Phoenix
+4618,Lyon
+4619,Bucharest
+4620,Lisbon
+4621,Reno
+4622,Hayward
+4623,Jersey City
+4624,Nashville
+4625,Hayward
+4626,Houston
+4627,Glendale
+4628,Memphis
+4629,Madrid
+4630,Rome
+4631,Huntsville
+4632,Escondido
+4633,Columbus
+4634,Scottsdale
+4635,Huntsville
+4636,Seattle
+4637,Lancaster
+4638,Tallahassee
+4639,Fremont
+4640,San Francisco
+4641,Hayward
+4642,Venice
+4643,Honolulu
+4644,Ontario
+4645,St. Louis
+4646,Otawa
+4647,London
+4648,Cincinnati
+4649,Las Vegas
+4650,Toledo
+4651,Colorado Springs
+4652,Tallahassee
+4653,Lakewood
+4654,Boston
+4655,Fayetteville
+4656,Orlando
+4657,Norfolk
+4658,Boston
+4659,Bellevue
+4660,Salt Lake City
+4661,San Francisco
+4662,Norfolk
+4663,Tallahassee
+4664,New York
+4665,St. Louis
+4666,Escondido
+4667,New Orleans
+4668,Stockton
+4669,El Paso
+4670,Anaheim
+4671,Atlanta
+4672,Valetta
+4673,London
+4674,Dallas
+4675,Kansas City
+4676,Houston
+4677,Huntsville
+4678,Laredo
+4679,Quebec
+4680,Henderson
+4681,Madrid
+4682,Stockton
+4683,Garland
+4684,St. Louis
+4685,Prague
+4686,Sacramento
+4687,Valetta
+4688,San Jose
+4689,Murfreesboro
+4690,Madison
+4691,Madrid
+4692,Valetta
+4693,Stockton
+4694,Murfreesboro
+4695,Quebec
+4696,Glendale
+4697,Irving
+4698,Hollywood
+4699,Jacksonville
+4700,Lisbon
+4701,Bellevue
+4702,Memphis
+4703,Glendale
+4704,Minneapolis
+4705,Scottsdale
+4706,London
+4707,Honolulu
+4708,Innsbruck
+4709,Lyon
+4710,St. Louis
+4711,Rome
+4712,Baltimore
+4713,Kansas City
+4714,Tokyo
+4715,Cincinnati
+4716,Jersey City
+4717,Pittsburgh
+4718,Norfolk
+4719,Richmond
+4720,Bridgeport
+4721,Lakewood
+4722,Fort Lauderdale
+4723,Columbus
+4724,Louisville
+4725,Salem
+4726,Bakersfield
+4727,Escondido
+4728,San Bernardino
+4729,Dallas
+4730,San Francisco
+4731,Toledo
+4732,Amarillo
+4733,San Jose
+4734,Hollywood
+4735,Fullerton
+4736,Henderson
+4737,Escondido
+4738,Fullerton
+4739,Cincinnati
+4740,Seattle
+4741,Houston
+4742,Bellevue
+4743,London
+4744,Boston
+4745,Amarillo
+4746,Scottsdale
+4747,Boston
+4748,Ontario
+4749,Baltimore
+4750,Moreno Valley
+4751,Richmond
+4752,Otawa
+4753,Glendale
+4754,Stockton
+4755,Denver
+4756,Lisbon
+4757,Bridgeport
+4758,Louisville
+4759,Salt Lake City
+4760,Chicago
+4761,Toledo
+4762,Tokyo
+4763,Columbus
+4764,Sacramento
+4765,Albuquerque
+4766,Scottsdale
+4767,San Jose
+4768,Albuquerque
+4769,Ontario
+4770,Columbus
+4771,Fullerton
+4772,Los Angeles
+4773,Memphis
+4774,Santa Ana
+4775,Honolulu
+4776,Reno
+4777,Houston
+4778,San Jose
+4779,Madison
+4780,Dallas
+4781,Honolulu
+4782,Boston
+4783,Wien
+4784,El Paso
+4785,Kansas City
+4786,Madrid
+4787,Bakersfield
+4788,Tallahassee
+4789,Glendale
+4790,Amarillo
+4791,Madison
+4792,Philadelphia
+4793,Detroit
+4794,Innsbruck
+4795,Tallahassee
+4796,Reno
+4797,San Diego
+4798,Cincinnati
+4799,Hollywood
+4800,Zurich
+4801,Rochester
+4802,Bucharest
+4803,Bucharest
+4804,Kansas City
+4805,Santa Ana
+4806,Springfield
+4807,Berna
+4808,Lincoln
+4809,Salem
+4810,Indianapolis
+4811,Arlington
+4812,Memphis
+4813,Amarillo
+4814,Orlando
+4815,Saint Paul
+4816,El Paso
+4817,Hollywood
+4818,Cincinnati
+4819,Miami
+4820,Portland
+4821,Chicago
+4822,Stockton
+4823,London
+4824,Denver
+4825,Henderson
+4826,Bakersfield
+4827,El Paso
+4828,Lisbon
+4829,Oklahoma City
+4830,Laredo
+4831,Richmond
+4832,Milwaukee
+4833,Valetta
+4834,Henderson
+4835,Miami
+4836,New York
+4837,Boston
+4838,Philadelphia
+4839,Toledo
+4840,Colorado Springs
+4841,Venice
+4842,Lincoln
+4843,Lincoln
+4844,San Jose
+4845,Irving
+4846,Boston
+4847,Huntsville
+4848,Madrid
+4849,Dallas
+4850,San Jose
+4851,Los Angeles
+4852,Glendale
+4853,Tallahassee
+4854,Bellevue
+4855,Philadelphia
+4856,Fayetteville
+4857,Lancaster
+4858,San Bernardino
+4859,Fayetteville
+4860,Otawa
+4861,Tulsa
+4862,Springfield
+4863,Tulsa
+4864,Lincoln
+4865,Escondido
+4866,Salem
+4867,San Bernardino
+4868,Hayward
+4869,Quebec
+4870,Otawa
+4871,Irving
+4872,Stockton
+4873,Dallas
+4874,Phoenix
+4875,El Paso
+4876,Indianapolis
+4877,Fayetteville
+4878,Hollywood
+4879,Madison
+4880,Berlin
+4881,Laredo
+4882,Milano
+4883,London
+4884,Salt Lake City
+4885,Berna
+4886,Nashville
+4887,Houston
+4888,Jersey City
+4889,Memphis
+4890,Madrid
+4891,Garland
+4892,San Francisco
+4893,Santa Ana
+4894,Madrid
+4895,Salem
+4896,Rome
+4897,Oklahoma City
+4898,Bucharest
+4899,Stockton
+4900,Berna
+4901,San Francisco
+4902,Salt Lake City
+4903,Madrid
+4904,Venice
+4905,Los Angeles
+4906,Lancaster
+4907,Kansas City
+4908,Saint Paul
+4909,Tallahassee
+4910,Indianapolis
+4911,Bucharest
+4912,Fremont
+4913,Madrid
+4914,Bellevue
+4915,Rome
+4916,Wien
+4917,Tokyo
+4918,Indianapolis
+4919,Lancaster
+4920,Las Vegas
+4921,Madison
+4922,Lancaster
+4923,Omaha
+4924,Lancaster
+4925,Valetta
+4926,Nashville
+4927,Long Beach
+4928,Jersey City
+4929,Miami
+4930,Zurich
+4931,Huntsville
+4932,Ontario
+4933,Philadelphia
+4934,Milwaukee
+4935,Tulsa
+4936,Wien
+4937,Salt Lake City
+4938,Indianapolis
+4939,London
+4940,Portland
+4941,Stockton
+4942,Laredo
+4943,Las Vegas
+4944,Portland
+4945,Madrid
+4946,Sacramento
+4947,Norfolk
+4948,Fremont
+4949,Philadelphia
+4950,Laredo
+4951,Chicago
+4952,Fayetteville
+4953,London
+4954,Richmond
+4955,Norfolk
+4956,Moreno Valley
+4957,Tulsa
+4958,Jacksonville
+4959,Tulsa
+4960,Louisville
+4961,Escondido
+4962,Venice
+4963,Denver
+4964,Charlotte
+4965,Atlanta
+4966,Charlotte
+4967,Houston
+4968,Zurich
+4969,Lancaster
+4970,Orlando
+4971,Venice
+4972,Lancaster
+4973,Lincoln
+4974,Santa Ana
+4975,Detroit
+4976,Garland
+4977,Dallas
+4978,Los Angeles
+4979,Albuquerque
+4980,Prague
+4981,Minneapolis
+4982,Otawa
+4983,Madrid
+4984,Tallahassee
+4985,Philadelphia
+4986,Philadelphia
+4987,Otawa
+4988,Reno
+4989,Wien
+4990,Baltimore
+4991,Murfreesboro
+4992,Minneapolis
+4993,El Paso
+4994,Fullerton
+4995,Tulsa
+4996,Laredo
+4997,Lisbon
+4998,Tokyo
+4999,Washington
+5000,Madison
+5001,Honolulu
+5002,Anaheim
+5003,Lisbon
+5004,Valetta
+5005,Albuquerque
+5006,Lakewood
+5007,Lyon
+5008,Saint Paul
+5009,St. Louis
+5010,Phoenix
+5011,Salt Lake City
+5012,San Antonio
+5013,Tulsa
+5014,Baltimore
+5015,Ontario
+5016,Scottsdale
+5017,Omaha
+5018,Lakewood
+5019,Lincoln
+5020,Dallas
+5021,Albuquerque
+5022,Lincoln
+5023,Garland
+5024,San Antonio
+5025,Venice
+5026,Lancaster
+5027,Cincinnati
+5028,Bakersfield
+5029,Jersey City
+5030,Phoenix
+5031,Tallahassee
+5032,Columbus
+5033,Louisville
+5034,Moreno Valley
+5035,Detroit
+5036,Reno
+5037,Phoenix
+5038,Norfolk
+5039,Lincoln
+5040,Bucharest
+5041,Detroit
+5042,Salt Lake City
+5043,Valetta
+5044,Madrid
+5045,Pittsburgh
+5046,Oakland
+5047,Santa Ana
+5048,Toledo
+5049,El Paso
+5050,Fullerton
+5051,Columbus
+5052,Richmond
+5053,Hollywood
+5054,Phoenix
+5055,Jersey City
+5056,Detroit
+5057,Washington
+5058,Boston
+5059,Miami
+5060,Lancaster
+5061,Denver
+5062,Charlotte
+5063,Zurich
+5064,Fremont
+5065,San Jose
+5066,Oklahoma City
+5067,San Jose
+5068,Santa Ana
+5069,Fullerton
+5070,San Francisco
+5071,Berlin
+5072,Scottsdale
+5073,Hayward
+5074,Wien
+5075,Santa Ana
+5076,Stockton
+5077,Bridgeport
+5078,Berlin
+5079,Stockton
+5080,Innsbruck
+5081,Hayward
+5082,Dallas
+5083,Boston
+5084,Escondido
+5085,Ontario
+5086,Stockton
+5087,Lancaster
+5088,Los Angeles
+5089,Atlanta
+5090,Quebec
+5091,San Jose
+5092,Orlando
+5093,Murfreesboro
+5094,Indianapolis
+5095,Detroit
+5096,Huntsville
+5097,Houston
+5098,Jacksonville
+5099,Hollywood
+5100,Paris
+5101,Nashville
+5102,Bucharest
+5103,Henderson
+5104,Rome
+5105,Tokyo
+5106,Lyon
+5107,Minneapolis
+5108,Huntsville
+5109,Honolulu
+5110,Henderson
+5111,Rochester
+5112,Louisville
+5113,Bakersfield
+5114,Albuquerque
+5115,Baltimore
+5116,Oklahoma City
+5117,Oakland
+5118,Wien
+5119,San Diego
+5120,Tallahassee
+5121,Honolulu
+5122,Sacramento
+5123,Garland
+5124,Venice
+5125,Las Vegas
+5126,Miami
+5127,Wien
+5128,London
+5129,Boston
+5130,Philadelphia
+5131,San Francisco
+5132,El Paso
+5133,Charlotte
+5134,Amarillo
+5135,Huntsville
+5136,Hayward
+5137,Oklahoma City
+5138,Pittsburgh
+5139,Jersey City
+5140,Wien
+5141,Colorado Springs
+5142,Pittsburgh
+5143,Detroit
+5144,London
+5145,Hayward
+5146,Norfolk
+5147,Seattle
+5148,St. Louis
+5149,Dallas
+5150,Minneapolis
+5151,Albuquerque
+5152,Otawa
+5153,Albuquerque
+5154,Oakland
+5155,Garland
+5156,Sacramento
+5157,Oakland
+5158,Paris
+5159,San Diego
+5160,Saint Paul
+5161,Venice
+5162,Fullerton
+5163,Reno
+5164,Lisbon
+5165,Jacksonville
+5166,Nashville
+5167,Milano
+5168,Richmond
+5169,Garland
+5170,Hollywood
+5171,Bucharest
+5172,Lisbon
+5173,Hayward
+5174,Milano
+5175,Atlanta
+5176,Kansas City
+5177,San Antonio
+5178,Berlin
+5179,Fort Lauderdale
+5180,Hollywood
+5181,Toledo
+5182,Houston
+5183,Prague
+5184,Lakewood
+5185,Bridgeport
+5186,Sacramento
+5187,Sacramento
+5188,Albuquerque
+5189,Bridgeport
+5190,Arlington
+5191,Salt Lake City
+5192,Long Beach
+5193,Henderson
+5194,Bridgeport
+5195,Stockton
+5196,Portland
+5197,Norfolk
+5198,Hayward
+5199,Columbus
+5200,Atlanta
+5201,Milano
+5202,Boston
+5203,Lyon
+5204,Sacramento
+5205,Minneapolis
+5206,Rochester
+5207,El Paso
+5208,Cincinnati
+5209,Boston
+5210,Toledo
+5211,Detroit
+5212,Santa Ana
+5213,Tokyo
+5214,Worcester
+5215,Oklahoma City
+5216,Rochester
+5217,Albuquerque
+5218,Glendale
+5219,London
+5220,Salt Lake City
+5221,Bridgeport
+5222,Tallahassee
+5223,Oklahoma City
+5224,Lisbon
+5225,Lakewood
+5226,Irving
+5227,New York
+5228,Bellevue
+5229,London
+5230,Irving
+5231,Salem
+5232,Bucharest
+5233,Nashville
+5234,Fremont
+5235,Atlanta
+5236,Lakewood
+5237,Prague
+5238,Toledo
+5239,Rome
+5240,Miami
+5241,Colorado Springs
+5242,Amarillo
+5243,Quebec
+5244,San Diego
+5245,Springfield
+5246,Nashville
+5247,Escondido
+5248,San Diego
+5249,Denver
+5250,Charlotte
+5251,Columbus
+5252,Fort Lauderdale
+5253,Berna
+5254,Atlanta
+5255,San Bernardino
+5256,Albuquerque
+5257,Otawa
+5258,Bucharest
+5259,Colorado Springs
+5260,Phoenix
+5261,Garland
+5262,Reno
+5263,Minneapolis
+5264,New Orleans
+5265,San Bernardino
+5266,San Bernardino
+5267,Chicago
+5268,Louisville
+5269,Ontario
+5270,Fremont
+5271,Berna
+5272,Fort Lauderdale
+5273,Nashville
+5274,Huntsville
+5275,Long Beach
+5276,Reno
+5277,Arlington
+5278,Fullerton
+5279,Saint Paul
+5280,Omaha
+5281,Madrid
+5282,Zurich
+5283,Lisbon
+5284,Miami
+5285,Wien
+5286,Toledo
+5287,Tulsa
+5288,Hayward
+5289,Colorado Springs
+5290,Escondido
+5291,Paris
+5292,Moreno Valley
+5293,St. Louis
+5294,San Bernardino
+5295,Richmond
+5296,Fayetteville
+5297,Saint Paul
+5298,Madison
+5299,Otawa
+5300,Worcester
+5301,Portland
+5302,Lakewood
+5303,Madison
+5304,Murfreesboro
+5305,Chicago
+5306,Madison
+5307,Portland
+5308,Oklahoma City
+5309,Laredo
+5310,Fort Lauderdale
+5311,Venice
+5312,Prague
+5313,San Jose
+5314,Boston
+5315,Escondido
+5316,Venice
+5317,Otawa
+5318,Honolulu
+5319,Madison
+5320,Houston
+5321,St. Louis
+5322,Irving
+5323,Fremont
+5324,Baltimore
+5325,Miami
+5326,Otawa
+5327,Portland
+5328,Miami
+5329,Jacksonville
+5330,Memphis
+5331,Stockton
+5332,Baltimore
+5333,Memphis
+5334,Lisbon
+5335,Los Angeles
+5336,Oklahoma City
+5337,Lakewood
+5338,Atlanta
+5339,Norfolk
+5340,Saint Paul
+5341,Arlington
+5342,Tokyo
+5343,Bridgeport
+5344,Dallas
+5345,Long Beach
+5346,Indianapolis
+5347,Zurich
+5348,Toledo
+5349,Worcester
+5350,Kansas City
+5351,Seattle
+5352,Oakland
+5353,Bucharest
+5354,Huntsville
+5355,Arlington
+5356,Bellevue
+5357,Innsbruck
+5358,Phoenix
+5359,Wien
+5360,Colorado Springs
+5361,Bridgeport
+5362,London
+5363,Los Angeles
+5364,Berlin
+5365,Lisbon
+5366,Richmond
+5367,Chicago
+5368,London
+5369,Chicago
+5370,Jacksonville
+5371,Ontario
+5372,Rochester
+5373,Berlin
+5374,El Paso
+5375,Atlanta
+5376,Arlington
+5377,Lisbon
+5378,Hollywood
+5379,Orlando
+5380,Lyon
+5381,Minneapolis
+5382,Los Angeles
+5383,El Paso
+5384,Worcester
+5385,Honolulu
+5386,Louisville
+5387,Baltimore
+5388,Washington
+5389,Moreno Valley
+5390,Worcester
+5391,Tallahassee
+5392,Rochester
+5393,Berna
+5394,Rochester
+5395,Venice
+5396,Honolulu
+5397,St. Louis
+5398,Prague
+5399,Anaheim
+5400,Paris
+5401,Venice
+5402,Norfolk
+5403,Lancaster
+5404,Baltimore
+5405,Henderson
+5406,Paris
+5407,Santa Ana
+5408,Stockton
+5409,Indianapolis
+5410,Quebec
+5411,Fort Lauderdale
+5412,Memphis
+5413,Boston
+5414,Tokyo
+5415,Berna
+5416,Berlin
+5417,Milano
+5418,Bellevue
+5419,Lyon
+5420,Lancaster
+5421,Zurich
+5422,Richmond
+5423,Anaheim
+5424,New York
+5425,Atlanta
+5426,El Paso
+5427,Moreno Valley
+5428,Reno
+5429,Amarillo
+5430,Columbus
+5431,Fullerton
+5432,Escondido
+5433,Seattle
+5434,Escondido
+5435,Fayetteville
+5436,Seattle
+5437,Stockton
+5438,Toledo
+5439,Berna
+5440,Reno
+5441,Anaheim
+5442,Pittsburgh
+5443,Honolulu
+5444,Prague
+5445,Berna
+5446,Lyon
+5447,Norfolk
+5448,San Jose
+5449,Moreno Valley
+5450,Milwaukee
+5451,San Jose
+5452,Fort Lauderdale
+5453,Cincinnati
+5454,Lyon
+5455,Portland
+5456,Santa Ana
+5457,Zurich
+5458,Reno
+5459,Garland
+5460,Innsbruck
+5461,Springfield
+5462,Fayetteville
+5463,Paris
+5464,Portland
+5465,Tokyo
+5466,San Bernardino
+5467,El Paso
+5468,Huntsville
+5469,Norfolk
+5470,Fayetteville
+5471,Santa Ana
+5472,Valetta
+5473,Cincinnati
+5474,St. Louis
+5475,Hollywood
+5476,Sacramento
+5477,Arlington
+5478,Lakewood
+5479,Orlando
+5480,Milano
+5481,New York
+5482,Zurich
+5483,Las Vegas
+5484,New York
+5485,Kansas City
+5486,Portland
+5487,Omaha
+5488,San Francisco
+5489,Miami
+5490,Tallahassee
+5491,Lyon
+5492,Valetta
+5493,Santa Ana
+5494,Kansas City
+5495,Escondido
+5496,Tulsa
+5497,Oklahoma City
+5498,Wien
+5499,Oakland
+5500,Saint Paul
+5501,Henderson
+5502,Lincoln
+5503,Louisville
+5504,Pittsburgh
+5505,Innsbruck
+5506,Bucharest
+5507,Louisville
+5508,Louisville
+5509,Lisbon
+5510,Laredo
+5511,Rome
+5512,Madison
+5513,Memphis
+5514,San Antonio
+5515,Long Beach
+5516,Ontario
+5517,Salt Lake City
+5518,Tallahassee
+5519,Fremont
+5520,Albuquerque
+5521,Escondido
+5522,Rome
+5523,Madison
+5524,Oakland
+5525,Lincoln
+5526,Madrid
+5527,Anaheim
+5528,Murfreesboro
+5529,Lisbon
+5530,Berna
+5531,Richmond
+5532,Kansas City
+5533,Laredo
+5534,Lakewood
+5535,San Francisco
+5536,Detroit
+5537,Huntsville
+5538,Escondido
+5539,Sacramento
+5540,Boston
+5541,Valetta
+5542,Denver
+5543,Long Beach
+5544,Escondido
+5545,Prague
+5546,Tulsa
+5547,Denver
+5548,Hollywood
+5549,Philadelphia
+5550,Boston
+5551,Indianapolis
+5552,Salem
+5553,Indianapolis
+5554,Chicago
+5555,St. Louis
+5556,Columbus
+5557,Scottsdale
+5558,Reno
+5559,Fremont
+5560,San Bernardino
+5561,London
+5562,New York
+5563,San Jose
+5564,Scottsdale
+5565,Lyon
+5566,Long Beach
+5567,St. Louis
+5568,Madrid
+5569,Miami
+5570,Milano
+5571,Denver
+5572,Portland
+5573,Anaheim
+5574,Louisville
+5575,San Antonio
+5576,Denver
+5577,Kansas City
+5578,Paris
+5579,Fullerton
+5580,Oklahoma City
+5581,Jersey City
+5582,Fremont
+5583,Bridgeport
+5584,Hayward
+5585,Quebec
+5586,Charlotte
+5587,Houston
+5588,Pittsburgh
+5589,Omaha
+5590,Moreno Valley
+5591,Arlington
+5592,Albuquerque
+5593,Bridgeport
+5594,San Antonio
+5595,Glendale
+5596,Oklahoma City
+5597,Moreno Valley
+5598,Moreno Valley
+5599,Arlington
+5600,Louisville
+5601,Innsbruck
+5602,Houston
+5603,New Orleans
+5604,London
+5605,Wien
+5606,Columbus
+5607,Lancaster
+5608,Lisbon
+5609,Irving
+5610,Richmond
+5611,Valetta
+5612,San Jose
+5613,Houston
+5614,Henderson
+5615,Lancaster
+5616,Prague
+5617,Jersey City
+5618,Scottsdale
+5619,Worcester
+5620,Bakersfield
+5621,Omaha
+5622,Lancaster
+5623,Hayward
+5624,Otawa
+5625,Albuquerque
+5626,Huntsville
+5627,Paris
+5628,Hayward
+5629,Scottsdale
+5630,Garland
+5631,San Jose
+5632,Berna
+5633,Berlin
+5634,New Orleans
+5635,Arlington
+5636,Milano
+5637,Bakersfield
+5638,Arlington
+5639,Moreno Valley
+5640,San Jose
+5641,St. Louis
+5642,Prague
+5643,Lisbon
+5644,Louisville
+5645,Zurich
+5646,Philadelphia
+5647,Miami
+5648,Rome
+5649,Kansas City
+5650,Toledo
+5651,Arlington
+5652,Bellevue
+5653,Paris
+5654,Laredo
+5655,San Bernardino
+5656,Fremont
+5657,Amarillo
+5658,Glendale
+5659,Bellevue
+5660,Fort Lauderdale
+5661,Springfield
+5662,Baltimore
+5663,Indianapolis
+5664,London
+5665,Houston
+5666,Fullerton
+5667,Milano
+5668,Albuquerque
+5669,San Bernardino
+5670,Henderson
+5671,Bridgeport
+5672,Hollywood
+5673,Portland
+5674,Laredo
+5675,Baltimore
+5676,Hayward
+5677,Saint Paul
+5678,Valetta
+5679,Minneapolis
+5680,Zurich
+5681,Madison
+5682,Sacramento
+5683,Anaheim
+5684,Milano
+5685,Milwaukee
+5686,Salem
+5687,Arlington
+5688,Prague
+5689,Pittsburgh
+5690,Dallas
+5691,Tulsa
+5692,Memphis
+5693,Bakersfield
+5694,Anaheim
+5695,Norfolk
+5696,Oklahoma City
+5697,St. Louis
+5698,Dallas
+5699,Sacramento
+5700,Madrid
+5701,London
+5702,Innsbruck
+5703,Irving
+5704,Fayetteville
+5705,Berna
+5706,Escondido
+5707,Long Beach
+5708,Quebec
+5709,Seattle
+5710,Milwaukee
+5711,Milwaukee
+5712,New Orleans
+5713,Milano
+5714,San Antonio
+5715,Sacramento
+5716,Jacksonville
+5717,Paris
+5718,Venice
+5719,Minneapolis
+5720,Rome
+5721,Otawa
+5722,Prague
+5723,New Orleans
+5724,Albuquerque
+5725,Worcester
+5726,Madrid
+5727,El Paso
+5728,Boston
+5729,Kansas City
+5730,Garland
+5731,Oklahoma City
+5732,Venice
+5733,Moreno Valley
+5734,Venice
+5735,Las Vegas
+5736,Innsbruck
+5737,Hollywood
+5738,Tulsa
+5739,Lincoln
+5740,Moreno Valley
+5741,Honolulu
+5742,Arlington
+5743,Seattle
+5744,Bridgeport
+5745,Columbus
+5746,Lyon
+5747,Houston
+5748,Escondido
+5749,Fullerton
+5750,Boston
+5751,Washington
+5752,San Francisco
+5753,St. Louis
+5754,Henderson
+5755,Otawa
+5756,Dallas
+5757,Otawa
+5758,Miami
+5759,Atlanta
+5760,Lincoln
+5761,San Jose
+5762,Henderson
+5763,Baltimore
+5764,Ontario
+5765,Rome
+5766,Toledo
+5767,Santa Ana
+5768,Tulsa
+5769,Detroit
+5770,Springfield
+5771,Colorado Springs
+5772,Dallas
+5773,Honolulu
+5774,Saint Paul
+5775,Fremont
+5776,Indianapolis
+5777,Seattle
+5778,Honolulu
+5779,Lancaster
+5780,San Diego
+5781,Anaheim
+5782,Saint Paul
+5783,Memphis
+5784,Bucharest
+5785,Las Vegas
+5786,Denver
+5787,Bridgeport
+5788,Anaheim
+5789,Memphis
+5790,Long Beach
+5791,New Orleans
+5792,New Orleans
+5793,Tokyo
+5794,Bucharest
+5795,Zurich
+5796,Jacksonville
+5797,Orlando
+5798,Garland
+5799,Stockton
+5800,Oklahoma City
+5801,Salem
+5802,Albuquerque
+5803,Berna
+5804,Rome
+5805,Springfield
+5806,Pittsburgh
+5807,Orlando
+5808,Oakland
+5809,Atlanta
+5810,Arlington
+5811,Tallahassee
+5812,San Antonio
+5813,Glendale
+5814,Amarillo
+5815,Indianapolis
+5816,San Antonio
+5817,Lakewood
+5818,San Antonio
+5819,Stockton
+5820,London
+5821,Berna
+5822,Bellevue
+5823,Escondido
+5824,Oklahoma City
+5825,El Paso
+5826,Innsbruck
+5827,Saint Paul
+5828,New York
+5829,Innsbruck
+5830,San Bernardino
+5831,Las Vegas
+5832,Ontario
+5833,Jacksonville
+5834,Salt Lake City
+5835,Long Beach
+5836,Valetta
+5837,Denver
+5838,Cincinnati
+5839,Omaha
+5840,Escondido
+5841,Phoenix
+5842,Amarillo
+5843,Stockton
+5844,Hollywood
+5845,Wien
+5846,Los Angeles
+5847,Oakland
+5848,Bakersfield
+5849,Omaha
+5850,Tulsa
+5851,New York
+5852,Sacramento
+5853,Paris
+5854,Prague
+5855,Fayetteville
+5856,Wien
+5857,Huntsville
+5858,Huntsville
+5859,Dallas
+5860,Rochester
+5861,Toledo
+5862,Omaha
+5863,Madison
+5864,Dallas
+5865,St. Louis
+5866,Rochester
+5867,Milwaukee
+5868,Los Angeles
+5869,Lancaster
+5870,Lisbon
+5871,Sacramento
+5872,Richmond
+5873,Innsbruck
+5874,Glendale
+5875,Otawa
+5876,Atlanta
+5877,Lincoln
+5878,St. Louis
+5879,Miami
+5880,Richmond
+5881,Rome
+5882,Milano
+5883,Minneapolis
+5884,Otawa
+5885,Fullerton
+5886,St. Louis
+5887,Honolulu
+5888,Lisbon
+5889,Milwaukee
+5890,Arlington
+5891,Madison
+5892,Boston
+5893,Ontario
+5894,London
+5895,Rochester
+5896,Stockton
+5897,Orlando
+5898,Chicago
+5899,Pittsburgh
+5900,Philadelphia
+5901,Otawa
+5902,Norfolk
+5903,Milano
+5904,New Orleans
+5905,El Paso
+5906,Moreno Valley
+5907,Springfield
+5908,Zurich
+5909,Lincoln
+5910,Omaha
+5911,Lyon
+5912,Fremont
+5913,Chicago
+5914,Milano
+5915,Sacramento
+5916,Saint Paul
+5917,Albuquerque
+5918,Colorado Springs
+5919,Phoenix
+5920,Bucharest
+5921,Garland
+5922,Lyon
+5923,Otawa
+5924,Minneapolis
+5925,San Diego
+5926,Berna
+5927,Fayetteville
+5928,San Bernardino
+5929,Dallas
+5930,Worcester
+5931,Milwaukee
+5932,Worcester
+5933,Lancaster
+5934,Saint Paul
+5935,Orlando
+5936,San Diego
+5937,Quebec
+5938,San Antonio
+5939,San Antonio
+5940,Boston
+5941,El Paso
+5942,Tulsa
+5943,Norfolk
+5944,Orlando
+5945,Memphis
+5946,Detroit
+5947,Los Angeles
+5948,Scottsdale
+5949,Cincinnati
+5950,Saint Paul
+5951,Honolulu
+5952,Pittsburgh
+5953,Baltimore
+5954,Otawa
+5955,Omaha
+5956,Pittsburgh
+5957,Tallahassee
+5958,Denver
+5959,Hollywood
+5960,Indianapolis
+5961,Phoenix
+5962,Omaha
+5963,Oakland
+5964,Madison
+5965,New Orleans
+5966,Berna
+5967,Lyon
+5968,Honolulu
+5969,Lisbon
+5970,Salt Lake City
+5971,Saint Paul
+5972,Louisville
+5973,Norfolk
+5974,Madison
+5975,Salt Lake City
+5976,Moreno Valley
+5977,Milwaukee
+5978,Innsbruck
+5979,Ontario
+5980,Reno
+5981,Reno
+5982,Chicago
+5983,Fort Lauderdale
+5984,Lincoln
+5985,Phoenix
+5986,Zurich
+5987,Jacksonville
+5988,Charlotte
+5989,Lisbon
+5990,Colorado Springs
+5991,Tallahassee
+5992,San Bernardino
+5993,Portland
+5994,Seattle
+5995,Rome
+5996,Nashville
+5997,Detroit
+5998,Oklahoma City
+5999,Huntsville
+6000,Hayward
+6001,Portland
+6002,Detroit
+6003,Omaha
+6004,Lancaster
+6005,Quebec
+6006,Chicago
+6007,Reno
+6008,Washington
+6009,Scottsdale
+6010,Hayward
+6011,Bridgeport
+6012,Tokyo
+6013,Fayetteville
+6014,Arlington
+6015,Cincinnati
+6016,Rochester
+6017,Indianapolis
+6018,Sacramento
+6019,Santa Ana
+6020,Paris
+6021,Irving
+6022,Bakersfield
+6023,Philadelphia
+6024,Jersey City
+6025,Portland
+6026,Los Angeles
+6027,Saint Paul
+6028,Columbus
+6029,Amarillo
+6030,Santa Ana
+6031,New York
+6032,Rome
+6033,Nashville
+6034,Arlington
+6035,El Paso
+6036,Lakewood
+6037,Charlotte
+6038,Murfreesboro
+6039,Tokyo
+6040,Kansas City
+6041,Dallas
+6042,Miami
+6043,Long Beach
+6044,Boston
+6045,Henderson
+6046,Innsbruck
+6047,Santa Ana
+6048,San Diego
+6049,Bridgeport
+6050,Minneapolis
+6051,El Paso
+6052,Rochester
+6053,Reno
+6054,Prague
+6055,Richmond
+6056,Cincinnati
+6057,Norfolk
+6058,Nashville
+6059,Santa Ana
+6060,Tallahassee
+6061,Honolulu
+6062,Salt Lake City
+6063,London
+6064,Baltimore
+6065,Berlin
+6066,Henderson
+6067,Los Angeles
+6068,Baltimore
+6069,London
+6070,San Bernardino
+6071,Arlington
+6072,Berlin
+6073,Lancaster
+6074,Saint Paul
+6075,Tulsa
+6076,Albuquerque
+6077,Jacksonville
+6078,Sacramento
+6079,Henderson
+6080,Scottsdale
+6081,Amarillo
+6082,Milwaukee
+6083,Fullerton
+6084,Columbus
+6085,New York
+6086,Reno
+6087,Hayward
+6088,Omaha
+6089,Stockton
+6090,Bellevue
+6091,Honolulu
+6092,Lancaster
+6093,Los Angeles
+6094,Jacksonville
+6095,St. Louis
+6096,Rome
+6097,Fayetteville
+6098,New Orleans
+6099,Garland
+6100,Bucharest
+6101,Oklahoma City
+6102,Bucharest
+6103,Laredo
+6104,Baltimore
+6105,Fayetteville
+6106,Norfolk
+6107,Scottsdale
+6108,Stockton
+6109,Kansas City
+6110,Amarillo
+6111,Fullerton
+6112,Washington
+6113,Paris
+6114,Kansas City
+6115,Minneapolis
+6116,San Bernardino
+6117,Richmond
+6118,Colorado Springs
+6119,Honolulu
+6120,Kansas City
+6121,Nashville
+6122,Bellevue
+6123,Pittsburgh
+6124,Albuquerque
+6125,Fullerton
+6126,Bridgeport
+6127,Paris
+6128,Glendale
+6129,Escondido
+6130,Lisbon
+6131,Denver
+6132,Salem
+6133,San Francisco
+6134,Fort Lauderdale
+6135,Ontario
+6136,Venice
+6137,Philadelphia
+6138,Richmond
+6139,New Orleans
+6140,Huntsville
+6141,Henderson
+6142,Otawa
+6143,Seattle
+6144,Paris
+6145,Kansas City
+6146,Omaha
+6147,Indianapolis
+6148,Rome
+6149,Indianapolis
+6150,Miami
+6151,Seattle
+6152,Garland
+6153,Bridgeport
+6154,Toledo
+6155,Phoenix
+6156,Minneapolis
+6157,St. Louis
+6158,Fullerton
+6159,Glendale
+6160,Louisville
+6161,Santa Ana
+6162,Prague
+6163,Portland
+6164,Laredo
+6165,Santa Ana
+6166,Los Angeles
+6167,Fullerton
+6168,Lincoln
+6169,Stockton
+6170,Madrid
+6171,Bucharest
+6172,Bucharest
+6173,Jersey City
+6174,Fullerton
+6175,Fayetteville
+6176,Anaheim
+6177,Baltimore
+6178,Oklahoma City
+6179,Lyon
+6180,Madrid
+6181,Albuquerque
+6182,Sacramento
+6183,Valetta
+6184,Glendale
+6185,Sacramento
+6186,San Bernardino
+6187,Scottsdale
+6188,Arlington
+6189,Miami
+6190,Prague
+6191,Dallas
+6192,New York
+6193,Washington
+6194,Stockton
+6195,Fort Lauderdale
+6196,Madrid
+6197,Philadelphia
+6198,Rochester
+6199,Madrid
+6200,Madison
+6201,Lancaster
+6202,Madrid
+6203,Valetta
+6204,Tokyo
+6205,Miami
+6206,Seattle
+6207,Lincoln
+6208,Pittsburgh
+6209,Lisbon
+6210,Wien
+6211,New Orleans
+6212,Santa Ana
+6213,Amarillo
+6214,Berna
+6215,Kansas City
+6216,Fort Lauderdale
+6217,Minneapolis
+6218,Hollywood
+6219,Murfreesboro
+6220,Amarillo
+6221,Richmond
+6222,Pittsburgh
+6223,Saint Paul
+6224,London
+6225,Prague
+6226,Toledo
+6227,Phoenix
+6228,Henderson
+6229,Hayward
+6230,Pittsburgh
+6231,Moreno Valley
+6232,Columbus
+6233,Henderson
+6234,Tulsa
+6235,Colorado Springs
+6236,Glendale
+6237,Jersey City
+6238,San Francisco
+6239,Madrid
+6240,Escondido
+6241,Baltimore
+6242,Honolulu
+6243,Jersey City
+6244,Madrid
+6245,Kansas City
+6246,San Bernardino
+6247,Las Vegas
+6248,Lakewood
+6249,Charlotte
+6250,Bucharest
+6251,Lincoln
+6252,Lakewood
+6253,Phoenix
+6254,Miami
+6255,Washington
+6256,Charlotte
+6257,Santa Ana
+6258,Milwaukee
+6259,Garland
+6260,San Francisco
+6261,Pittsburgh
+6262,Charlotte
+6263,Philadelphia
+6264,Long Beach
+6265,St. Louis
+6266,Huntsville
+6267,Irving
+6268,Madrid
+6269,Irving
+6270,San Francisco
+6271,Honolulu
+6272,Norfolk
+6273,Columbus
+6274,Innsbruck
+6275,Fort Lauderdale
+6276,Memphis
+6277,Indianapolis
+6278,Kansas City
+6279,Laredo
+6280,Honolulu
+6281,Stockton
+6282,San Antonio
+6283,Boston
+6284,Portland
+6285,Fremont
+6286,El Paso
+6287,Huntsville
+6288,Phoenix
+6289,Salem
+6290,San Bernardino
+6291,Tokyo
+6292,Albuquerque
+6293,Wien
+6294,Lisbon
+6295,Saint Paul
+6296,Lakewood
+6297,Lisbon
+6298,Berlin
+6299,Ontario
+6300,Arlington
+6301,Paris
+6302,Scottsdale
+6303,Kansas City
+6304,San Diego
+6305,Salt Lake City
+6306,Fayetteville
+6307,Tallahassee
+6308,Berna
+6309,Nashville
+6310,Wien
+6311,Chicago
+6312,Scottsdale
+6313,San Bernardino
+6314,Valetta
+6315,Innsbruck
+6316,El Paso
+6317,Reno
+6318,Tokyo
+6319,Oakland
+6320,Springfield
+6321,Quebec
+6322,Bucharest
+6323,Bellevue
+6324,Hayward
+6325,Nashville
+6326,Phoenix
+6327,Berlin
+6328,Worcester
+6329,Dallas
+6330,Memphis
+6331,Innsbruck
+6332,Rome
+6333,Henderson
+6334,New York
+6335,Oakland
+6336,New Orleans
+6337,Columbus
+6338,Bridgeport
+6339,Reno
+6340,Omaha
+6341,Columbus
+6342,Milano
+6343,San Francisco
+6344,Bellevue
+6345,Seattle
+6346,Orlando
+6347,San Francisco
+6348,Sacramento
+6349,Santa Ana
+6350,Oakland
+6351,Bellevue
+6352,Norfolk
+6353,Boston
+6354,Bridgeport
+6355,Arlington
+6356,Rochester
+6357,Louisville
+6358,Madrid
+6359,Innsbruck
+6360,Indianapolis
+6361,Bellevue
+6362,Otawa
+6363,Baltimore
+6364,Lincoln
+6365,Hayward
+6366,Fullerton
+6367,Orlando
+6368,Fullerton
+6369,Otawa
+6370,Oakland
+6371,Escondido
+6372,Wien
+6373,Washington
+6374,Fort Lauderdale
+6375,Hayward
+6376,Oklahoma City
+6377,Fremont
+6378,Bucharest
+6379,Berna
+6380,San Bernardino
+6381,Nashville
+6382,Jersey City
+6383,Santa Ana
+6384,Huntsville
+6385,Bakersfield
+6386,Memphis
+6387,Nashville
+6388,Madison
+6389,Fremont
+6390,Murfreesboro
+6391,Stockton
+6392,Boston
+6393,Louisville
+6394,Escondido
+6395,San Jose
+6396,Berlin
+6397,Pittsburgh
+6398,Nashville
+6399,Zurich
+6400,Valetta
+6401,Bucharest
+6402,San Jose
+6403,Las Vegas
+6404,Ontario
+6405,Springfield
+6406,Salt Lake City
+6407,Sacramento
+6408,Fayetteville
+6409,Portland
+6410,Moreno Valley
+6411,San Diego
+6412,Springfield
+6413,Venice
+6414,Madrid
+6415,Stockton
+6416,Berlin
+6417,Berlin
+6418,Philadelphia
+6419,Venice
+6420,San Diego
+6421,Bridgeport
+6422,Bucharest
+6423,Washington
+6424,Laredo
+6425,Scottsdale
+6426,Ontario
+6427,Bridgeport
+6428,Milwaukee
+6429,Los Angeles
+6430,Berlin
+6431,Hayward
+6432,Washington
+6433,Bridgeport
+6434,Milwaukee
+6435,San Bernardino
+6436,Charlotte
+6437,Tallahassee
+6438,Oakland
+6439,Oklahoma City
+6440,Bucharest
+6441,Columbus
+6442,Innsbruck
+6443,Dallas
+6444,Lakewood
+6445,Fullerton
+6446,Otawa
+6447,Arlington
+6448,Milwaukee
+6449,Laredo
+6450,Milano
+6451,Quebec
+6452,Portland
+6453,San Francisco
+6454,Santa Ana
+6455,Houston
+6456,Quebec
+6457,Ontario
+6458,Baltimore
+6459,Atlanta
+6460,Minneapolis
+6461,Orlando
+6462,Anaheim
+6463,Long Beach
+6464,Charlotte
+6465,Amarillo
+6466,Innsbruck
+6467,Jacksonville
+6468,Berlin
+6469,Rome
+6470,Kansas City
+6471,Fremont
+6472,Kansas City
+6473,Zurich
+6474,Fullerton
+6475,Venice
+6476,Louisville
+6477,San Francisco
+6478,Berna
+6479,Boston
+6480,Honolulu
+6481,San Antonio
+6482,Lancaster
+6483,Philadelphia
+6484,Jersey City
+6485,Berlin
+6486,Bucharest
+6487,Fullerton
+6488,Philadelphia
+6489,Tallahassee
+6490,San Bernardino
+6491,Detroit
+6492,Chicago
+6493,Boston
+6494,Bellevue
+6495,Rome
+6496,Hollywood
+6497,New York
+6498,Reno
+6499,Amarillo
+6500,Cincinnati
+6501,Charlotte
+6502,Zurich
+6503,Oklahoma City
+6504,Norfolk
+6505,San Bernardino
+6506,Baltimore
+6507,Madison
+6508,San Jose
+6509,Glendale
+6510,Minneapolis
+6511,Bridgeport
+6512,Fremont
+6513,Scottsdale
+6514,Columbus
+6515,New Orleans
+6516,Detroit
+6517,Moreno Valley
+6518,Toledo
+6519,Lyon
+6520,Amarillo
+6521,Tallahassee
+6522,Berlin
+6523,Fremont
+6524,Irving
+6525,San Francisco
+6526,Denver
+6527,Bucharest
+6528,Rochester
+6529,Springfield
+6530,Las Vegas
+6531,Oklahoma City
+6532,Dallas
+6533,Oklahoma City
+6534,Milano
+6535,Norfolk
+6536,Miami
+6537,Salt Lake City
+6538,El Paso
+6539,Madrid
+6540,Salt Lake City
+6541,Rome
+6542,San Diego
+6543,Milwaukee
+6544,Huntsville
+6545,Boston
+6546,Boston
+6547,New York
+6548,Columbus
+6549,Fremont
+6550,Pittsburgh
+6551,Salem
+6552,Hayward
+6553,Oakland
+6554,Quebec
+6555,Berna
+6556,Quebec
+6557,Cincinnati
+6558,Glendale
+6559,Anaheim
+6560,Reno
+6561,San Antonio
+6562,Escondido
+6563,Norfolk
+6564,Philadelphia
+6565,Glendale
+6566,Quebec
+6567,Stockton
+6568,Bakersfield
+6569,Fremont
+6570,Ontario
+6571,Los Angeles
+6572,Philadelphia
+6573,Otawa
+6574,New York
+6575,Louisville
+6576,Reno
+6577,El Paso
+6578,Oakland
+6579,Orlando
+6580,Denver
+6581,Innsbruck
+6582,Madrid
+6583,San Diego
+6584,Prague
+6585,Los Angeles
+6586,Otawa
+6587,Huntsville
+6588,Oklahoma City
+6589,Tokyo
+6590,Las Vegas
+6591,Los Angeles
+6592,Tallahassee
+6593,Arlington
+6594,Phoenix
+6595,Garland
+6596,Jersey City
+6597,Scottsdale
+6598,Bellevue
+6599,Bakersfield
+6600,Kansas City
+6601,Bakersfield
+6602,San Antonio
+6603,Las Vegas
+6604,San Diego
+6605,Fullerton
+6606,Seattle
+6607,Stockton
+6608,Baltimore
+6609,Saint Paul
+6610,Los Angeles
+6611,Henderson
+6612,Lisbon
+6613,London
+6614,Chicago
+6615,Madison
+6616,Springfield
+6617,Cincinnati
+6618,Salem
+6619,Fort Lauderdale
+6620,Fort Lauderdale
+6621,Fayetteville
+6622,Lancaster
+6623,Lincoln
+6624,Irving
+6625,Minneapolis
+6626,Orlando
+6627,Columbus
+6628,Lyon
+6629,Lancaster
+6630,Bellevue
+6631,Henderson
+6632,Cincinnati
+6633,Columbus
+6634,Memphis
+6635,Lincoln
+6636,Indianapolis
+6637,Springfield
+6638,Bucharest
+6639,Santa Ana
+6640,Seattle
+6641,Worcester
+6642,Fort Lauderdale
+6643,Berlin
+6644,Nashville
+6645,Glendale
+6646,Reno
+6647,New York
+6648,Santa Ana
+6649,Boston
+6650,Lakewood
+6651,Murfreesboro
+6652,Zurich
+6653,Lisbon
+6654,Las Vegas
+6655,Henderson
+6656,Chicago
+6657,Moreno Valley
+6658,Garland
+6659,Albuquerque
+6660,Milano
+6661,Houston
+6662,Bakersfield
+6663,Rochester
+6664,Springfield
+6665,Columbus
+6666,Valetta
+6667,Louisville
+6668,Stockton
+6669,Indianapolis
+6670,Milwaukee
+6671,Quebec
+6672,Los Angeles
+6673,Berna
+6674,Jacksonville
+6675,San Diego
+6676,Amarillo
+6677,Otawa
+6678,Prague
+6679,Portland
+6680,Anaheim
+6681,Omaha
+6682,San Antonio
+6683,San Antonio
+6684,Los Angeles
+6685,Bridgeport
+6686,Jacksonville
+6687,Otawa
+6688,Dallas
+6689,Henderson
+6690,Omaha
+6691,Phoenix
+6692,Henderson
+6693,Jacksonville
+6694,Garland
+6695,Columbus
+6696,Madison
+6697,Amarillo
+6698,Milano
+6699,Oakland
+6700,Indianapolis
+6701,St. Louis
+6702,Colorado Springs
+6703,San Francisco
+6704,Laredo
+6705,Lakewood
+6706,Colorado Springs
+6707,Berlin
+6708,Jersey City
+6709,Valetta
+6710,Rochester
+6711,Colorado Springs
+6712,Quebec
+6713,Madison
+6714,Columbus
+6715,Huntsville
+6716,Fullerton
+6717,Garland
+6718,Orlando
+6719,Colorado Springs
+6720,Portland
+6721,Oakland
+6722,Colorado Springs
+6723,Bucharest
+6724,Philadelphia
+6725,San Francisco
+6726,Lakewood
+6727,Fullerton
+6728,Richmond
+6729,Laredo
+6730,Ontario
+6731,Quebec
+6732,Boston
+6733,Milwaukee
+6734,San Jose
+6735,Nashville
+6736,Santa Ana
+6737,Miami
+6738,Fremont
+6739,San Bernardino
+6740,Philadelphia
+6741,Philadelphia
+6742,Berna
+6743,Innsbruck
+6744,Amarillo
+6745,Santa Ana
+6746,Irving
+6747,Bridgeport
+6748,Laredo
+6749,San Francisco
+6750,Bridgeport
+6751,Paris
+6752,Chicago
+6753,Reno
+6754,El Paso
+6755,Los Angeles
+6756,Rome
+6757,Colorado Springs
+6758,Milano
+6759,Hayward
+6760,Bucharest
+6761,Portland
+6762,Moreno Valley
+6763,Ontario
+6764,Washington
+6765,Paris
+6766,Omaha
+6767,Norfolk
+6768,Ontario
+6769,Escondido
+6770,Denver
+6771,Atlanta
+6772,Sacramento
+6773,Columbus
+6774,Berlin
+6775,Fullerton
+6776,Memphis
+6777,New Orleans
+6778,Wien
+6779,Ontario
+6780,Pittsburgh
+6781,Salem
+6782,Colorado Springs
+6783,Santa Ana
+6784,Rome
+6785,New York
+6786,Rome
+6787,Atlanta
+6788,Richmond
+6789,Sacramento
+6790,Santa Ana
+6791,Quebec
+6792,Fullerton
+6793,Hayward
+6794,Philadelphia
+6795,Tokyo
+6796,Salt Lake City
+6797,Seattle
+6798,Berlin
+6799,Moreno Valley
+6800,Albuquerque
+6801,Otawa
+6802,Worcester
+6803,Honolulu
+6804,Albuquerque
+6805,Denver
+6806,Murfreesboro
+6807,Lakewood
+6808,Baltimore
+6809,Charlotte
+6810,Madison
+6811,Hollywood
+6812,Cincinnati
+6813,Louisville
+6814,Henderson
+6815,Jacksonville
+6816,Tokyo
+6817,Las Vegas
+6818,San Diego
+6819,Springfield
+6820,Sacramento
+6821,Fayetteville
+6822,Hayward
+6823,Louisville
+6824,Milano
+6825,Denver
+6826,New Orleans
+6827,Detroit
+6828,Prague
+6829,Lakewood
+6830,Detroit
+6831,Honolulu
+6832,Fremont
+6833,St. Louis
+6834,San Bernardino
+6835,Hollywood
+6836,Bridgeport
+6837,Honolulu
+6838,Worcester
+6839,London
+6840,London
+6841,Bridgeport
+6842,Otawa
+6843,Salem
+6844,Paris
+6845,San Antonio
+6846,Tallahassee
+6847,New Orleans
+6848,Pittsburgh
+6849,Toledo
+6850,Bucharest
+6851,Denver
+6852,San Antonio
+6853,Milano
+6854,Bakersfield
+6855,Richmond
+6856,El Paso
+6857,Bellevue
+6858,San Jose
+6859,Ontario
+6860,Lancaster
+6861,Irving
+6862,Fort Lauderdale
+6863,Huntsville
+6864,Ontario
+6865,Scottsdale
+6866,Zurich
+6867,Springfield
+6868,Omaha
+6869,Fort Lauderdale
+6870,Henderson
+6871,Denver
+6872,Madrid
+6873,Paris
+6874,Tokyo
+6875,Quebec
+6876,Seattle
+6877,Saint Paul
+6878,Salem
+6879,Pittsburgh
+6880,Philadelphia
+6881,Bucharest
+6882,Richmond
+6883,Bridgeport
+6884,Lakewood
+6885,Oakland
+6886,Ontario
+6887,Denver
+6888,Boston
+6889,Oakland
+6890,Salt Lake City
+6891,Chicago
+6892,Atlanta
+6893,Atlanta
+6894,Jacksonville
+6895,Reno
+6896,Oklahoma City
+6897,Jacksonville
+6898,Richmond
+6899,Saint Paul
+6900,Miami
+6901,San Bernardino
+6902,Norfolk
+6903,Tulsa
+6904,Fullerton
+6905,Detroit
+6906,Moreno Valley
+6907,Fremont
+6908,Berna
+6909,Toledo
+6910,Colorado Springs
+6911,Garland
+6912,Huntsville
+6913,Oakland
+6914,Boston
+6915,Lancaster
+6916,Murfreesboro
+6917,Chicago
+6918,Lincoln
+6919,Seattle
+6920,Oklahoma City
+6921,Boston
+6922,Albuquerque
+6923,Philadelphia
+6924,Milwaukee
+6925,Dallas
+6926,Bridgeport
+6927,Honolulu
+6928,Louisville
+6929,Long Beach
+6930,Atlanta
+6931,Columbus
+6932,Indianapolis
+6933,Fremont
+6934,Innsbruck
+6935,Quebec
+6936,Lisbon
+6937,Lancaster
+6938,Pittsburgh
+6939,Milwaukee
+6940,Venice
+6941,Miami
+6942,Otawa
+6943,Stockton
+6944,Charlotte
+6945,Hayward
+6946,San Diego
+6947,Santa Ana
+6948,Escondido
+6949,Richmond
+6950,Rochester
+6951,Milwaukee
+6952,Cincinnati
+6953,Colorado Springs
+6954,Toledo
+6955,Innsbruck
+6956,Dallas
+6957,Stockton
+6958,Murfreesboro
+6959,Washington
+6960,Rochester
+6961,Philadelphia
+6962,Albuquerque
+6963,Stockton
+6964,Saint Paul
+6965,Laredo
+6966,San Bernardino
+6967,Garland
+6968,Madison
+6969,Boston
+6970,Scottsdale
+6971,New York
+6972,Santa Ana
+6973,Lyon
+6974,Louisville
+6975,Lincoln
+6976,Murfreesboro
+6977,Bakersfield
+6978,Amarillo
+6979,Boston
+6980,Toledo
+6981,Philadelphia
+6982,Columbus
+6983,Memphis
+6984,Fort Lauderdale
+6985,Orlando
+6986,El Paso
+6987,Bridgeport
+6988,Tulsa
+6989,Bucharest
+6990,San Francisco
+6991,New York
+6992,Toledo
+6993,Seattle
+6994,Glendale
+6995,Toledo
+6996,Innsbruck
+6997,Worcester
+6998,Rome
+6999,Moreno Valley
+7000,Las Vegas
+7001,Memphis
+7002,Washington
+7003,Fayetteville
+7004,Worcester
+7005,Garland
+7006,Innsbruck
+7007,Oakland
+7008,Seattle
+7009,Milwaukee
+7010,Cincinnati
+7011,Tulsa
+7012,Paris
+7013,St. Louis
+7014,Innsbruck
+7015,Long Beach
+7016,Memphis
+7017,Las Vegas
+7018,Hollywood
+7019,Henderson
+7020,Garland
+7021,Kansas City
+7022,Moreno Valley
+7023,Madison
+7024,San Bernardino
+7025,Phoenix
+7026,Hayward
+7027,Springfield
+7028,Paris
+7029,Long Beach
+7030,Hayward
+7031,Amarillo
+7032,Omaha
+7033,Paris
+7034,Jersey City
+7035,Portland
+7036,Tulsa
+7037,Rome
+7038,Pittsburgh
+7039,Detroit
+7040,Salem
+7041,Paris
+7042,Escondido
+7043,Oklahoma City
+7044,Tallahassee
+7045,Hayward
+7046,Cincinnati
+7047,Colorado Springs
+7048,Fort Lauderdale
+7049,Oklahoma City
+7050,Portland
+7051,Arlington
+7052,Scottsdale
+7053,Valetta
+7054,Orlando
+7055,Houston
+7056,Oklahoma City
+7057,Detroit
+7058,Albuquerque
+7059,Honolulu
+7060,Madison
+7061,Hayward
+7062,Murfreesboro
+7063,Milwaukee
+7064,Boston
+7065,Colorado Springs
+7066,Norfolk
+7067,Bucharest
+7068,Wien
+7069,Louisville
+7070,Santa Ana
+7071,Cincinnati
+7072,Escondido
+7073,Denver
+7074,Honolulu
+7075,Salt Lake City
+7076,Charlotte
+7077,Jersey City
+7078,Kansas City
+7079,Milwaukee
+7080,Fullerton
+7081,Milwaukee
+7082,Escondido
+7083,Phoenix
+7084,Atlanta
+7085,Tulsa
+7086,Zurich
+7087,Bellevue
+7088,Cincinnati
+7089,Chicago
+7090,Nashville
+7091,Otawa
+7092,Nashville
+7093,Santa Ana
+7094,Seattle
+7095,Louisville
+7096,Sacramento
+7097,Memphis
+7098,Garland
+7099,Milano
+7100,Glendale
+7101,Los Angeles
+7102,Cincinnati
+7103,Cincinnati
+7104,Cincinnati
+7105,Bakersfield
+7106,Hollywood
+7107,Berna
+7108,Oklahoma City
+7109,Zurich
+7110,Detroit
+7111,Memphis
+7112,Bridgeport
+7113,Rochester
+7114,Amarillo
+7115,Berna
+7116,Rome
+7117,Detroit
+7118,Rome
+7119,Sacramento
+7120,Springfield
+7121,Hayward
+7122,Arlington
+7123,Worcester
+7124,Bakersfield
+7125,Toledo
+7126,Louisville
+7127,Milano
+7128,Colorado Springs
+7129,Chicago
+7130,Miami
+7131,Sacramento
+7132,Fullerton
+7133,Oakland
+7134,Kansas City
+7135,Albuquerque
+7136,Nashville
+7137,Omaha
+7138,Venice
+7139,Valetta
+7140,San Diego
+7141,Berlin
+7142,Bridgeport
+7143,London
+7144,Dallas
+7145,Lincoln
+7146,Lincoln
+7147,Stockton
+7148,San Bernardino
+7149,Charlotte
+7150,El Paso
+7151,San Antonio
+7152,Cincinnati
+7153,Fremont
+7154,Wien
+7155,Lisbon
+7156,Madison
+7157,Denver
+7158,Anaheim
+7159,Fremont
+7160,Phoenix
+7161,Atlanta
+7162,Irving
+7163,Lisbon
+7164,Honolulu
+7165,Paris
+7166,St. Louis
+7167,Amarillo
+7168,Hollywood
+7169,Reno
+7170,Fort Lauderdale
+7171,Fullerton
+7172,Honolulu
+7173,Henderson
+7174,Bakersfield
+7175,Murfreesboro
+7176,Bellevue
+7177,El Paso
+7178,Amarillo
+7179,Tokyo
+7180,Tokyo
+7181,Garland
+7182,Fremont
+7183,San Bernardino
+7184,Columbus
+7185,Dallas
+7186,Amarillo
+7187,Washington
+7188,Dallas
+7189,Laredo
+7190,Prague
+7191,Bellevue
+7192,Amarillo
+7193,Washington
+7194,Cincinnati
+7195,Wien
+7196,Innsbruck
+7197,Fremont
+7198,Chicago
+7199,Orlando
+7200,Moreno Valley
+7201,Salt Lake City
+7202,Fort Lauderdale
+7203,Denver
+7204,Santa Ana
+7205,Charlotte
+7206,Berlin
+7207,Columbus
+7208,Rome
+7209,Tulsa
+7210,Philadelphia
+7211,Saint Paul
+7212,Kansas City
+7213,Scottsdale
+7214,Saint Paul
+7215,Madrid
+7216,Lakewood
+7217,San Antonio
+7218,Springfield
+7219,Memphis
+7220,Innsbruck
+7221,Norfolk
+7222,St. Louis
+7223,Hayward
+7224,Norfolk
+7225,Las Vegas
+7226,Lyon
+7227,Worcester
+7228,Valetta
+7229,Tokyo
+7230,Tallahassee
+7231,New Orleans
+7232,San Jose
+7233,Chicago
+7234,Garland
+7235,Amarillo
+7236,Bellevue
+7237,Chicago
+7238,Fayetteville
+7239,Phoenix
+7240,Cincinnati
+7241,Minneapolis
+7242,Baltimore
+7243,Toledo
+7244,Nashville
+7245,Richmond
+7246,Fullerton
+7247,San Francisco
+7248,Cincinnati
+7249,Minneapolis
+7250,Paris
+7251,Indianapolis
+7252,Kansas City
+7253,Salem
+7254,Albuquerque
+7255,Jacksonville
+7256,Baltimore
+7257,Nashville
+7258,Laredo
+7259,Hayward
+7260,New York
+7261,Minneapolis
+7262,Kansas City
+7263,Chicago
+7264,Tallahassee
+7265,Long Beach
+7266,Rochester
+7267,Cincinnati
+7268,Garland
+7269,Sacramento
+7270,Albuquerque
+7271,San Jose
+7272,Prague
+7273,Moreno Valley
+7274,Rome
+7275,New York
+7276,Paris
+7277,Boston
+7278,Atlanta
+7279,Hayward
+7280,Quebec
+7281,Sacramento
+7282,Detroit
+7283,Fayetteville
+7284,Philadelphia
+7285,Detroit
+7286,Long Beach
+7287,Bellevue
+7288,Arlington
+7289,Rome
+7290,Fort Lauderdale
+7291,Detroit
+7292,Nashville
+7293,Memphis
+7294,Jacksonville
+7295,Madrid
+7296,Fort Lauderdale
+7297,Washington
+7298,Hayward
+7299,Hollywood
+7300,Fullerton
+7301,Innsbruck
+7302,Fayetteville
+7303,Fayetteville
+7304,Stockton
+7305,Colorado Springs
+7306,Pittsburgh
+7307,Miami
+7308,Otawa
+7309,Nashville
+7310,Scottsdale
+7311,Saint Paul
+7312,Hayward
+7313,Zurich
+7314,San Antonio
+7315,Jersey City
+7316,Milano
+7317,Fort Lauderdale
+7318,Lancaster
+7319,Springfield
+7320,Bucharest
+7321,Milwaukee
+7322,Orlando
+7323,Jacksonville
+7324,Murfreesboro
+7325,Seattle
+7326,Ontario
+7327,Milano
+7328,Norfolk
+7329,Denver
+7330,Jacksonville
+7331,Philadelphia
+7332,Madrid
+7333,Murfreesboro
+7334,Philadelphia
+7335,Jacksonville
+7336,Saint Paul
+7337,Jacksonville
+7338,Venice
+7339,Ontario
+7340,Richmond
+7341,El Paso
+7342,Madison
+7343,Fullerton
+7344,Amarillo
+7345,Tulsa
+7346,Milwaukee
+7347,Las Vegas
+7348,Berna
+7349,Rome
+7350,Honolulu
+7351,Quebec
+7352,Oakland
+7353,Madrid
+7354,Hollywood
+7355,Huntsville
+7356,Colorado Springs
+7357,Garland
+7358,San Diego
+7359,Prague
+7360,Oakland
+7361,Kansas City
+7362,Madison
+7363,San Diego
+7364,Tulsa
+7365,Cincinnati
+7366,Kansas City
+7367,Garland
+7368,Chicago
+7369,Tokyo
+7370,Sacramento
+7371,Reno
+7372,Paris
+7373,Rome
+7374,Tallahassee
+7375,Stockton
+7376,San Diego
+7377,Atlanta
+7378,Portland
+7379,Las Vegas
+7380,Minneapolis
+7381,Salt Lake City
+7382,Tokyo
+7383,Miami
+7384,Memphis
+7385,Houston
+7386,Richmond
+7387,Bucharest
+7388,New Orleans
+7389,Amarillo
+7390,Hollywood
+7391,Garland
+7392,Albuquerque
+7393,Kansas City
+7394,London
+7395,Venice
+7396,Valetta
+7397,Charlotte
+7398,Louisville
+7399,Albuquerque
+7400,Zurich
+7401,Prague
+7402,Milano
+7403,Valetta
+7404,Lakewood
+7405,Laredo
+7406,Portland
+7407,Laredo
+7408,Stockton
+7409,Philadelphia
+7410,Seattle
+7411,Tallahassee
+7412,Madison
+7413,Scottsdale
+7414,Valetta
+7415,Saint Paul
+7416,Bellevue
+7417,Lisbon
+7418,St. Louis
+7419,Colorado Springs
+7420,Omaha
+7421,Kansas City
+7422,Moreno Valley
+7423,Tulsa
+7424,Lincoln
+7425,San Francisco
+7426,Atlanta
+7427,Norfolk
+7428,Richmond
+7429,Washington
+7430,Reno
+7431,Dallas
+7432,Toledo
+7433,Lancaster
+7434,Anaheim
+7435,Saint Paul
+7436,Anaheim
+7437,Fremont
+7438,Scottsdale
+7439,Ontario
+7440,Huntsville
+7441,Norfolk
+7442,El Paso
+7443,Irving
+7444,Omaha
+7445,Reno
+7446,Portland
+7447,Dallas
+7448,Santa Ana
+7449,Colorado Springs
+7450,Santa Ana
+7451,Madrid
+7452,Anaheim
+7453,Fremont
+7454,Bridgeport
+7455,Denver
+7456,Hollywood
+7457,Amarillo
+7458,San Francisco
+7459,Oklahoma City
+7460,Phoenix
+7461,Detroit
+7462,Lisbon
+7463,Baltimore
+7464,Richmond
+7465,Cincinnati
+7466,Paris
+7467,San Bernardino
+7468,Fullerton
+7469,San Antonio
+7470,Norfolk
+7471,New Orleans
+7472,Berna
+7473,Albuquerque
+7474,San Bernardino
+7475,Saint Paul
+7476,Washington
+7477,Toledo
+7478,Norfolk
+7479,Long Beach
+7480,New Orleans
+7481,Philadelphia
+7482,Rochester
+7483,London
+7484,Rome
+7485,Washington
+7486,Lisbon
+7487,Orlando
+7488,Las Vegas
+7489,Madison
+7490,Lancaster
+7491,Phoenix
+7492,Arlington
+7493,Fayetteville
+7494,San Jose
+7495,Toledo
+7496,Fullerton
+7497,Ontario
+7498,Murfreesboro
+7499,Glendale
+7500,Rome
+7501,Las Vegas
+7502,Phoenix
+7503,Norfolk
+7504,San Antonio
+7505,Jersey City
+7506,Venice
+7507,San Jose
+7508,Jacksonville
+7509,Wien
+7510,Portland
+7511,New York
+7512,Las Vegas
+7513,Milwaukee
+7514,Norfolk
+7515,Hayward
+7516,Sacramento
+7517,Bridgeport
+7518,Arlington
+7519,Portland
+7520,Oakland
+7521,Reno
+7522,Honolulu
+7523,Chicago
+7524,Kansas City
+7525,Garland
+7526,Arlington
+7527,Seattle
+7528,Portland
+7529,Houston
+7530,Fremont
+7531,Innsbruck
+7532,Omaha
+7533,Fort Lauderdale
+7534,Baltimore
+7535,Omaha
+7536,Paris
+7537,Boston
+7538,Omaha
+7539,Tallahassee
+7540,London
+7541,Fremont
+7542,Pittsburgh
+7543,Berlin
+7544,Bridgeport
+7545,Reno
+7546,Reno
+7547,Innsbruck
+7548,Bakersfield
+7549,Worcester
+7550,Indianapolis
+7551,St. Louis
+7552,San Antonio
+7553,Pittsburgh
+7554,Fort Lauderdale
+7555,Hayward
+7556,Ontario
+7557,Rochester
+7558,Colorado Springs
+7559,Murfreesboro
+7560,Hollywood
+7561,Worcester
+7562,Omaha
+7563,Lyon
+7564,Springfield
+7565,Saint Paul
+7566,Long Beach
+7567,Portland
+7568,Salem
+7569,Valetta
+7570,Fremont
+7571,Berna
+7572,Ontario
+7573,Hollywood
+7574,Miami
+7575,Ontario
+7576,Lisbon
+7577,Norfolk
+7578,Glendale
+7579,Chicago
+7580,Worcester
+7581,Milwaukee
+7582,Arlington
+7583,Memphis
+7584,Long Beach
+7585,Long Beach
+7586,Springfield
+7587,Lakewood
+7588,Quebec
+7589,Hollywood
+7590,Milano
+7591,Bucharest
+7592,Springfield
+7593,Lincoln
+7594,Garland
+7595,Baltimore
+7596,Wien
+7597,Phoenix
+7598,Chicago
+7599,Wien
+7600,Madrid
+7601,Honolulu
+7602,Lyon
+7603,Otawa
+7604,Amarillo
+7605,Hollywood
+7606,Albuquerque
+7607,Portland
+7608,Innsbruck
+7609,Wien
+7610,Santa Ana
+7611,Bakersfield
+7612,Zurich
+7613,St. Louis
+7614,Amarillo
+7615,Venice
+7616,Nashville
+7617,Nashville
+7618,Phoenix
+7619,Toledo
+7620,Bellevue
+7621,Miami
+7622,Hayward
+7623,Innsbruck
+7624,Charlotte
+7625,Dallas
+7626,Lisbon
+7627,Milwaukee
+7628,Pittsburgh
+7629,Bridgeport
+7630,Lyon
+7631,Minneapolis
+7632,Atlanta
+7633,Colorado Springs
+7634,Bakersfield
+7635,Pittsburgh
+7636,Lisbon
+7637,Worcester
+7638,Nashville
+7639,Zurich
+7640,Salt Lake City
+7641,Columbus
+7642,Dallas
+7643,Venice
+7644,Kansas City
+7645,Madrid
+7646,Dallas
+7647,Stockton
+7648,Stockton
+7649,Zurich
+7650,Milano
+7651,Moreno Valley
+7652,Quebec
+7653,Madrid
+7654,Honolulu
+7655,Huntsville
+7656,Fayetteville
+7657,Jacksonville
+7658,Colorado Springs
+7659,St. Louis
+7660,Fullerton
+7661,Rochester
+7662,Fort Lauderdale
+7663,Scottsdale
+7664,Tokyo
+7665,Berna
+7666,Columbus
+7667,Worcester
+7668,Boston
+7669,Memphis
+7670,Charlotte
+7671,Los Angeles
+7672,Quebec
+7673,Long Beach
+7674,Hollywood
+7675,San Diego
+7676,San Antonio
+7677,Lakewood
+7678,Milwaukee
+7679,Rome
+7680,Bucharest
+7681,New York
+7682,Charlotte
+7683,Minneapolis
+7684,Bellevue
+7685,Arlington
+7686,Minneapolis
+7687,Salt Lake City
+7688,Honolulu
+7689,Bellevue
+7690,Lancaster
+7691,Jersey City
+7692,Baltimore
+7693,Quebec
+7694,Madrid
+7695,Berlin
+7696,Madison
+7697,Wien
+7698,New York
+7699,Houston
+7700,Colorado Springs
+7701,Fayetteville
+7702,Berlin
+7703,San Bernardino
+7704,Springfield
+7705,Moreno Valley
+7706,Prague
+7707,Phoenix
+7708,Valetta
+7709,Long Beach
+7710,Stockton
+7711,Kansas City
+7712,Prague
+7713,Jersey City
+7714,Nashville
+7715,Wien
+7716,Tallahassee
+7717,Santa Ana
+7718,Louisville
+7719,Colorado Springs
+7720,Bakersfield
+7721,Atlanta
+7722,Phoenix
+7723,Tokyo
+7724,Bridgeport
+7725,Phoenix
+7726,Amarillo
+7727,Quebec
+7728,Amarillo
+7729,Ontario
+7730,Toledo
+7731,Moreno Valley
+7732,Las Vegas
+7733,Tallahassee
+7734,Moreno Valley
+7735,Charlotte
+7736,Hollywood
+7737,Wien
+7738,Berlin
+7739,Louisville
+7740,Murfreesboro
+7741,Irving
+7742,Otawa
+7743,San Diego
+7744,Tokyo
+7745,Louisville
+7746,Oklahoma City
+7747,Tulsa
+7748,Otawa
+7749,Long Beach
+7750,Fremont
+7751,Phoenix
+7752,Dallas
+7753,Stockton
+7754,Sacramento
+7755,Tallahassee
+7756,Madrid
+7757,Lakewood
+7758,Boston
+7759,Moreno Valley
+7760,Hayward
+7761,Prague
+7762,Los Angeles
+7763,Long Beach
+7764,Jersey City
+7765,Seattle
+7766,Salem
+7767,Orlando
+7768,Atlanta
+7769,Madrid
+7770,Fayetteville
+7771,Albuquerque
+7772,Lakewood
+7773,Quebec
+7774,Arlington
+7775,Indianapolis
+7776,Baltimore
+7777,Henderson
+7778,Bucharest
+7779,Salem
+7780,Bellevue
+7781,Madrid
+7782,St. Louis
+7783,Lancaster
+7784,Berna
+7785,Valetta
+7786,Stockton
+7787,Detroit
+7788,Lancaster
+7789,Madison
+7790,New Orleans
+7791,Stockton
+7792,San Bernardino
+7793,Bellevue
+7794,Columbus
+7795,Jacksonville
+7796,Huntsville
+7797,Seattle
+7798,St. Louis
+7799,Phoenix
+7800,Paris
+7801,Lincoln
+7802,Lincoln
+7803,Nashville
+7804,Arlington
+7805,Louisville
+7806,Baltimore
+7807,Fremont
+7808,San Bernardino
+7809,Salem
+7810,Madison
+7811,Memphis
+7812,Lakewood
+7813,Norfolk
+7814,Saint Paul
+7815,Springfield
+7816,Berna
+7817,Henderson
+7818,El Paso
+7819,Detroit
+7820,Jersey City
+7821,London
+7822,Detroit
+7823,Lisbon
+7824,San Bernardino
+7825,Venice
+7826,San Francisco
+7827,Reno
+7828,Valetta
+7829,Atlanta
+7830,Atlanta
+7831,Indianapolis
+7832,Portland
+7833,Nashville
+7834,Lincoln
+7835,Stockton
+7836,Long Beach
+7837,Bucharest
+7838,Minneapolis
+7839,Milwaukee
+7840,Columbus
+7841,Chicago
+7842,Bucharest
+7843,Madrid
+7844,Bucharest
+7845,Tallahassee
+7846,Innsbruck
+7847,El Paso
+7848,Worcester
+7849,Laredo
+7850,Long Beach
+7851,Baltimore
+7852,Chicago
+7853,Orlando
+7854,Indianapolis
+7855,San Antonio
+7856,Kansas City
+7857,Milwaukee
+7858,Miami
+7859,Nashville
+7860,Lincoln
+7861,Toledo
+7862,Albuquerque
+7863,Zurich
+7864,Cincinnati
+7865,Tokyo
+7866,Indianapolis
+7867,Omaha
+7868,Huntsville
+7869,Madison
+7870,Toledo
+7871,Berna
+7872,Colorado Springs
+7873,San Bernardino
+7874,Innsbruck
+7875,Houston
+7876,London
+7877,Orlando
+7878,Milwaukee
+7879,Worcester
+7880,Reno
+7881,Chicago
+7882,Denver
+7883,Salem
+7884,Laredo
+7885,Oakland
+7886,Venice
+7887,San Francisco
+7888,El Paso
+7889,Innsbruck
+7890,Charlotte
+7891,St. Louis
+7892,New Orleans
+7893,Milwaukee
+7894,Norfolk
+7895,Murfreesboro
+7896,Memphis
+7897,Bridgeport
+7898,Irving
+7899,Fullerton
+7900,Glendale
+7901,Phoenix
+7902,Fullerton
+7903,Bakersfield
+7904,Ontario
+7905,El Paso
+7906,Lyon
+7907,Anaheim
+7908,Albuquerque
+7909,Irving
+7910,Springfield
+7911,Prague
+7912,Bucharest
+7913,El Paso
+7914,Saint Paul
+7915,Worcester
+7916,Amarillo
+7917,Hollywood
+7918,Paris
+7919,Lisbon
+7920,Toledo
+7921,Fayetteville
+7922,Phoenix
+7923,Pittsburgh
+7924,San Diego
+7925,Santa Ana
+7926,New York
+7927,Prague
+7928,El Paso
+7929,Cincinnati
+7930,Atlanta
+7931,Los Angeles
+7932,Santa Ana
+7933,Ontario
+7934,Prague
+7935,Milwaukee
+7936,Rome
+7937,Lincoln
+7938,Richmond
+7939,Escondido
+7940,Pittsburgh
+7941,Long Beach
+7942,Denver
+7943,Boston
+7944,San Antonio
+7945,Laredo
+7946,St. Louis
+7947,Sacramento
+7948,Berna
+7949,Valetta
+7950,Worcester
+7951,Arlington
+7952,Orlando
+7953,Bridgeport
+7954,Philadelphia
+7955,Jacksonville
+7956,Bucharest
+7957,Arlington
+7958,New Orleans
+7959,Garland
+7960,Norfolk
+7961,Tallahassee
+7962,Prague
+7963,Atlanta
+7964,Bellevue
+7965,Otawa
+7966,Venice
+7967,Charlotte
+7968,Denver
+7969,San Diego
+7970,Lincoln
+7971,Honolulu
+7972,Glendale
+7973,Honolulu
+7974,Long Beach
+7975,Houston
+7976,Huntsville
+7977,Orlando
+7978,El Paso
+7979,London
+7980,Chicago
+7981,Jersey City
+7982,St. Louis
+7983,Chicago
+7984,Denver
+7985,Salem
+7986,Arlington
+7987,Denver
+7988,Boston
+7989,Las Vegas
+7990,Milwaukee
+7991,Memphis
+7992,Oklahoma City
+7993,San Bernardino
+7994,Nashville
+7995,Louisville
+7996,Scottsdale
+7997,Dallas
+7998,Lincoln
+7999,Stockton
+8000,Salem
+8001,Madrid
+8002,Murfreesboro
+8003,El Paso
+8004,San Francisco
+8005,Phoenix
+8006,Indianapolis
+8007,Worcester
+8008,Nashville
+8009,Salt Lake City
+8010,Glendale
+8011,New Orleans
+8012,Madrid
+8013,Richmond
+8014,San Antonio
+8015,Los Angeles
+8016,Las Vegas
+8017,Arlington
+8018,Zurich
+8019,Huntsville
+8020,Springfield
+8021,Baltimore
+8022,Oakland
+8023,Laredo
+8024,Rome
+8025,Santa Ana
+8026,London
+8027,Norfolk
+8028,Scottsdale
+8029,Charlotte
+8030,Paris
+8031,Garland
+8032,Louisville
+8033,Houston
+8034,Denver
+8035,Bakersfield
+8036,Cincinnati
+8037,Springfield
+8038,Stockton
+8039,Orlando
+8040,Baltimore
+8041,Pittsburgh
+8042,Glendale
+8043,Salt Lake City
+8044,Fort Lauderdale
+8045,Atlanta
+8046,Philadelphia
+8047,Zurich
+8048,Tokyo
+8049,Worcester
+8050,Berna
+8051,Nashville
+8052,Escondido
+8053,Stockton
+8054,Pittsburgh
+8055,Indianapolis
+8056,Phoenix
+8057,Zurich
+8058,San Francisco
+8059,Omaha
+8060,Garland
+8061,Miami
+8062,Bucharest
+8063,Madrid
+8064,Huntsville
+8065,Tulsa
+8066,Stockton
+8067,Anaheim
+8068,Quebec
+8069,Reno
+8070,Lyon
+8071,Tulsa
+8072,Denver
+8073,El Paso
+8074,Henderson
+8075,Prague
+8076,Fullerton
+8077,Saint Paul
+8078,Milwaukee
+8079,Lisbon
+8080,Charlotte
+8081,Milwaukee
+8082,Huntsville
+8083,Quebec
+8084,Madison
+8085,Philadelphia
+8086,Quebec
+8087,Garland
+8088,Ontario
+8089,Reno
+8090,Louisville
+8091,London
+8092,Fayetteville
+8093,San Diego
+8094,Laredo
+8095,Zurich
+8096,Otawa
+8097,Berna
+8098,Paris
+8099,Scottsdale
+8100,London
+8101,Jersey City
+8102,Minneapolis
+8103,Long Beach
+8104,San Diego
+8105,New York
+8106,Laredo
+8107,Valetta
+8108,Hollywood
+8109,Venice
+8110,Madison
+8111,Ontario
+8112,Nashville
+8113,Long Beach
+8114,Bridgeport
+8115,Arlington
+8116,Murfreesboro
+8117,Hollywood
+8118,Berlin
+8119,Wien
+8120,Tulsa
+8121,Portland
+8122,Tulsa
+8123,Garland
+8124,St. Louis
+8125,Dallas
+8126,Madison
+8127,Saint Paul
+8128,Reno
+8129,Colorado Springs
+8130,Tokyo
+8131,Murfreesboro
+8132,Louisville
+8133,Berna
+8134,Dallas
+8135,Phoenix
+8136,Pittsburgh
+8137,Columbus
+8138,Miami
+8139,Worcester
+8140,Pittsburgh
+8141,Columbus
+8142,St. Louis
+8143,Fort Lauderdale
+8144,Jersey City
+8145,Long Beach
+8146,Wien
+8147,Los Angeles
+8148,Berlin
+8149,New York
+8150,Portland
+8151,Oakland
+8152,New Orleans
+8153,Stockton
+8154,Tokyo
+8155,San Diego
+8156,Otawa
+8157,Lincoln
+8158,Lisbon
+8159,Charlotte
+8160,Springfield
+8161,Scottsdale
+8162,Pittsburgh
+8163,Boston
+8164,New York
+8165,Fullerton
+8166,Irving
+8167,Philadelphia
+8168,Pittsburgh
+8169,Las Vegas
+8170,Scottsdale
+8171,Berlin
+8172,New Orleans
+8173,Minneapolis
+8174,Seattle
+8175,Amarillo
+8176,Rome
+8177,Louisville
+8178,Lincoln
+8179,Norfolk
+8180,Worcester
+8181,Prague
+8182,Pittsburgh
+8183,Hayward
+8184,Venice
+8185,Minneapolis
+8186,Hollywood
+8187,Garland
+8188,San Jose
+8189,Toledo
+8190,Norfolk
+8191,Dallas
+8192,Scottsdale
+8193,Rome
+8194,Denver
+8195,Salt Lake City
+8196,Berlin
+8197,Bakersfield
+8198,Salem
+8199,Escondido
+8200,Irving
+8201,Rochester
+8202,Tokyo
+8203,Amarillo
+8204,Washington
+8205,Berlin
+8206,Laredo
+8207,Rochester
+8208,Moreno Valley
+8209,Bakersfield
+8210,Milwaukee
+8211,Escondido
+8212,Quebec
+8213,Lincoln
+8214,Minneapolis
+8215,Pittsburgh
+8216,New York
+8217,Lakewood
+8218,Memphis
+8219,Omaha
+8220,Norfolk
+8221,Seattle
+8222,Orlando
+8223,Columbus
+8224,Bucharest
+8225,Amarillo
+8226,Long Beach
+8227,Quebec
+8228,Rochester
+8229,Memphis
+8230,Milwaukee
+8231,Springfield
+8232,Paris
+8233,Houston
+8234,Nashville
+8235,London
+8236,Otawa
+8237,Prague
+8238,Milano
+8239,Milwaukee
+8240,Bellevue
+8241,Santa Ana
+8242,Tulsa
+8243,St. Louis
+8244,Wien
+8245,Pittsburgh
+8246,Dallas
+8247,Rome
+8248,Paris
+8249,Orlando
+8250,Boston
+8251,Tokyo
+8252,Glendale
+8253,Irving
+8254,Nashville
+8255,Garland
+8256,Cincinnati
+8257,Berna
+8258,Venice
+8259,London
+8260,Scottsdale
+8261,Bellevue
+8262,Quebec
+8263,Milano
+8264,Fayetteville
+8265,Columbus
+8266,Salt Lake City
+8267,Innsbruck
+8268,Prague
+8269,Las Vegas
+8270,Hollywood
+8271,Richmond
+8272,London
+8273,Albuquerque
+8274,San Jose
+8275,Paris
+8276,Portland
+8277,Bellevue
+8278,New Orleans
+8279,St. Louis
+8280,St. Louis
+8281,San Antonio
+8282,Portland
+8283,Cincinnati
+8284,Tokyo
+8285,Hollywood
+8286,Saint Paul
+8287,Murfreesboro
+8288,Berna
+8289,Lisbon
+8290,Bridgeport
+8291,Memphis
+8292,Baltimore
+8293,Stockton
+8294,Miami
+8295,Quebec
+8296,Colorado Springs
+8297,Wien
+8298,Salem
+8299,Orlando
+8300,Scottsdale
+8301,San Jose
+8302,Santa Ana
+8303,Albuquerque
+8304,Chicago
+8305,Wien
+8306,Irving
+8307,Anaheim
+8308,Arlington
+8309,Henderson
+8310,Orlando
+8311,Omaha
+8312,New York
+8313,Dallas
+8314,Fayetteville
+8315,Colorado Springs
+8316,Minneapolis
+8317,Tallahassee
+8318,Berna
+8319,Ontario
+8320,Lyon
+8321,Scottsdale
+8322,Baltimore
+8323,Cincinnati
+8324,Nashville
+8325,Cincinnati
+8326,San Francisco
+8327,Memphis
+8328,Houston
+8329,San Jose
+8330,San Jose
+8331,Jacksonville
+8332,Amarillo
+8333,Ontario
+8334,Cincinnati
+8335,Berlin
+8336,Lyon
+8337,Columbus
+8338,Jersey City
+8339,Hollywood
+8340,Washington
+8341,Norfolk
+8342,Jersey City
+8343,Nashville
+8344,San Diego
+8345,Toledo
+8346,Zurich
+8347,Richmond
+8348,Lincoln
+8349,Phoenix
+8350,Irving
+8351,Oklahoma City
+8352,Lancaster
+8353,Denver
+8354,Miami
+8355,Bucharest
+8356,Saint Paul
+8357,Wien
+8358,Berlin
+8359,Moreno Valley
+8360,Oakland
+8361,Valetta
+8362,San Bernardino
+8363,Lakewood
+8364,Los Angeles
+8365,Otawa
+8366,Anaheim
+8367,Portland
+8368,Charlotte
+8369,Richmond
+8370,Houston
+8371,Los Angeles
+8372,Lisbon
+8373,Miami
+8374,Houston
+8375,Tokyo
+8376,Minneapolis
+8377,Chicago
+8378,Laredo
+8379,Albuquerque
+8380,London
+8381,Kansas City
+8382,Boston
+8383,Toledo
+8384,Los Angeles
+8385,Honolulu
+8386,Richmond
+8387,Santa Ana
+8388,Fremont
+8389,Cincinnati
+8390,Nashville
+8391,Venice
+8392,Otawa
+8393,Atlanta
+8394,Escondido
+8395,Berlin
+8396,Stockton
+8397,Seattle
+8398,Scottsdale
+8399,San Bernardino
+8400,Orlando
+8401,Murfreesboro
+8402,Innsbruck
+8403,Honolulu
+8404,Charlotte
+8405,Huntsville
+8406,Chicago
+8407,Richmond
+8408,Madrid
+8409,Louisville
+8410,Bridgeport
+8411,Salt Lake City
+8412,Honolulu
+8413,Pittsburgh
+8414,London
+8415,Oklahoma City
+8416,Kansas City
+8417,Houston
+8418,Denver
+8419,Glendale
+8420,Tulsa
+8421,Glendale
+8422,Kansas City
+8423,Rochester
+8424,Detroit
+8425,San Antonio
+8426,Tokyo
+8427,Rome
+8428,Laredo
+8429,Detroit
+8430,Charlotte
+8431,Las Vegas
+8432,New York
+8433,Nashville
+8434,Moreno Valley
+8435,San Bernardino
+8436,Fullerton
+8437,Washington
+8438,Laredo
+8439,Baltimore
+8440,Valetta
+8441,Bucharest
+8442,Valetta
+8443,Boston
+8444,Fayetteville
+8445,Kansas City
+8446,Lincoln
+8447,Quebec
+8448,Henderson
+8449,Jacksonville
+8450,Reno
+8451,San Francisco
+8452,Salem
+8453,Prague
+8454,Nashville
+8455,Fremont
+8456,Washington
+8457,Lincoln
+8458,Lincoln
+8459,Salt Lake City
+8460,El Paso
+8461,Venice
+8462,Norfolk
+8463,Tulsa
+8464,Atlanta
+8465,Pittsburgh
+8466,Boston
+8467,Scottsdale
+8468,Amarillo
+8469,Murfreesboro
+8470,Tulsa
+8471,Lakewood
+8472,Saint Paul
+8473,Minneapolis
+8474,Springfield
+8475,Tulsa
+8476,Springfield
+8477,Hollywood
+8478,Stockton
+8479,Dallas
+8480,Moreno Valley
+8481,Tokyo
+8482,Valetta
+8483,Valetta
+8484,Henderson
+8485,San Diego
+8486,Los Angeles
+8487,Richmond
+8488,Bucharest
+8489,Henderson
+8490,New Orleans
+8491,New York
+8492,Tallahassee
+8493,Wien
+8494,Charlotte
+8495,Miami
+8496,Lyon
+8497,Philadelphia
+8498,Reno
+8499,Madrid
+8500,Bucharest
+8501,Madison
+8502,Fayetteville
+8503,Columbus
+8504,Albuquerque
+8505,Detroit
+8506,Houston
+8507,El Paso
+8508,Washington
+8509,Jacksonville
+8510,Kansas City
+8511,Long Beach
+8512,Amarillo
+8513,Louisville
+8514,Zurich
+8515,Glendale
+8516,Tulsa
+8517,Worcester
+8518,Louisville
+8519,Amarillo
+8520,Venice
+8521,Lincoln
+8522,Saint Paul
+8523,Hayward
+8524,Hollywood
+8525,Bridgeport
+8526,Columbus
+8527,Rome
+8528,Louisville
+8529,Las Vegas
+8530,Rome
+8531,Omaha
+8532,Arlington
+8533,Cincinnati
+8534,Dallas
+8535,Escondido
+8536,Norfolk
+8537,Baltimore
+8538,Paris
+8539,Escondido
+8540,Baltimore
+8541,San Bernardino
+8542,Glendale
+8543,Albuquerque
+8544,Charlotte
+8545,Kansas City
+8546,Las Vegas
+8547,Philadelphia
+8548,Oakland
+8549,Toledo
+8550,Berlin
+8551,Indianapolis
+8552,Berna
+8553,Colorado Springs
+8554,Indianapolis
+8555,Amarillo
+8556,Lakewood
+8557,Jersey City
+8558,Anaheim
+8559,Worcester
+8560,Innsbruck
+8561,Salem
+8562,Madison
+8563,Zurich
+8564,Innsbruck
+8565,Fremont
+8566,Fayetteville
+8567,Boston
+8568,Jacksonville
+8569,Fayetteville
+8570,San Bernardino
+8571,Prague
+8572,San Jose
+8573,Fort Lauderdale
+8574,Denver
+8575,Bakersfield
+8576,Albuquerque
+8577,London
+8578,Honolulu
+8579,Santa Ana
+8580,Pittsburgh
+8581,Prague
+8582,Portland
+8583,Long Beach
+8584,Wien
+8585,Bakersfield
+8586,Henderson
+8587,Chicago
+8588,Garland
+8589,Oakland
+8590,Louisville
+8591,Cincinnati
+8592,Paris
+8593,Columbus
+8594,Tokyo
+8595,Omaha
+8596,London
+8597,Milano
+8598,Hollywood
+8599,Escondido
+8600,Henderson
+8601,Moreno Valley
+8602,Toledo
+8603,Dallas
+8604,Salem
+8605,Laredo
+8606,Tokyo
+8607,Nashville
+8608,Dallas
+8609,Minneapolis
+8610,Reno
+8611,Atlanta
+8612,San Francisco
+8613,Portland
+8614,Honolulu
+8615,Milano
+8616,Valetta
+8617,Denver
+8618,Garland
+8619,Denver
+8620,Oklahoma City
+8621,Scottsdale
+8622,Charlotte
+8623,Fayetteville
+8624,Sacramento
+8625,Henderson
+8626,San Diego
+8627,Santa Ana
+8628,Toledo
+8629,Worcester
+8630,Reno
+8631,Los Angeles
+8632,Madrid
+8633,Lancaster
+8634,Sacramento
+8635,Huntsville
+8636,Sacramento
+8637,Paris
+8638,Bakersfield
+8639,Honolulu
+8640,Lincoln
+8641,Hayward
+8642,Detroit
+8643,Fullerton
+8644,Hollywood
+8645,Charlotte
+8646,Seattle
+8647,Zurich
+8648,Reno
+8649,San Diego
+8650,Richmond
+8651,Innsbruck
+8652,Rochester
+8653,Glendale
+8654,Colorado Springs
+8655,Tulsa
+8656,Glendale
+8657,Lisbon
+8658,Norfolk
+8659,Salt Lake City
+8660,Lancaster
+8661,Memphis
+8662,Albuquerque
+8663,Wien
+8664,Anaheim
+8665,Hollywood
+8666,Salt Lake City
+8667,Moreno Valley
+8668,Laredo
+8669,Fullerton
+8670,Glendale
+8671,Albuquerque
+8672,Tokyo
+8673,San Jose
+8674,Bakersfield
+8675,Pittsburgh
+8676,Prague
+8677,Las Vegas
+8678,Ontario
+8679,Prague
+8680,Houston
+8681,Boston
+8682,Fayetteville
+8683,New Orleans
+8684,Springfield
+8685,Chicago
+8686,New Orleans
+8687,San Diego
+8688,Portland
+8689,Salt Lake City
+8690,Bakersfield
+8691,Fremont
+8692,Boston
+8693,Bucharest
+8694,Tallahassee
+8695,Baltimore
+8696,Saint Paul
+8697,Colorado Springs
+8698,Long Beach
+8699,Quebec
+8700,San Antonio
+8701,Anaheim
+8702,Paris
+8703,Houston
+8704,Reno
+8705,Huntsville
+8706,Rochester
+8707,Baltimore
+8708,Prague
+8709,Toledo
+8710,San Antonio
+8711,Philadelphia
+8712,Amarillo
+8713,Innsbruck
+8714,Zurich
+8715,Valetta
+8716,Paris
+8717,Pittsburgh
+8718,Dallas
+8719,Denver
+8720,Berna
+8721,San Diego
+8722,Charlotte
+8723,Wien
+8724,San Bernardino
+8725,Boston
+8726,Lyon
+8727,Lincoln
+8728,Henderson
+8729,St. Louis
+8730,Bakersfield
+8731,Fullerton
+8732,Fremont
+8733,Ontario
+8734,Huntsville
+8735,Fort Lauderdale
+8736,Lisbon
+8737,Nashville
+8738,Hayward
+8739,Atlanta
+8740,Escondido
+8741,Prague
+8742,San Antonio
+8743,Prague
+8744,St. Louis
+8745,Innsbruck
+8746,Pittsburgh
+8747,Las Vegas
+8748,Bridgeport
+8749,Lakewood
+8750,Lancaster
+8751,Berlin
+8752,Denver
+8753,Rochester
+8754,San Diego
+8755,Memphis
+8756,Oakland
+8757,Stockton
+8758,New York
+8759,Oklahoma City
+8760,Berlin
+8761,Denver
+8762,Phoenix
+8763,Berna
+8764,Bucharest
+8765,Detroit
+8766,Salem
+8767,San Bernardino
+8768,St. Louis
+8769,Boston
+8770,London
+8771,Lakewood
+8772,Philadelphia
+8773,Denver
+8774,Philadelphia
+8775,Oakland
+8776,Prague
+8777,Laredo
+8778,Houston
+8779,Anaheim
+8780,Murfreesboro
+8781,Lincoln
+8782,Valetta
+8783,Jersey City
+8784,Pittsburgh
+8785,Paris
+8786,Hayward
+8787,Berna
+8788,Rome
+8789,Phoenix
+8790,Indianapolis
+8791,Berlin
+8792,Louisville
+8793,Nashville
+8794,Scottsdale
+8795,Fort Lauderdale
+8796,Fayetteville
+8797,San Francisco
+8798,Moreno Valley
+8799,Miami
+8800,Quebec
+8801,Glendale
+8802,Sacramento
+8803,Indianapolis
+8804,Atlanta
+8805,Prague
+8806,Tokyo
+8807,Quebec
+8808,Long Beach
+8809,San Bernardino
+8810,Oklahoma City
+8811,Rome
+8812,Zurich
+8813,Tallahassee
+8814,Hollywood
+8815,Philadelphia
+8816,Los Angeles
+8817,Springfield
+8818,Moreno Valley
+8819,San Antonio
+8820,Milwaukee
+8821,Santa Ana
+8822,Long Beach
+8823,Fremont
+8824,Colorado Springs
+8825,Orlando
+8826,Orlando
+8827,Tulsa
+8828,San Diego
+8829,Cincinnati
+8830,Fremont
+8831,Madrid
+8832,Springfield
+8833,St. Louis
+8834,Anaheim
+8835,Pittsburgh
+8836,Madrid
+8837,Las Vegas
+8838,Moreno Valley
+8839,Venice
+8840,Denver
+8841,San Antonio
+8842,Stockton
+8843,Phoenix
+8844,Bellevue
+8845,New York
+8846,San Diego
+8847,Fort Lauderdale
+8848,Long Beach
+8849,Cincinnati
+8850,Valetta
+8851,Dallas
+8852,Columbus
+8853,Venice
+8854,Springfield
+8855,Boston
+8856,Atlanta
+8857,Lisbon
+8858,Sacramento
+8859,Milwaukee
+8860,Tallahassee
+8861,Milano
+8862,Berna
+8863,Lancaster
+8864,Albuquerque
+8865,Henderson
+8866,Salt Lake City
+8867,Lincoln
+8868,Sacramento
+8869,St. Louis
+8870,Madison
+8871,Houston
+8872,Phoenix
+8873,San Antonio
+8874,Irving
+8875,Albuquerque
+8876,Phoenix
+8877,Sacramento
+8878,Madison
+8879,Lakewood
+8880,New York
+8881,Washington
+8882,Albuquerque
+8883,Portland
+8884,Nashville
+8885,Hollywood
+8886,Colorado Springs
+8887,Chicago
+8888,El Paso
+8889,Valetta
+8890,Paris
+8891,Seattle
+8892,Nashville
+8893,Reno
+8894,Irving
+8895,Bridgeport
+8896,San Francisco
+8897,Oklahoma City
+8898,Miami
+8899,Milwaukee
+8900,Santa Ana
+8901,Oklahoma City
+8902,Chicago
+8903,Lisbon
+8904,Memphis
+8905,Dallas
+8906,Las Vegas
+8907,Baltimore
+8908,Escondido
+8909,Kansas City
+8910,New Orleans
+8911,Detroit
+8912,San Diego
+8913,Santa Ana
+8914,Henderson
+8915,Fullerton
+8916,Arlington
+8917,Anaheim
+8918,Garland
+8919,Salem
+8920,Zurich
+8921,Fremont
+8922,Bellevue
+8923,Jersey City
+8924,Henderson
+8925,Salt Lake City
+8926,Miami
+8927,Fullerton
+8928,Fort Lauderdale
+8929,Lyon
+8930,San Bernardino
+8931,Laredo
+8932,Kansas City
+8933,Indianapolis
+8934,Ontario
+8935,Madrid
+8936,Detroit
+8937,Kansas City
+8938,Worcester
+8939,Phoenix
+8940,Lisbon
+8941,Norfolk
+8942,Kansas City
+8943,Pittsburgh
+8944,Lakewood
+8945,Long Beach
+8946,San Antonio
+8947,Rome
+8948,Scottsdale
+8949,Reno
+8950,London
+8951,Prague
+8952,Albuquerque
+8953,Albuquerque
+8954,Pittsburgh
+8955,Bellevue
+8956,Zurich
+8957,Salem
+8958,New York
+8959,Denver
+8960,Rochester
+8961,Quebec
+8962,Irving
+8963,Arlington
+8964,Minneapolis
+8965,Seattle
+8966,Bridgeport
+8967,Stockton
+8968,Oakland
+8969,Prague
+8970,Salt Lake City
+8971,Fayetteville
+8972,Tokyo
+8973,Lancaster
+8974,Boston
+8975,Seattle
+8976,Indianapolis
+8977,Chicago
+8978,London
+8979,Santa Ana
+8980,Garland
+8981,Huntsville
+8982,London
+8983,Springfield
+8984,Fremont
+8985,Salt Lake City
+8986,Fullerton
+8987,Norfolk
+8988,Prague
+8989,Charlotte
+8990,Tokyo
+8991,Lancaster
+8992,St. Louis
+8993,Indianapolis
+8994,Milano
+8995,Lyon
+8996,Nashville
+8997,Huntsville
+8998,Minneapolis
+8999,Oklahoma City
+9000,Pittsburgh
+9001,Otawa
+9002,Hayward
+9003,Detroit
+9004,Columbus
+9005,Nashville
+9006,Oakland
+9007,Columbus
+9008,Quebec
+9009,Nashville
+9010,Los Angeles
+9011,Lakewood
+9012,San Bernardino
+9013,Stockton
+9014,San Bernardino
+9015,Memphis
+9016,Fremont
+9017,Innsbruck
+9018,Fremont
+9019,Salem
+9020,Valetta
+9021,Irving
+9022,Seattle
+9023,Santa Ana
+9024,Oakland
+9025,Atlanta
+9026,Jacksonville
+9027,Columbus
+9028,Henderson
+9029,Kansas City
+9030,Wien
+9031,Atlanta
+9032,Fort Lauderdale
+9033,Lakewood
+9034,Bakersfield
+9035,Columbus
+9036,Salt Lake City
+9037,Rome
+9038,Hayward
+9039,Washington
+9040,Valetta
+9041,Zurich
+9042,Las Vegas
+9043,Indianapolis
+9044,Rochester
+9045,Bellevue
+9046,Moreno Valley
+9047,Paris
+9048,Worcester
+9049,Salem
+9050,London
+9051,Fayetteville
+9052,Garland
+9053,Salt Lake City
+9054,Bakersfield
+9055,Lyon
+9056,Washington
+9057,Milwaukee
+9058,Denver
+9059,Bakersfield
+9060,New Orleans
+9061,Bakersfield
+9062,Madison
+9063,San Antonio
+9064,Memphis
+9065,Salem
+9066,Los Angeles
+9067,Hollywood
+9068,Lyon
+9069,Jersey City
+9070,Richmond
+9071,Salt Lake City
+9072,Springfield
+9073,St. Louis
+9074,Portland
+9075,Wien
+9076,Oakland
+9077,Amarillo
+9078,Saint Paul
+9079,New Orleans
+9080,Prague
+9081,Scottsdale
+9082,Milwaukee
+9083,Honolulu
+9084,Portland
+9085,Hollywood
+9086,Kansas City
+9087,Lisbon
+9088,Colorado Springs
+9089,Ontario
+9090,Escondido
+9091,Fayetteville
+9092,Madrid
+9093,Reno
+9094,Santa Ana
+9095,St. Louis
+9096,Lakewood
+9097,Bellevue
+9098,Laredo
+9099,Fullerton
+9100,Springfield
+9101,Houston
+9102,Laredo
+9103,Long Beach
+9104,Ontario
+9105,Arlington
+9106,Bridgeport
+9107,Bucharest
+9108,Escondido
+9109,Milwaukee
+9110,Nashville
+9111,London
+9112,Indianapolis
+9113,Columbus
+9114,San Francisco
+9115,Fullerton
+9116,Fayetteville
+9117,Scottsdale
+9118,Norfolk
+9119,Tallahassee
+9120,Lisbon
+9121,Reno
+9122,Boston
+9123,Huntsville
+9124,Las Vegas
+9125,Ontario
+9126,Reno
+9127,Oakland
+9128,Murfreesboro
+9129,Murfreesboro
+9130,Paris
+9131,New Orleans
+9132,Jacksonville
+9133,Dallas
+9134,Salt Lake City
+9135,Hollywood
+9136,Valetta
+9137,Otawa
+9138,Hayward
+9139,San Diego
+9140,Long Beach
+9141,Boston
+9142,Prague
+9143,Prague
+9144,Jacksonville
+9145,New York
+9146,Dallas
+9147,Colorado Springs
+9148,San Francisco
+9149,Glendale
+9150,Salem
+9151,Garland
+9152,Paris
+9153,New York
+9154,Amarillo
+9155,Reno
+9156,San Diego
+9157,Jersey City
+9158,San Francisco
+9159,Bucharest
+9160,Tulsa
+9161,Venice
+9162,Madison
+9163,Houston
+9164,San Bernardino
+9165,Colorado Springs
+9166,Lancaster
+9167,Baltimore
+9168,Atlanta
+9169,Seattle
+9170,Tulsa
+9171,Seattle
+9172,Houston
+9173,Springfield
+9174,Amarillo
+9175,San Antonio
+9176,Norfolk
+9177,Madison
+9178,Bellevue
+9179,Wien
+9180,Berna
+9181,Amarillo
+9182,Minneapolis
+9183,Pittsburgh
+9184,Garland
+9185,El Paso
+9186,Zurich
+9187,Lakewood
+9188,Otawa
+9189,Madrid
+9190,Springfield
+9191,Bellevue
+9192,Minneapolis
+9193,Portland
+9194,Quebec
+9195,Madrid
+9196,Prague
+9197,Norfolk
+9198,El Paso
+9199,Bucharest
+9200,Garland
+9201,Glendale
+9202,Escondido
+9203,Hollywood
+9204,Garland
+9205,Philadelphia
+9206,New Orleans
+9207,Houston
+9208,Fullerton
+9209,Henderson
+9210,Prague
+9211,Ontario
+9212,Toledo
+9213,Garland
+9214,San Diego
+9215,Lancaster
+9216,Columbus
+9217,Santa Ana
+9218,Madison
+9219,Norfolk
+9220,Springfield
+9221,Prague
+9222,Salt Lake City
+9223,Salt Lake City
+9224,Venice
+9225,London
+9226,Milwaukee
+9227,Amarillo
+9228,Louisville
+9229,Tulsa
+9230,Fayetteville
+9231,Bucharest
+9232,Saint Paul
+9233,Bellevue
+9234,Jacksonville
+9235,Columbus
+9236,Sacramento
+9237,Zurich
+9238,San Jose
+9239,Indianapolis
+9240,Minneapolis
+9241,Scottsdale
+9242,Berlin
+9243,Omaha
+9244,Dallas
+9245,Zurich
+9246,Ontario
+9247,Tokyo
+9248,Arlington
+9249,San Jose
+9250,Colorado Springs
+9251,Fullerton
+9252,Oklahoma City
+9253,New York
+9254,Omaha
+9255,San Diego
+9256,Los Angeles
+9257,Laredo
+9258,Tokyo
+9259,Berlin
+9260,Portland
+9261,Columbus
+9262,Zurich
+9263,Valetta
+9264,Wien
+9265,Moreno Valley
+9266,Milano
+9267,Charlotte
+9268,Rome
+9269,Venice
+9270,Venice
+9271,Memphis
+9272,Madrid
+9273,Tokyo
+9274,Fremont
+9275,Glendale
+9276,Portland
+9277,New Orleans
+9278,Madison
+9279,Saint Paul
+9280,St. Louis
+9281,Bucharest
+9282,Irving
+9283,Lisbon
+9284,Jacksonville
+9285,Stockton
+9286,Milano
+9287,Pittsburgh
+9288,Columbus
+9289,Boston
+9290,Lakewood
+9291,Milano
+9292,St. Louis
+9293,Chicago
+9294,Columbus
+9295,Prague
+9296,Innsbruck
+9297,Atlanta
+9298,Oklahoma City
+9299,Honolulu
+9300,Philadelphia
+9301,Richmond
+9302,Oklahoma City
+9303,Nashville
+9304,Berna
+9305,Rome
+9306,Omaha
+9307,Madison
+9308,Arlington
+9309,Cincinnati
+9310,Los Angeles
+9311,Kansas City
+9312,Oakland
+9313,Miami
+9314,Columbus
+9315,Glendale
+9316,Huntsville
+9317,Washington
+9318,Dallas
+9319,Amarillo
+9320,Memphis
+9321,Baltimore
+9322,Nashville
+9323,Washington
+9324,Ontario
+9325,Orlando
+9326,Venice
+9327,New York
+9328,Indianapolis
+9329,Honolulu
+9330,Columbus
+9331,Washington
+9332,Lisbon
+9333,Worcester
+9334,Los Angeles
+9335,Denver
+9336,Chicago
+9337,San Francisco
+9338,Scottsdale
+9339,Innsbruck
+9340,San Diego
+9341,Lisbon
+9342,Springfield
+9343,Lakewood
+9344,Chicago
+9345,Phoenix
+9346,Santa Ana
+9347,San Bernardino
+9348,Lakewood
+9349,Houston
+9350,Hayward
+9351,Berlin
+9352,Philadelphia
+9353,Omaha
+9354,Fremont
+9355,Fayetteville
+9356,Glendale
+9357,Rochester
+9358,Innsbruck
+9359,Norfolk
+9360,Scottsdale
+9361,Sacramento
+9362,Milwaukee
+9363,London
+9364,Henderson
+9365,Valetta
+9366,Laredo
+9367,Henderson
+9368,Cincinnati
+9369,Orlando
+9370,San Francisco
+9371,Worcester
+9372,Prague
+9373,Valetta
+9374,Madrid
+9375,Innsbruck
+9376,London
+9377,Berna
+9378,Glendale
+9379,Valetta
+9380,Phoenix
+9381,Toledo
+9382,Lisbon
+9383,Irving
+9384,Fayetteville
+9385,Pittsburgh
+9386,Orlando
+9387,Orlando
+9388,Amarillo
+9389,Sacramento
+9390,St. Louis
+9391,Garland
+9392,Stockton
+9393,Columbus
+9394,Sacramento
+9395,Honolulu
+9396,Hollywood
+9397,Tokyo
+9398,Prague
+9399,Ontario
+9400,Oklahoma City
+9401,Sacramento
+9402,Fort Lauderdale
+9403,Louisville
+9404,Valetta
+9405,Jersey City
+9406,Bellevue
+9407,Orlando
+9408,Paris
+9409,Madrid
+9410,Otawa
+9411,San Jose
+9412,Zurich
+9413,Glendale
+9414,Garland
+9415,Milano
+9416,Fremont
+9417,San Francisco
+9418,Nashville
+9419,Berna
+9420,Amarillo
+9421,Oakland
+9422,Paris
+9423,Wien
+9424,Richmond
+9425,Wien
+9426,Miami
+9427,Fort Lauderdale
+9428,Moreno Valley
+9429,Milano
+9430,Memphis
+9431,Long Beach
+9432,Otawa
+9433,Houston
+9434,Honolulu
+9435,Lisbon
+9436,Fullerton
+9437,Lancaster
+9438,Memphis
+9439,Portland
+9440,Murfreesboro
+9441,Quebec
+9442,Escondido
+9443,Tulsa
+9444,Las Vegas
+9445,Berlin
+9446,Amarillo
+9447,Escondido
+9448,Nashville
+9449,Bellevue
+9450,Arlington
+9451,Anaheim
+9452,Los Angeles
+9453,St. Louis
+9454,Fort Lauderdale
+9455,Baltimore
+9456,Madison
+9457,Ontario
+9458,Memphis
+9459,Minneapolis
+9460,Santa Ana
+9461,Milwaukee
+9462,Oakland
+9463,Pittsburgh
+9464,Fort Lauderdale
+9465,San Francisco
+9466,Otawa
+9467,Saint Paul
+9468,Amarillo
+9469,Tallahassee
+9470,New Orleans
+9471,Lyon
+9472,Bakersfield
+9473,Chicago
+9474,Charlotte
+9475,Amarillo
+9476,Springfield
+9477,Fremont
+9478,Toledo
+9479,Jersey City
+9480,Henderson
+9481,Laredo
+9482,Portland
+9483,Scottsdale
+9484,Albuquerque
+9485,Fremont
+9486,Columbus
+9487,San Jose
+9488,Anaheim
+9489,Bakersfield
+9490,Tulsa
+9491,Lakewood
+9492,Zurich
+9493,Berlin
+9494,Tokyo
+9495,Milano
+9496,Garland
+9497,Saint Paul
+9498,Louisville
+9499,Lancaster
+9500,Boston
+9501,Zurich
+9502,Minneapolis
+9503,Milwaukee
+9504,Anaheim
+9505,Jersey City
+9506,Murfreesboro
+9507,Jersey City
+9508,London
+9509,Kansas City
+9510,Seattle
+9511,Glendale
+9512,Hollywood
+9513,Lyon
+9514,Albuquerque
+9515,Anaheim
+9516,Kansas City
+9517,Henderson
+9518,Orlando
+9519,Oklahoma City
+9520,Moreno Valley
+9521,St. Louis
+9522,Las Vegas
+9523,Glendale
+9524,Cincinnati
+9525,Sacramento
+9526,Irving
+9527,Rochester
+9528,Berna
+9529,Indianapolis
+9530,Dallas
+9531,Glendale
+9532,Albuquerque
+9533,Madison
+9534,Tokyo
+9535,Colorado Springs
+9536,Portland
+9537,Baltimore
+9538,Fullerton
+9539,Norfolk
+9540,Salt Lake City
+9541,Zurich
+9542,Lyon
+9543,Springfield
+9544,Los Angeles
+9545,Reno
+9546,Honolulu
+9547,Minneapolis
+9548,Otawa
+9549,Louisville
+9550,Escondido
+9551,Laredo
+9552,Fort Lauderdale
+9553,New York
+9554,San Bernardino
+9555,New York
+9556,London
+9557,Oklahoma City
+9558,Nashville
+9559,Las Vegas
+9560,Scottsdale
+9561,Long Beach
+9562,San Antonio
+9563,Amarillo
+9564,San Diego
+9565,New Orleans
+9566,Lancaster
+9567,Oklahoma City
+9568,Norfolk
+9569,Berna
+9570,Santa Ana
+9571,Valetta
+9572,Bellevue
+9573,Milano
+9574,Valetta
+9575,San Jose
+9576,Escondido
+9577,New Orleans
+9578,Salt Lake City
+9579,Quebec
+9580,Jacksonville
+9581,Long Beach
+9582,Milano
+9583,Lisbon
+9584,Denver
+9585,Madison
+9586,Otawa
+9587,Washington
+9588,Anaheim
+9589,Fort Lauderdale
+9590,San Jose
+9591,Washington
+9592,Chicago
+9593,Bucharest
+9594,Madrid
+9595,Jacksonville
+9596,Tulsa
+9597,Ontario
+9598,Lakewood
+9599,Rochester
+9600,Bakersfield
+9601,London
+9602,San Francisco
+9603,Jersey City
+9604,Fremont
+9605,El Paso
+9606,Lyon
+9607,Dallas
+9608,Milano
+9609,Miami
+9610,Anaheim
+9611,Detroit
+9612,San Jose
+9613,St. Louis
+9614,Rochester
+9615,Jersey City
+9616,Glendale
+9617,Colorado Springs
+9618,Baltimore
+9619,Toledo
+9620,Glendale
+9621,Garland
+9622,Honolulu
+9623,Glendale
+9624,Lincoln
+9625,Orlando
+9626,Charlotte
+9627,Bellevue
+9628,Bakersfield
+9629,Fremont
+9630,Detroit
+9631,Boston
+9632,Irving
+9633,Berlin
+9634,Berlin
+9635,San Jose
+9636,Las Vegas
+9637,Jersey City
+9638,San Jose
+9639,Arlington
+9640,Orlando
+9641,Wien
+9642,Portland
+9643,Bellevue
+9644,Murfreesboro
+9645,Tulsa
+9646,Huntsville
+9647,Paris
+9648,Baltimore
+9649,Denver
+9650,Huntsville
+9651,Jacksonville
+9652,Escondido
+9653,Santa Ana
+9654,San Francisco
+9655,San Antonio
+9656,Chicago
+9657,Rome
+9658,Rochester
+9659,Bellevue
+9660,Las Vegas
+9661,Detroit
+9662,Tulsa
+9663,San Bernardino
+9664,Columbus
+9665,Valetta
+9666,Paris
+9667,Chicago
+9668,San Jose
+9669,Baltimore
+9670,Escondido
+9671,Saint Paul
+9672,Madrid
+9673,Rome
+9674,Fremont
+9675,Colorado Springs
+9676,Orlando
+9677,Los Angeles
+9678,Washington
+9679,Atlanta
+9680,New Orleans
+9681,Prague
+9682,Seattle
+9683,Fullerton
+9684,Oakland
+9685,Ontario
+9686,Huntsville
+9687,El Paso
+9688,Tulsa
+9689,Bakersfield
+9690,Charlotte
+9691,Berna
+9692,Lincoln
+9693,Salem
+9694,St. Louis
+9695,Lancaster
+9696,Oklahoma City
+9697,Las Vegas
+9698,San Diego
+9699,Salt Lake City
+9700,Seattle
+9701,Berna
+9702,Santa Ana
+9703,Quebec
+9704,San Bernardino
+9705,Minneapolis
+9706,Madrid
+9707,Moreno Valley
+9708,Richmond
+9709,Scottsdale
+9710,Zurich
+9711,Prague
+9712,Kansas City
+9713,Otawa
+9714,Anaheim
+9715,Salem
+9716,Chicago
+9717,Scottsdale
+9718,Richmond
+9719,Rome
+9720,Chicago
+9721,Garland
+9722,Huntsville
+9723,Garland
+9724,El Paso
+9725,Glendale
+9726,New Orleans
+9727,Richmond
+9728,Salem
+9729,Lyon
+9730,Arlington
+9731,Milano
+9732,Laredo
+9733,Albuquerque
+9734,Henderson
+9735,Bakersfield
+9736,Venice
+9737,San Francisco
+9738,Bakersfield
+9739,San Francisco
+9740,Otawa
+9741,Laredo
+9742,Cincinnati
+9743,Las Vegas
+9744,Prague
+9745,Laredo
+9746,Jersey City
+9747,San Francisco
+9748,Columbus
+9749,Ontario
+9750,Fort Lauderdale
+9751,Charlotte
+9752,San Antonio
+9753,Milwaukee
+9754,Anaheim
+9755,Ontario
+9756,Oklahoma City
+9757,Milano
+9758,Stockton
+9759,Lisbon
+9760,Baltimore
+9761,Salem
+9762,Murfreesboro
+9763,Denver
+9764,Washington
+9765,San Bernardino
+9766,Worcester
+9767,Norfolk
+9768,Omaha
+9769,Rome
+9770,Tallahassee
+9771,Stockton
+9772,Milano
+9773,Baltimore
+9774,Glendale
+9775,St. Louis
+9776,Worcester
+9777,Las Vegas
+9778,San Diego
+9779,Reno
+9780,Saint Paul
+9781,Paris
+9782,San Diego
+9783,Richmond
+9784,El Paso
+9785,Minneapolis
+9786,Phoenix
+9787,Denver
+9788,Columbus
+9789,Lincoln
+9790,Saint Paul
+9791,Orlando
+9792,Innsbruck
+9793,Ontario
+9794,San Diego
+9795,Orlando
+9796,Sacramento
+9797,Worcester
+9798,Dallas
+9799,El Paso
+9800,Saint Paul
+9801,Arlington
+9802,Baltimore
+9803,Ontario
+9804,Baltimore
+9805,Lyon
+9806,Indianapolis
+9807,Lyon
+9808,Kansas City
+9809,Nashville
+9810,Atlanta
+9811,New Orleans
+9812,Amarillo
+9813,Valetta
+9814,Springfield
+9815,Anaheim
+9816,Phoenix
+9817,San Francisco
+9818,Arlington
+9819,Norfolk
+9820,Paris
+9821,Springfield
+9822,London
+9823,Oklahoma City
+9824,Amarillo
+9825,Hayward
+9826,Lakewood
+9827,Louisville
+9828,Innsbruck
+9829,Seattle
+9830,Bridgeport
+9831,Bucharest
+9832,Washington
+9833,Irving
+9834,Stockton
+9835,Long Beach
+9836,Madrid
+9837,Madison
+9838,San Francisco
+9839,Philadelphia
+9840,Berlin
+9841,Irving
+9842,Venice
+9843,Escondido
+9844,San Diego
+9845,Lincoln
+9846,Rome
+9847,Glendale
+9848,Bridgeport
+9849,Amarillo
+9850,Santa Ana
+9851,Garland
+9852,Nashville
+9853,Irving
+9854,Oakland
+9855,Laredo
+9856,El Paso
+9857,Escondido
+9858,Fort Lauderdale
+9859,Hollywood
+9860,Denver
+9861,Lisbon
+9862,Jacksonville
+9863,Portland
+9864,Sacramento
+9865,Oklahoma City
+9866,Boston
+9867,Arlington
+9868,Garland
+9869,Toledo
+9870,Innsbruck
+9871,Kansas City
+9872,Quebec
+9873,Valetta
+9874,Fayetteville
+9875,Oklahoma City
+9876,Chicago
+9877,Bakersfield
+9878,Fullerton
+9879,El Paso
+9880,Escondido
+9881,Tokyo
+9882,Houston
+9883,St. Louis
+9884,Scottsdale
+9885,Zurich
+9886,Pittsburgh
+9887,Sacramento
+9888,Fullerton
+9889,Amarillo
+9890,Miami
+9891,Bakersfield
+9892,Long Beach
+9893,Seattle
+9894,Reno
+9895,El Paso
+9896,Honolulu
+9897,Stockton
+9898,Anaheim
+9899,Lincoln
+9900,Glendale
+9901,Memphis
+9902,New Orleans
+9903,San Diego
+9904,Oakland
+9905,Scottsdale
+9906,Garland
+9907,New York
+9908,Saint Paul
+9909,Rochester
+9910,Pittsburgh
+9911,Santa Ana
+9912,Long Beach
+9913,Memphis
+9914,Otawa
+9915,Bakersfield
+9916,Memphis
+9917,Madison
+9918,Jersey City
+9919,Nashville
+9920,Hayward
+9921,San Diego
+9922,St. Louis
+9923,Zurich
+9924,Dallas
+9925,Fort Lauderdale
+9926,Philadelphia
+9927,Dallas
+9928,Pittsburgh
+9929,Paris
+9930,Anaheim
+9931,Seattle
+9932,Madison
+9933,Berlin
+9934,Tokyo
+9935,Milwaukee
+9936,Atlanta
+9937,Kansas City
+9938,Columbus
+9939,Bucharest
+9940,Wien
+9941,Colorado Springs
+9942,Fayetteville
+9943,Houston
+9944,Memphis
+9945,Irving
+9946,Houston
+9947,Ontario
+9948,Irving
+9949,Lancaster
+9950,Fremont
+9951,Louisville
+9952,Philadelphia
+9953,Nashville
+9954,Salem
+9955,Escondido
+9956,Venice
+9957,Rochester
+9958,Charlotte
+9959,Omaha
+9960,Reno
+9961,Sacramento
+9962,Albuquerque
+9963,Valetta
+9964,Worcester
+9965,Washington
+9966,Washington
+9967,Springfield
+9968,Boston
+9969,Irving
+9970,Columbus
+9971,Wien
+9972,Lakewood
+9973,Jersey City
+9974,Memphis
+9975,Tokyo
+9976,Chicago
+9977,Tulsa
+9978,Bakersfield
+9979,Norfolk
+9980,London
+9981,Santa Ana
+9982,Las Vegas
+9983,Fayetteville
+9984,San Diego
+9985,Boston
+9986,Atlanta
+9987,Richmond
+9988,Phoenix
+9989,Houston
+9990,Ontario
+9991,Nashville
+9992,Tallahassee
+9993,Tokyo
+9994,Escondido
+9995,Valetta
+9996,San Diego
+9997,Irving
+9998,Rochester
+9999,Huntsville
+10000,Zurich
+
