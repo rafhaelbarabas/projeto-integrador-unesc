@@ -16,12 +16,15 @@ public class Product {
     private BigDecimal price;
 
     @ManyToOne
+    @JoinColumn(name = "category_id", foreignKey = @ForeignKey(name = "FK_PROD_CAT"))
     private Category category;
 
     @ManyToOne
+    @JoinColumn(name = "brand_id", foreignKey = @ForeignKey(name = "FK_PROD_BRA"))
     private Brand brand;
 
     @ManyToOne
+    @JoinColumn(name = "model_id", foreignKey = @ForeignKey(name = "FK_PROD_MOD"))
     private Model model;
 
     public Product() {

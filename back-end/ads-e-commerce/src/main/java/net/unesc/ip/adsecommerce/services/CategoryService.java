@@ -1,5 +1,7 @@
 package net.unesc.ip.adsecommerce.services;
 
+import com.opencsv.CSVReader;
+import com.opencsv.exceptions.CsvException;
 import net.unesc.ip.adsecommerce.entities.Category;
 import net.unesc.ip.adsecommerce.repositories.CategoryRepository;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
@@ -26,19 +28,26 @@ public class CategoryService {
 
     public void fillDatabaseFromCSV() throws IOException {
         LOG.info("Buscando os dados do CSV de Categorias");
-        List<String[]> categoriesCSV = csvHelper.getCategoriesCSV();
-        int csvSize = categoriesCSV.size();
-        LOG.info("Quantidade de registros encontrados: " + csvSize);
-        LOG.info("Inserindo registros no banco de dados: ");
-        int counter = 0;
-        for (String[] line : categoriesCSV) {
-            ++counter;
-            LOG.info("Inserindo: " + counter + "/" + csvSize);
-            Long id = Long.valueOf(line[0]);
-            String description = line[1];
-            persist(id, description);
+
+        try (CSVReader reader = csvHelper.getCategoriesCSV()) {
+            List<String[]> categoriesCSV = reader.readAll();
+            int csvSize = categoriesCSV.size();
+            LOG.info("Quantidade de registros encontrados: " + csvSize);
+            LOG.info("Inserindo registros no banco de dados: ");
+            int counter = 0;
+            for (String[] line : categoriesCSV) {
+                if (line.length >= 1 && !line[0].isBlank()) {
+                    ++counter;
+                    LOG.info("Inserindo: " + counter + "/" + csvSize);
+                    Long id = Long.valueOf(line[0]);
+                    String description = line[1];
+                    persist(id, description);
+                }
+            }
+            LOG.info("Fim da inserção de categorias");
+        } catch (CsvException e) {
+            e.printStackTrace();
         }
-        LOG.info("Fim da inserção de categorias");
     }
 
     public void persist(Long id, String description) {

@@ -1,5 +1,8 @@
 package net.unesc.ip.adsecommerce.services;
 
+import com.opencsv.CSVReader;
+import com.opencsv.exceptions.CsvException;
+import net.unesc.ip.adsecommerce.api.dto.ProductDTO;
 import net.unesc.ip.adsecommerce.entities.Product;
 import net.unesc.ip.adsecommerce.repositories.ProductRepository;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
@@ -10,6 +13,7 @@ import org.springframework.stereotype.Service;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class ProductService {
@@ -32,23 +36,29 @@ public class ProductService {
 
     public void fillDatabaseFromCSV() throws IOException {
         LOG.info("Buscando os dados do CSV de Produtos");
-        List<String[]> productsCSV = csvHelper.getProductsCSV();
-        int csvSize = productsCSV.size();
-        LOG.info("Quantidade de registros encontrados: " + csvSize);
-        LOG.info("Inserindo registros no banco de dados: ");
-        int counter = 0;
-        for (String[] column : productsCSV) {
-            ++counter;
-            LOG.info("Inserindo: " + counter + "/" + csvSize);
-            Long id = Long.valueOf(column[0]);
-            String description = column[1];
-            BigDecimal price = new BigDecimal(column[2]);
-            Long categoryId = Long.valueOf(column[3]);
-            Long brandId = Long.valueOf(column[4]);
-            Long modelId = Long.valueOf(column[5]);
-            persist(id, description, price, categoryId, brandId, modelId);
+        try (CSVReader reader = csvHelper.getProductsCSV()) {
+            List<String[]> productsCSV = reader.readAll();
+            int csvSize = productsCSV.size();
+            LOG.info("Quantidade de registros encontrados: " + csvSize);
+            LOG.info("Inserindo registros no banco de dados: ");
+            int counter = 0;
+            for (String[] line : productsCSV) {
+                if (line.length >= 1 && !line[0].isBlank()) {
+                    ++counter;
+                    LOG.info("Inserindo: " + counter + "/" + csvSize);
+                    Long id = Long.valueOf(line[0]);
+                    String description = line[1];
+                    BigDecimal price = new BigDecimal(line[2]);
+                    Long categoryId = Long.valueOf(line[3]);
+                    Long brandId = Long.valueOf(line[4]);
+                    Long modelId = Long.valueOf(line[5]);
+                    persist(id, description, price, categoryId, brandId, modelId);
+                }
+            }
+            LOG.info("Fim da inserção de modelos");
+        } catch (CsvException e) {
+            e.printStackTrace();
         }
-        LOG.info("Fim da inserção de modelos");
     }
 
     public void persist(Long id, String description, BigDecimal price, Long categoryId, Long brandId, Long modelId) {
@@ -64,5 +74,13 @@ public class ProductService {
 
     public long getDbCount() {
         return productRepository.count();
+    }
+
+    public List<ProductDTO> findAll() {
+        return productRepository
+                .findAll()
+                .stream()
+                .map(ProductDTO::new)
+                .collect(Collectors.toList());
     }
 }

@@ -1,5 +1,7 @@
 package net.unesc.ip.adsecommerce.services;
 
+import com.opencsv.CSVReader;
+import com.opencsv.exceptions.CsvException;
 import net.unesc.ip.adsecommerce.entities.Brand;
 import net.unesc.ip.adsecommerce.repositories.BrandRepository;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
@@ -26,19 +28,27 @@ public class BrandService {
 
     public void fillDatabaseFromCSV() throws IOException {
         LOG.info("Buscando os dados do CSV de Marcas");
-        List<String[]> brandsCSV = csvHelper.getBrandsCSV();
-        int csvSize = brandsCSV.size();
-        LOG.info("Quantidade de registros encontrados: " + csvSize);
-        LOG.info("Inserindo registros no banco de dados: ");
-        int counter = 0;
-        for (String[] line : brandsCSV) {
-            ++counter;
-            LOG.info("Inserindo: " + counter + "/" + csvSize);
-            Long id = Long.valueOf(line[0]);
-            String description = line[1];
-            persist(id, description);
+
+        try (CSVReader reader = csvHelper.getBrandsCSV()) {
+            List<String[]> brandsCSV = reader.readAll();
+            int csvSize = brandsCSV.size();
+            LOG.info("Quantidade de registros encontrados: " + csvSize);
+            LOG.info("Inserindo registros no banco de dados: ");
+            int counter = 0;
+            for (String[] line : brandsCSV) {
+                if (line.length >= 1 && !line[0].isBlank()) {
+                    ++counter;
+                    LOG.info("Inserindo: " + counter + "/" + csvSize);
+                    Long id = Long.valueOf(line[0]);
+                    String description = line[1];
+                    persist(id, description);
+                }
+            }
+            LOG.info("Fim da inserção de marcas");
+
+        } catch (CsvException e) {
+            e.printStackTrace();
         }
-        LOG.info("Fim da inserção de marcas");
     }
 
     public void persist(Long id, String description) {
