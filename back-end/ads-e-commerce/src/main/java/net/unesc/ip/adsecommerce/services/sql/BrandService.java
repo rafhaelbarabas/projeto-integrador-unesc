@@ -1,4 +1,4 @@
-package net.unesc.ip.adsecommerce.services;
+package net.unesc.ip.adsecommerce.services.sql;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
