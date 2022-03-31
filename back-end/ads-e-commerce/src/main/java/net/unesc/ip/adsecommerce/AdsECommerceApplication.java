@@ -1,5 +1,8 @@
 package net.unesc.ip.adsecommerce;
 
+import net.unesc.ip.adsecommerce.repositories.nosql.BrandNoSQLRepository;
+import net.unesc.ip.adsecommerce.repositories.nosql.CategoryNoSQLRepository;
+import net.unesc.ip.adsecommerce.repositories.nosql.ModelNoSQLRepository;
 import net.unesc.ip.adsecommerce.repositories.nosql.ProductNoSQLRepository;
 import net.unesc.ip.adsecommerce.repositories.sql.BrandRepository;
 import net.unesc.ip.adsecommerce.repositories.sql.CategoryRepository;
@@ -20,7 +23,12 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
         ModelRepository.class,
         ProductRepository.class
 })
-@EnableMongoRepositories(basePackageClasses = ProductNoSQLRepository.class)
+@EnableMongoRepositories(basePackageClasses = {
+        BrandNoSQLRepository.class,
+        CategoryNoSQLRepository.class,
+        ModelNoSQLRepository.class,
+        ProductNoSQLRepository.class
+})
 @SpringBootApplication
 public class AdsECommerceApplication implements CommandLineRunner {
 

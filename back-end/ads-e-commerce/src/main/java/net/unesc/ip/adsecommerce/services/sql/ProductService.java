@@ -58,7 +58,7 @@ public class ProductService {
                     persist(id, description, price, categoryId, brandId, modelId);
                 }
             }
-            LOG.info("Fim da inserção de modelos");
+            LOG.info("Fim da inserção de produtos");
         } catch (CsvException e) {
             e.printStackTrace();
         }
