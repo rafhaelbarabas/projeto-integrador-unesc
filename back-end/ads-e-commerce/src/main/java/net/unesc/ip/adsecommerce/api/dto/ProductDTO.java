@@ -1,6 +1,6 @@
 package net.unesc.ip.adsecommerce.api.dto;
 
-import net.unesc.ip.adsecommerce.entities.Product;
+import net.unesc.ip.adsecommerce.entities.sql.Product;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package net.unesc.ip.adsecommerce.config;
+package net.unesc.ip.adsecommerce.config.initialization;
 
 import net.unesc.ip.adsecommerce.services.BrandService;
 import net.unesc.ip.adsecommerce.services.CategoryService;

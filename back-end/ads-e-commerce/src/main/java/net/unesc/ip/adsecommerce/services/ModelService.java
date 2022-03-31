@@ -2,7 +2,7 @@ package net.unesc.ip.adsecommerce.services;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
-import net.unesc.ip.adsecommerce.entities.Model;
+import net.unesc.ip.adsecommerce.entities.sql.Model;
 import net.unesc.ip.adsecommerce.repositories.sql.ModelRepository;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
 import org.slf4j.Logger;

@@ -1,6 +1,6 @@
 package net.unesc.ip.adsecommerce.repositories.sql.dao;
 
-import net.unesc.ip.adsecommerce.entities.Product;
+import net.unesc.ip.adsecommerce.entities.sql.Product;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.EntityManager;

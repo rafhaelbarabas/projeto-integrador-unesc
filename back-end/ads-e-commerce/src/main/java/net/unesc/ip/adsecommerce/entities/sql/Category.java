@@ -1,25 +1,26 @@
-package net.unesc.ip.adsecommerce.entities;
+package net.unesc.ip.adsecommerce.entities.sql;
 
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
 @Entity
-@Table(name = "modelos")
-public class Model {
+@Table(name = "categorias")
+public class Category {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String description;
 
-    @OneToMany(mappedBy = "model")
+    @OneToMany(mappedBy = "category")
     private List<Product> products = new ArrayList<>();
 
-    public Model() {
+    public Category() {
+
     }
 
-    public Model(Long id, String description) {
+    public Category(Long id, String description) {
         this.id = id;
         this.description = description;
     }
@@ -36,11 +37,19 @@ public class Model {
         return description;
     }
 
-    public void setDescription(String description) {
-        this.description = description;
+    public void setDescription(String name) {
+        this.description = name;
     }
 
     public List<Product> getProducts() {
         return products;
+    }
+
+    public void addProducts(Product product) {
+        this.products.add(product);
+    }
+
+    public void removeProducts(Product product) {
+        this.products.remove(product);
     }
 }

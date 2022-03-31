@@ -3,7 +3,7 @@ package net.unesc.ip.adsecommerce.services;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 import net.unesc.ip.adsecommerce.api.dto.ProductDTO;
-import net.unesc.ip.adsecommerce.entities.Product;
+import net.unesc.ip.adsecommerce.entities.sql.Product;
 import net.unesc.ip.adsecommerce.repositories.sql.ProductRepository;
 import net.unesc.ip.adsecommerce.repositories.sql.dao.ProductDao;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;

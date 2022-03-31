@@ -1,4 +1,4 @@
-package net.unesc.ip.adsecommerce.entities;
+package net.unesc.ip.adsecommerce.entities.sql;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
