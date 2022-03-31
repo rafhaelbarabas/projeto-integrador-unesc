@@ -1,4 +1,4 @@
-package net.unesc.ip.adsecommerce.repositories;
+package net.unesc.ip.adsecommerce.repositories.sql;
 
 import net.unesc.ip.adsecommerce.entities.Brand;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -4,7 +4,8 @@ import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 import net.unesc.ip.adsecommerce.api.dto.ProductDTO;
 import net.unesc.ip.adsecommerce.entities.Product;
-import net.unesc.ip.adsecommerce.repositories.ProductRepository;
+import net.unesc.ip.adsecommerce.repositories.sql.ProductRepository;
+import net.unesc.ip.adsecommerce.repositories.sql.dao.ProductDao;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -25,13 +26,15 @@ public class ProductService {
     private final ModelService modelService;
     private final ProductRepository productRepository;
     private final CSVHelper csvHelper;
+    private final ProductDao productDao;
 
-    public ProductService(BrandService brandService, CategoryService categoryService, ModelService modelService, ProductRepository productRepository, CSVHelper csvHelper) {
+    public ProductService(BrandService brandService, CategoryService categoryService, ModelService modelService, ProductRepository productRepository, CSVHelper csvHelper, ProductDao productDao) {
         this.brandService = brandService;
         this.categoryService = categoryService;
         this.modelService = modelService;
         this.productRepository = productRepository;
         this.csvHelper = csvHelper;
+        this.productDao = productDao;
     }
 
     public void fillDatabaseFromCSV() throws IOException {
@@ -79,6 +82,13 @@ public class ProductService {
     public List<ProductDTO> findAll() {
         return productRepository
                 .findAll()
+                .stream()
+                .map(ProductDTO::new)
+                .collect(Collectors.toList());
+    }
+
+    public List<ProductDTO> find(List<String> brands, List<String> models, List<String> categories) {
+        return productDao.findByFilters(brands, models, categories)
                 .stream()
                 .map(ProductDTO::new)
                 .collect(Collectors.toList());
