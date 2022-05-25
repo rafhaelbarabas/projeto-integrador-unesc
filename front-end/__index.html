@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ADS-E-COMMERCE</title>
+</head>
+
+<div style="max-width: 1024px;">
+
+  Selecione o tipo de banco para fazer a consulta<br>
+  <select id="selectzao">
+    <option value="relacional">relacional</option>
+    <option value="não relacional">não relacional</option>
+  </select>
+
+  <br>
+  <br>
+  <br>
+
+  Consulta ao banco relacional
+  <br>
+  <br>
+  Quantidade simultanea de usuários
+  <input  value="1"/>
+  <button>Consultar</button>
+  <br>
+  
+  <textarea style="width:100%">Resultados da pesquisa</textarea>
+
+  <br>
+  <br>
+  Tempo de resposta: 10ms<br>
+  Consumo de memória: 241mb<br>
+  Uso de processador: 16%<br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <script>
+    var value = document.getElementById(selectzao).selected;
+    console.log(value);
+    document.createElement("p", {value}).innerHTML;
+  </script>
+ 
+</div>
+</body>
+</html>
