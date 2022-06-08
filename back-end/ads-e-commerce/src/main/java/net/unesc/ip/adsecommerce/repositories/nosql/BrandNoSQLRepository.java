@@ -4,4 +4,7 @@ import net.unesc.ip.adsecommerce.entities.nosql.BrandNoSQL;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface BrandNoSQLRepository extends MongoRepository<BrandNoSQL, Long> {
+    BrandNoSQL findById(String id);
+
+    BrandNoSQL findByDescriptionContaining(String description);
 }

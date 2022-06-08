@@ -2,13 +2,20 @@ package net.unesc.ip.adsecommerce.services.nosql;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
+import net.unesc.ip.adsecommerce.api.dto.ProductDTO;
+import net.unesc.ip.adsecommerce.entities.nosql.BrandNoSQL;
+import net.unesc.ip.adsecommerce.entities.nosql.CategoryNoSQL;
+import net.unesc.ip.adsecommerce.entities.nosql.ModelNoSQL;
 import net.unesc.ip.adsecommerce.entities.nosql.ProductNoSQL;
 import net.unesc.ip.adsecommerce.repositories.nosql.ProductNoSQLRepository;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
+import javax.persistence.EntityNotFoundException;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.List;
@@ -18,12 +25,18 @@ public class ProductNoSQLService {
 
     private static final Logger LOG = LoggerFactory.getLogger(ProductNoSQLService.class);
 
-    private final ProductNoSQLRepository productNoSQLRepository;
     private final CSVHelper csvHelper;
+    private final ProductNoSQLRepository productNoSQLRepository;
+    private final CategoryNoSQLService categoryNoSQLService;
+    private final ModelNoSQLService modelNoSQLService;
+    private final BrandNoSQLService brandNoSQLService;
 
-    public ProductNoSQLService(ProductNoSQLRepository productNoSQLRepository, CSVHelper csvHelper) {
-        this.productNoSQLRepository = productNoSQLRepository;
+    public ProductNoSQLService(CSVHelper csvHelper, ProductNoSQLRepository productNoSQLRepository, CategoryNoSQLService categoryNoSQLService, ModelNoSQLService modelNoSQLService, BrandNoSQLService brandNoSQLService) {
         this.csvHelper = csvHelper;
+        this.productNoSQLRepository = productNoSQLRepository;
+        this.categoryNoSQLService = categoryNoSQLService;
+        this.modelNoSQLService = modelNoSQLService;
+        this.brandNoSQLService = brandNoSQLService;
     }
 
     public void fillDatabaseFromCSV() throws IOException {
@@ -68,7 +81,26 @@ public class ProductNoSQLService {
         return productNoSQLRepository.count();
     }
 
+    public Page<ProductNoSQL> findAll(Pageable pageable) {
+        return productNoSQLRepository.findAll(pageable);
+    }
+
     public List<ProductNoSQL> findAll() {
         return productNoSQLRepository.findAll();
     }
+
+    public ProductDTO toProductDTO(ProductNoSQL productNoSQL) {
+        // TODO: Arrumar consulta
+        CategoryNoSQL categoryNoSQL = null; // categoryNoSQLService.findById(productNoSQL.getCategoryId());
+        ModelNoSQL modelNoSQL = null;       // modelNoSQLService.findById(productNoSQL.getModelId());
+        BrandNoSQL brandNoSQL = null;       // brandNoSQLService.findById(productNoSQL.getBrandId());
+        return new ProductDTO(productNoSQL, categoryNoSQL, brandNoSQL, modelNoSQL);
+    }
+
+    public ProductNoSQL findById(Long id) {
+        return productNoSQLRepository.findById(id)
+                .orElseThrow(EntityNotFoundException::new);
+    }
+
+    // TODO: Criar métodos para busca com parâmetros igual no relacional
 }

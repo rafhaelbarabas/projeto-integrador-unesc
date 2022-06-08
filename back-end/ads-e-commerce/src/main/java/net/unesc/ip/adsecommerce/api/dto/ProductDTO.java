@@ -1,10 +1,13 @@
 package net.unesc.ip.adsecommerce.api.dto;
 
+import net.unesc.ip.adsecommerce.entities.nosql.BrandNoSQL;
+import net.unesc.ip.adsecommerce.entities.nosql.CategoryNoSQL;
+import net.unesc.ip.adsecommerce.entities.nosql.ModelNoSQL;
 import net.unesc.ip.adsecommerce.entities.nosql.ProductNoSQL;
 import net.unesc.ip.adsecommerce.entities.sql.Product;
-import net.unesc.ip.adsecommerce.services.nosql.ProductNoSQLService;
 
 import java.math.BigDecimal;
+import java.util.Random;
 
 public class ProductDTO {
 
@@ -29,17 +32,32 @@ public class ProductDTO {
         this.model = product.getModel().getDescription();
     }
 
-    // TODO: Criar um método no service para fazer essa conversão
-    public ProductDTO(ProductNoSQL productNoSQL) {
+    public ProductDTO(ProductNoSQL productNoSQL, CategoryNoSQL categoryNoSQL,
+                      BrandNoSQL brandNoSQL, ModelNoSQL modelNoSQL) {
         this.id = Long.valueOf(productNoSQL.getId());
         this.description = productNoSQL.getDescription();
         this.price = productNoSQL.getPrice();
-        this.category = "TODO";
-        this.brand = "TODO";
-        this.model = "TODO";
+        this.category = randomize("CAT");
+        this.brand = randomize("BRA");
+        this.model = randomize("MOD");
     }
 
-
+    private String randomize(String option) {
+        String[] defaults = {"Foo", "Bar", "Jar"};
+        String[] categories = {"Coffee", "Flowers", "Dishware", "Cosmetics", "Poultry", "Condiments"};
+        String[] brands = {"Mars", "Leadertech Consulting", "21st Century Fox", "ExxonMobil", "Areon Impex", "Mars"};
+        String[] models = {"Charlotte", "Philadelphia", "Chicago", "Innsbruck", "Salem", "Minneapolis", "Lisbon"};
+        switch (option) {
+            case "CAT":
+                return categories[new Random().nextInt(categories.length)];
+            case "BRA":
+                return brands[new Random().nextInt(brands.length)];
+            case "MOD":
+                return models[new Random().nextInt(models.length)];
+        }
+        int i = new Random().nextInt(defaults.length);
+        return defaults[i];
+    }
 
     public Long getId() {
         return id;

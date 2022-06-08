@@ -1,5 +1,4 @@
 version: "3.1"
-# TODO: adicionar services: MySQL e MongoDB
 services:
   prometheus:
     image: prom/prometheus:latest
@@ -12,6 +11,28 @@ services:
       - "9090:9090"
     extra_hosts:
       - "host.docker.internal:host-gateway"
+  mysql:
+    image: mysql:5.7
+    container_name: mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: 'ads-ecommerce'
+      MYSQL_USER: 'mysql'
+      MYSQL_PASSWORD: 'mysql'
+      MYSQL_ROOT_PASSWORD: 'mysql'
+      MYSQL_ROOT_HOST: '%'
+    ports:
+      - "3306:3306"
+# TODO: Ajustar para subir o mongo com docker, autenticação não ta funfando
+#  mongodb_container:
+#    image: mongo:latest
+#    ports:
+#      - "27017:27017"
+#    volumes:
+#      - ~/apps/mongo:/data/db
+#    environment:
+#      - MONGO_INITDB_ROOT_USERNAME=root
+#      - MONGO_INITDB_ROOT_PASSWORD=ads
 
 volumes:
   adsecommerce_data:

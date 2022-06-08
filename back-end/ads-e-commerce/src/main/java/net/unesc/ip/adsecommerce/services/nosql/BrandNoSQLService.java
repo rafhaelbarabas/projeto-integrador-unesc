@@ -60,5 +60,8 @@ public class BrandNoSQLService {
         return brandNoSQLRepository.findAll();
     }
 
+    public BrandNoSQL findById(String id) {
+        return brandNoSQLRepository.findById(id);
+    }
 
 }

@@ -1,6 +1,7 @@
 package net.unesc.ip.adsecommerce.repositories.sql.dao;
 
 import net.unesc.ip.adsecommerce.entities.sql.Product;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.EntityManager;
@@ -28,6 +29,10 @@ public class ProductDao {
     }
 
     public List<Product> findByFilters(List<String> brands, List<String> models, List<String> categories) {
+        return findByFilters(brands, models, categories, Pageable.unpaged());
+    }
+
+    public List<Product> findByFilters(List<String> brands, List<String> models, List<String> categories, Pageable page) {
 
         String jpql = "SELECT p FROM Product p " +
                 "JOIN p.brand b " +
@@ -55,6 +60,12 @@ public class ProductDao {
         }
         if (categories != null && !categories.isEmpty()) {
             query.setParameter("categories", parseParamValues(categories));
+        }
+
+        if (page.isPaged()) {
+            query
+                .setMaxResults(page.getPageSize())
+                .setFirstResult(page.getPageNumber() * page.getPageSize());
         }
 
         return query.getResultList();

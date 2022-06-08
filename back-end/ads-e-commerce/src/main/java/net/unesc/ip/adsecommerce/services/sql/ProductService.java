@@ -9,6 +9,7 @@ import net.unesc.ip.adsecommerce.repositories.sql.dao.ProductDao;
 import net.unesc.ip.adsecommerce.utils.CSVHelper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -89,6 +90,13 @@ public class ProductService {
 
     public List<ProductDTO> find(List<String> brands, List<String> models, List<String> categories) {
         return productDao.findByFilters(brands, models, categories)
+                .stream()
+                .map(ProductDTO::new)
+                .collect(Collectors.toList());
+    }
+
+    public List<ProductDTO> find(List<String> brands, List<String> models, List<String> categories, Pageable pageable) {
+        return productDao.findByFilters(brands, models, categories, pageable)
                 .stream()
                 .map(ProductDTO::new)
                 .collect(Collectors.toList());

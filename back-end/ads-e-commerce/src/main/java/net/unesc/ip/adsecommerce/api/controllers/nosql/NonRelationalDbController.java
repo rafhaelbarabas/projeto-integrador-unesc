@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 @Timed
 @RestController
 @RequestMapping("/non-relational-db")
+@Timed
 public class NonRelationalDbController {
     private final ProductNoSQLService productNoSQLService;
 
@@ -23,14 +24,16 @@ public class NonRelationalDbController {
     }
 
     @GetMapping("/products")
-    public ResponseEntity<List<ProductDTO>> getProductsFromNoSQLDatabase(
+    @Timed(value = "non-relational-db")
+    public ResponseEntity getProductsFromNoSQLDatabase(
             @RequestParam(value = "brands", required = false) List<String> brands,
             @RequestParam(value = "models", required = false) List<String> models,
             @RequestParam(value = "categories", required = false) List<String> categories) {
 
         List<ProductDTO> products = productNoSQLService.findAll()
+                .subList(0, 10)
                 .stream()
-                .map(ProductDTO::new)
+                .map(productNoSQLService::toProductDTO)
                 .collect(Collectors.toList());
 
         return ResponseEntity

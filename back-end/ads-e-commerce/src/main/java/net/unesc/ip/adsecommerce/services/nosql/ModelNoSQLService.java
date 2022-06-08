@@ -60,5 +60,8 @@ public class ModelNoSQLService {
         return modelNoSQLRepository.findAll();
     }
 
+    public ModelNoSQL findById(String id) {
+        return modelNoSQLRepository.findById(id);
+    }
 
 }

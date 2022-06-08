@@ -60,5 +60,7 @@ public class CategoryNoSQLService {
         return categoryNoSQLRepository.findAll();
     }
 
-
+    public CategoryNoSQL findById(String id) {
+        return categoryNoSQLRepository.findById(id);
+    }
 }
