@@ -1,15 +1,57 @@
-# ADS-ECOMMERCE - Projeto Integrador I & II" - UNESC
+# Projeto Integrador II - UNESC - Back-end
+Desenvolvido por Rafhael Andrade e Guilherme Silveira.
 
-# Desenvolvedores:
-* Rafhael de Andrade Barabas - Analista de Back-end III na TOTVS.
-* Guilherme Silveira - Cientista de Dados na Betha Sistemas.
+# Tecnologias
+Desenvolvido em Java, utilizando ferramentas do ecossistema Spring framework.
+- Java 11
+- Spring Boot 2.6.5
+- Spring Actuator
+- Prometheus
+- Instrumentação com micrometer
+- Persistência bilingue para os bancos de dados:
+  - MySQL
+  - MongoDB
 
-# Sobre a aplicação
-Aplicação desenvolvida com intuito de realizar uma análise comparativa entre duas tecnologias de banco de dados, relacional e não relacional, dentro de um contexto de um catálogo de produtos de um E-Commerce convencional, a fim de realizar uma coleta de dados medindo a performance da aplicação em diversos cenários e apresentar uma comparação dos resultados.
+# Conceito
+Trata-se de uma aplicação que expoe uma API com rotas para realizar consultas em diferentes tecnologias de bancos de dados e gerar métricas para medição do desempenho em cada tecnologia. 
 
-# Tecnologias utilizadas
-* Linguagem de programação: Java
-* Framework: Spring
-* Banco de dados relacional: MySQL 8
-* Banco de dados não relacional: MongoDB 4
-* Métricas e Monitoramento: Prometheus - Em desenvolvimento
+As bases de dados são geradas automaticamente pelo hibernate e são populadas na primeira inicialização através de uma técnica de leitura de arquivos CSV que foram gerados com dados aleatórios nessa ferramenta: https://www.onlinedatagenerator.com/ 
+
+# Requisitos:
+- Maven 3.6.3
+- Java 11 / JDK recomendada: openjdk 11.0.6 2020-01-14 
+- Docker e Docker-Compose
+- MongoDB v4 - (Em breve estará incluso no docker)
+
+# Como executar:
+
+Utilizando um terminal / cmd com permissões de administrador, execute os comandos abaixo:
+
+Iniciar banco de dados MySQL e Prometheus:
+
+<pre>
+  <code>docker-compose up</code>
+</pre>
+
+Instalar dependencias:
+
+<pre>
+  <code>mvn clean install</code>
+</pre>
+
+Iniciar:
+
+<pre>
+  <code>mvn spring-boot:start</code>
+</pre>
+
+Parar:
+
+<pre>
+  <code>mvn spring-boot:stop</code>
+</pre>
+
+Em breve toda aplicação será disponibilizada em uma única imagem docker.
+
+# Preview
+<a href="https://ibb.co/0yCTCJ4"><img src="https://i.ibb.co/nM797kd/image.png" alt="image" border="0"></a>
