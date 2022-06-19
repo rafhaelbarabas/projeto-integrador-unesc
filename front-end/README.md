@@ -3,7 +3,13 @@
 Desenvolvido por Rafhael Andrade e Guilherme Silveira
 
 # Tecnologias
-Desenvolvido em React, utilizando algumas libs para melhor estilização e Axios para realizar requisições para o back-end.
+Desenvolvido em HTML, CSS e Javascript, com uso do framework React, utilizando algumas libs para melhor estilização e Axios para realizar requisições para o back-end.
+
+- HTML / CSS / Javascript (ES6)
+- React 18
+- Bootstrap 5
+- Axios 
+- Phosphor-react
 
 # Conceito
 Trata-se de uma interface simples, com opções de simular uma determinada quantidade de requisições a serem executadas em uma aplicação que roda diferentes tipos de bancos de dados e apresentar registros de performance das requisições para que o usuário possa determinar qual tecnologia foi mais performática.
