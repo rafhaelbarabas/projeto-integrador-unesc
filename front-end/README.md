@@ -22,6 +22,8 @@ Para que a aplicação funcione corretamente, é necessário estar rodando o bac
 
 # Como executar:
 
+Utilizando um terminal / cmd com permissões de administrador, execute os comandos abaixo:
+
 Instalar dependencias:
 
 <pre>
