@@ -12,7 +12,8 @@ Trata-se de uma interface simples, com opções de simular uma determinada quant
 - npm - versão 6 ou superior
 - Node js - versão 12 ou superior
 
-Para que a aplicação funcione corretamente, é necessário estar rodando o back-end, veja instruções aqui.
+Para que a aplicação funcione corretamente, é necessário estar rodando o back-end, veja instruções <a href="https://github.com/rafhaelbarabas/projeto-integrador-unesc/tree/main/back-end/ads-e-commerce#readme">aqui.</a>
+
 # Como executar:
 
 Instalar dependencias:
