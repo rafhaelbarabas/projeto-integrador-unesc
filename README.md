@@ -16,5 +16,10 @@ Uma API que expoe duas rotas, uma para cada tecnolgia de banco de dados, e essa 
 
 - <b>Métricas</b> - São geradas a partir do Spring Actuator a as rotas da API foram instrumentados para o Prometheus com a biblioteca io.micrometer
 
+<a href="https://github.com/rafhaelbarabas/projeto-integrador-unesc/tree/main/back-end/ads-e-commerce#readme">Mais informações aqui</a>
+
 # Front-end
 Uma interface simples onde temos a possibilidade de simular uma determinada quantidade de usuários simultâneos executando requisições para API, o usuário pode escolher qual banco deseja testar e executar uma série de requisições para obter as métricas de desempenho.
+
+<a href="https://github.com/rafhaelbarabas/projeto-integrador-unesc/tree/main/front-end#readme">Mais informações aqui</a>
+
