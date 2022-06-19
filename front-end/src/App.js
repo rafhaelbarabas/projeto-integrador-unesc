@@ -19,18 +19,17 @@ function App() {
   });
 
   const handleSearchButtonClick = async () => {
+    setShowLoading(() => true);
     let lastTime = 0;
     let totalTime = 0;
     let memoryUsage = 0;
     let cpuUsage = 0;
-    setShowLoading(() => true);
     let products = [];
     const path = `${pathResource}/products`;
     for (let i = 0; i < userQuantitySimulation; i++) {
       const { data } = await api.get(path);
       products = data;
       lastTime = await getLastRequestTime();
-      console.log(`LAST TIME - ${i} -`, lastTime);
       totalTime += lastTime;
     }
     setProducts(() => products);
@@ -46,14 +45,6 @@ function App() {
     memoryUsage,
     cpuUsage
   ) => {
-    console.log(
-      "CAIU NA HANDLEMETRICAS ",
-      lastTime,
-      avgTime,
-      totalTime,
-      memoryUsage,
-      cpuUsage
-    );
     setMetrics((prev) => {
       return {
         ...prev,
@@ -196,8 +187,11 @@ function App() {
             <p>Tempo da última requisição: {metrics.lastTime} (s)</p>
             <p>Média de tempo de resposta: {metrics.avgTime} (s)</p>
             <p>Tempo total gasto: {metrics.totalTime} (s)</p>
-            <p>Consumo de memória: {metrics.memoryUsage} (mb)</p>
-            <p>Uso de processador: {metrics.cpuUsage} (clock /s)</p>
+            <p>
+              <b>**** Métricas em desenvolvimento ****</b>
+            </p>
+            <p>* Consumo de memória: {metrics.memoryUsage} (mb)</p>
+            <p>* Uso de processador: {metrics.cpuUsage} (%)</p>
           </div>
         </div>
       </div>
