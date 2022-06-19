@@ -10,13 +10,11 @@ Equipe: Rafhael Andrade e Guilherme Oliveira.
 # Back-end
 Uma API que expoe duas rotas, uma para cada tecnolgia de banco de dados, e essa aplicação também é a responsável por gerar as métricas de desempenho.
 
-Relacional (MySQL)
+- <b>Relacional (MySQL)</b> - http://{SERVICE_URL}/relational-db/products
 
-http://{SERVICE_URL}/relational-db/products
+- <b>Não relacional (MongoDB)</b> - http://{SERVICE_URL}/non-relational-db/products
 
-Não relacional (MongoDB)
-
-http://{SERVICE_URL}/non-relational-db/products
+- <b>Métricas</b> - São geradas a partir do Spring Actuator a as rotas da API foram instrumentados para o Prometheus com a biblioteca io.micrometer
 
 # Front-end
 Uma interface simples onde temos a possibilidade de simular uma determinada quantidade de usuários simultâneos executando requisições para API, o usuário pode escolher qual banco deseja testar e executar uma série de requisições para obter as métricas de desempenho.
