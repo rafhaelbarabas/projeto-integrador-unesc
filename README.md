@@ -1,0 +1,20 @@
+# Projeto Integrador II - UNESC
+Este é o reposótorio do projeto integrador II, do curso de análise e desenvolvimento de sistemas, da Unesc.
+
+O projeto conciste em uma pequena aplicação, divida em front-end e back-end, que tem finalidade de pesquisa cientifica, onde o intuito é realizar a comparação entre duas tecnologias diferentes de bancos de dados, relacional e não relacional e apresentar métricas de performance entre elas para que o usuário possa visualizar qual a tecnologia foi mais performática.
+
+Para esse projeto, estamos simulando um contexto de um catalogo de produtos de um e-commerce, com aproximadamente 150 mil registros.
+
+Equipe: Rafhael Andrade e Guilherme Oliveira.
+
+# Back-end
+Uma API que expoe duas rotas, uma para cada tecnolgia de banco de dados, e essa aplicação também é a responsável por gerar as métricas de desempenho.
+
+Relacional: MySQL
+http://{SERVICE_URL}/relational-db/products
+
+Não relacional: MongoDB
+http://{SERVICE_URL}/non-relational-db/products
+
+# Front-end
+Uma interface simples onde temos a possibilidade de simular uma determinada quantidade de usuários simultâneos executando requisições para API, o usuário pode escolher qual banco deseja testar e executar uma série de requisições para obter as métricas de desempenho.
