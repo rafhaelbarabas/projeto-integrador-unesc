@@ -10,10 +10,12 @@ Equipe: Rafhael Andrade e Guilherme Oliveira.
 # Back-end
 Uma API que expoe duas rotas, uma para cada tecnolgia de banco de dados, e essa aplicação também é a responsável por gerar as métricas de desempenho.
 
-Relacional: MySQL
+Relacional (MySQL)
+
 http://{SERVICE_URL}/relational-db/products
 
-Não relacional: MongoDB
+Não relacional (MongoDB)
+
 http://{SERVICE_URL}/non-relational-db/products
 
 # Front-end
